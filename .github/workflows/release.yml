@@ -1,0 +1,57 @@
+name: Release
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 16 * * *'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.17
+
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          path: repo
+
+      - name: Run
+        id: run
+        run: |
+          cd repo
+          go run main.go
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add autoproxy.txt
+          git diff-index --quiet HEAD || echo ::set-output name=new_data::1
+          echo "::set-output name=date::$(TZ=PRC date +'%Y-%m-%d')"
+          echo "::set-output name=tag::$(TZ=PRC date +'%Y%m%d%H%M')"
+
+      - name: Commit
+        if: steps.run.outputs.new_data == 1
+        run: |
+          cd repo
+          git commit -m "${{ steps.run.outputs.date }}"
+          git push
+          sed -i "s|\$time\$|${{ steps.run.outputs.date }}|" autoproxy.txt
+          base64 autoproxy.txt > ../autoproxy.txt
+          sha256sum autoproxy.txt > ../autoproxy.txt.sha256sum
+          git checkout --orphan release
+          git rm -rf .
+          cp ../autoproxy.txt* .
+          git add autoproxy.txt autoproxy.txt.sha256sum
+          git commit -m "${{ steps.run.outputs.date }}"
+          git push origin release
+
+      - name: Create Release
+        if: steps.run.outputs.new_data == 1
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.run.outputs.tag }}
+          name: ${{ steps.run.outputs.date }}
+          files: autoproxy.txt*
