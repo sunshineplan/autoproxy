@@ -39,7 +39,7 @@ jobs:
           sed -i "s|\$time\$|${{ steps.run.outputs.date }}|" autoproxy.txt
           base64 autoproxy.txt > ../autoproxy.txt
           sha256sum autoproxy.txt > ../autoproxy.txt.sha256sum
-          git checkout --b release
+          git checkout -b release
           cp ../autoproxy.txt* .
           git add autoproxy.txt autoproxy.txt.sha256sum
           git commit -m "${{ steps.run.outputs.date }}"
