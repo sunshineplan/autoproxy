@@ -29,7 +29,7 @@ func main() {
 
 	w := txt.NewWriter(f)
 	w.WriteLine("[AutoProxy 0.2.9]")
-	w.WriteLine("! Last Modified: $time$")
+	w.WriteLine("! Last Modified: $time")
 	w.WriteLine("! Expires: 24h")
 	w.WriteLine("! HomePage: https://github.com/sunshineplan/autoproxy")
 	w.WriteLine("! GitHub URL: https://raw.githubusercontent.com/sunshineplan/autoproxy/release/autoproxy.txt")
