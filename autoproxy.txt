@@ -2718,6 +2718,7 @@
 ||cdn77.org
 ||cloudflare-dns.com
 ||cloudflare-ipfs.com
+||cloudflare-quic.com
 ||cloudflare.com
 ||cloudflare.net
 ||cloudflareapps.com
