@@ -36,9 +36,9 @@ jobs:
           cd repo
           git commit -m "${{ steps.run.outputs.date }}"
           git push
-          sed -i "s|\$time|${{ steps.run.outputs.date }}|" autoproxy.txt
-          base64 autoproxy.txt > ../autoproxy.txt
-          sha256sum autoproxy.txt > ../autoproxy.txt.sha256sum
+          sed "s|\$time|${{ steps.run.outputs.date }}|" autoproxy.txt > ../autoproxy.tmp
+          base64 ../autoproxy.tmp > ../autoproxy.txt
+          sha256sum ../autoproxy.tmp > ../autoproxy.txt.sha256sum
           git switch --orphan release
           cp ../autoproxy.txt* .
           git add autoproxy.txt autoproxy.txt.sha256sum
