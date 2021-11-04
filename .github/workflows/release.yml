@@ -43,7 +43,7 @@ jobs:
           cp ../autoproxy.txt* .
           git add autoproxy.txt autoproxy.txt.sha256sum
           git commit -m "${{ steps.run.outputs.date }}"
-          git push origin release
+          git push -f origin release
 
       - name: Create Release
         if: steps.run.outputs.new_data == 1
