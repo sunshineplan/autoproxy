@@ -7349,6 +7349,7 @@
 ||java.net
 ||jetbrains.com
 ||jetbrains.net
+||jetbrains.team
 ||datalore.io
 ||kotlinlang.org
 ||jfrog.com
@@ -11818,6 +11819,7 @@
 ||mozilla.community
 ||mozilla.net
 ||mozilla.org
+||extensionworkshop.com
 ||bugzilla.org
 ||getpocket.com
 ||seamonkey-project.org
