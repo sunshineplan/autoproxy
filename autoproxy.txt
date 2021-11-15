@@ -6874,6 +6874,7 @@
 ||arphic.com.cn
 ||arphic.com.tw
 ||ifontcloud.com
+||authy.com
 ||bit.ly
 ||bitly.com
 ||bitly.is
