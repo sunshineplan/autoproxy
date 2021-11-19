@@ -4021,6 +4021,7 @@
 ||altmetric.com
 ||analytictech.com
 ||annualreviews.org
+||aps.org
 ||arxiv.org
 ||asha.org
 ||berkeley.edu
