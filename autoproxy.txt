@@ -5231,6 +5231,9 @@
 ||weverse.io
 ||yande.re
 ||0x0.st
+||casimages.com
+||cloudinary.com
+||cloudinary.net
 ||db.tt
 ||dropbox-dns.com
 ||dropbox.com
@@ -5262,6 +5265,8 @@
 ||imgur.com
 ||imgurinc.com
 ||pixhost.to
+||postimages.org
+||postimg.cc
 ||pstorage.space
 ||rmbl.ws
 ||rumble.com
@@ -11615,6 +11620,7 @@
 ||microsoft.lu
 ||microsoft.lv
 ||microsoft.md
+||microsoft.net
 ||microsoft.pl
 ||microsoft.pt
 ||microsoft.red
