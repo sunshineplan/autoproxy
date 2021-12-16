@@ -7041,6 +7041,7 @@
 ||notion-static.com
 ||notion.new
 ||ok.ru
+||okaapps.com
 ||opencollective.com
 ||osdn.net
 ||pastebin.com
