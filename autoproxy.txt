@@ -7043,6 +7043,8 @@
 ||notion.so
 ||notion-static.com
 ||notion.new
+||notion.site
+||notion.com
 ||ok.ru
 ||okaapps.com
 ||opencollective.com
