@@ -7040,11 +7040,11 @@
 ||mpv.io
 ||netlify.com
 ||bitballoon.com
-||notion.so
 ||notion-static.com
+||notion.com
 ||notion.new
 ||notion.site
-||notion.com
+||notion.so
 ||ok.ru
 ||okaapps.com
 ||opencollective.com
@@ -7234,6 +7234,7 @@
 ||ubuntu.com
 ||ubuntu.net
 ||ubuntuforums.org
+||ubuntu-touch.io
 ||canonical.com
 ||dart.dev
 ||dartlang.org
