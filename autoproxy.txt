@@ -7475,6 +7475,7 @@
 ||pypi.org
 ||python.org
 ||pythonhosted.org
+||piwheels.org
 ||qt.io
 ||qt-project.org
 ||readthedocs-hosted.com
