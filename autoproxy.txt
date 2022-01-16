@@ -12551,6 +12551,7 @@
 ||ssplive.pw
 ||ssrpass.pw
 ||stc-server.com
+||hutao.cloud
 ||cursecdn.com
 ||fandom.com
 ||wikia.com
