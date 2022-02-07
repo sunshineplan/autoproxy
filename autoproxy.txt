@@ -859,8 +859,6 @@
 ||taboola.com
 ||citizenlab.ca
 ||citizenlab.org
-||gfw.press
-||gfw.report
 ||applecensorship.com
 ||freebrowser.org
 ||freewechat.com
@@ -887,6 +885,7 @@
 ||freenetproject.org
 ||fteproxy.org
 ||geti2p.net
+||gfw.report
 ||guardianproject.info
 ||ipfs.io
 ||jitsi.org
@@ -3792,6 +3791,8 @@
 ||elsevier.io
 ||engineeringvillage.com
 ||evise.com
+||fundinginstitutional.com
+||scival.com
 ||scopus.com
 |http://scholar.google.ae
 |https://scholar.google.ae
@@ -4097,6 +4098,7 @@
 ||mdpi.com
 ||medrxiv.org
 ||nature.com
+||naturemag.org
 ||nejm.org
 ||neurology.org
 ||nii.ac.jp
@@ -4112,6 +4114,7 @@
 ||rsc.org
 ||sagepub.com
 ||scholarpedia.org
+||science.com
 ||science.org
 ||sciencemag.org
 ||scientificamerican.com
@@ -4594,6 +4597,11 @@
 ||gog.com
 ||gog-statics.com
 /^cdn-akamai-.+\.gog-services\.com$/
+||mihayou.com
+||mihoyo.com
+||bh3.com
+||yuanshen.com
+||benghuai.com
 ||100classicbooks.com
 ||amiibo.com
 ||ayudanintendo.com
@@ -12616,6 +12624,7 @@
 ||cordcloud.org
 ||ctyun.online
 ||geph.io
+||gfw.press
 ||maying.co
 ||mocloudplus.com
 ||mray.club
