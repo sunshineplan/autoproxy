@@ -4427,12 +4427,13 @@
 ||directv.com
 ||dtvce.com
 ||nettyinternet.com
-||gamer.com.tw
+||bahamut.akamaized.net
 ||bahamut.com.tw
-|http://gamer-cds.cdn.hinet.net
-|https://gamer-cds.cdn.hinet.net
+||gamer.com.tw
 |http://gamer2-cds.cdn.hinet.net
 |https://gamer2-cds.cdn.hinet.net
+|http://gamer-cds.cdn.hinet.net
+|https://gamer-cds.cdn.hinet.net
 ||bandcamp.com
 ||bcbits.com
 ||blizzard.com
