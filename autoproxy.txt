@@ -4207,6 +4207,8 @@
 ||worldscientific.com
 ||yale.edu
 ||zenodo.org
+|http://angle.com.tw
+|https://angle.com.tw
 |http://beck-online.beck.de
 |https://beck-online.beck.de
 |http://dl.begellhouse.com
@@ -4689,11 +4691,14 @@
 ||gog.com
 ||gog-statics.com
 /^cdn-akamai-.+\.gog-services\.com$/
+||hoyoverse.com
 ||mihayou.com
 ||mihoyo.com
-||bh3.com
-||yuanshen.com
 ||benghuai.com
+||bh3.com
+||honkaistarrail.com
+||hoyolab.com
+||yuanshen.com
 ||100classicbooks.com
 ||amiibo.com
 ||ayudanintendo.com
