@@ -5636,7 +5636,6 @@
 ||cbs
 ||showtime
 ||cbs.com
-||cbsaavideo.com
 ||cbscorporation.com
 ||cbsi.com
 ||cbsi.video
@@ -5656,6 +5655,19 @@
 ||viacomcbs.com
 ||viacomcbspressexpress.com
 ||paramount.com
+||amlg.io
+||cbsaavideo.com
+||mtvnservices.com
+||paramountplus.com
+||pplusstatic.com
+|http://cbsi.live.ott.irdeto.com
+|https://cbsi.live.ott.irdeto.com
+|http://cbsplaylistserver.aws.syncbak.com
+|https://cbsplaylistserver.aws.syncbak.com
+|http://cbsservice.aws.syncbak.com
+|https://cbsservice.aws.syncbak.com
+|http://link.theplatform.com
+|https://link.theplatform.com
 ||cnbc.com
 ||cnbcfm.com
 ||nbcuni.com
