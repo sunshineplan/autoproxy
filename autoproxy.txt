@@ -4887,6 +4887,7 @@
 ||steam-chat.com
 ||steamcommunity.com
 ||steamcontent.com
+||steamdeck.com
 ||steamgames.com
 ||steampowered.com
 ||steamstatic.com
