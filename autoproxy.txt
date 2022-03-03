@@ -7652,6 +7652,7 @@
 ||vfsforgit.com
 ||vfsforgit.org
 ||vsassets.io
+||vscode.dev
 ||xamarin.com
 |http://developer.microsoft.com
 |https://developer.microsoft.com
