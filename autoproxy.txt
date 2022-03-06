@@ -4067,6 +4067,7 @@
 ||aclweb.org
 ||acm.org
 ||acs.org
+||agu.org
 ||aiaa.org
 ||aimsciences.org
 ||airiti.com
@@ -4106,6 +4107,7 @@
 ||cairn.info
 ||capitaliq.com
 ||cas.org
+||ceicdata.com
 ||chemnetbase.com
 ||choicereviews.org
 ||cios.org
@@ -4128,6 +4130,7 @@
 ||frontiersin.org
 ||gale.com
 ||galegroup.com
+||geolytics.com
 ||ggsrv.com
 ||global-sci.org
 ||heinonline.org
@@ -4137,6 +4140,8 @@
 ||icsd.fiz-karlsruhe.de
 ||igi-global.com
 ||igpublish.com
+||hanzhen.xmulib.org
+||infolinker.com.tw
 ||informs.org
 ||iop.org
 ||isca-speech.org
@@ -4184,6 +4189,7 @@
 ||science.com
 ||science.org
 ||sciencemag.org
+||scienceonline.org
 ||scientificamerican.com
 ||scitation.org
 ||semanticscholar.org
@@ -4192,6 +4198,7 @@
 ||spiedigitallibrary.org
 ||statsmakemecry.com
 ||thelancet.com
+||tickdata.com
 ||thieme.de
 ||thieme-connect.com
 ||thieme-connect.de
