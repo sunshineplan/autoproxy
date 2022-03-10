@@ -4703,9 +4703,11 @@
 ||mihoyo.com
 ||benghuai.com
 ||bh3.com
+||honkaiimpact3.com
 ||honkaistarrail.com
 ||hoyolab.com
 ||yuanshen.com
+/^.+-mihayo\.akamaized\.net$/
 ||100classicbooks.com
 ||amiibo.com
 ||ayudanintendo.com
