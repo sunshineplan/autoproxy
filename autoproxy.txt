@@ -12153,6 +12153,7 @@
 ||oraclecloud.com
 ||oraclefoundation.org
 ||oracleimg.com
+||oracleinfinity.io
 ||ateam-oracle.com
 ||bronto.com
 ||covid19-rx.org
