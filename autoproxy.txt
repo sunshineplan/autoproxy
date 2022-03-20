@@ -5301,8 +5301,10 @@
 ||tidal.com
 ||tidalhifi.com
 ||wimpmusic.com
+||byteoversea.com
 ||muscdn.com
 ||musical.ly
+||tik-tokapi.com
 ||tiktok.com
 ||tiktokcdn.com
 ||tiktokv.com
@@ -7609,8 +7611,6 @@
 ||githubusercontent.com
 ||myoctocat.com
 ||thegithubshop.com
-|http://github-avatars.oss-cn-hongkong.aliyuncs.com
-|https://github-avatars.oss-cn-hongkong.aliyuncs.com
 |http://github-cloud.s3.amazonaws.com
 |https://github-cloud.s3.amazonaws.com
 /github-production-release-asset-[0-9a-za-z]{6}\.s3\.amazonaws\.com/
