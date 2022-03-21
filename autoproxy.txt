@@ -2951,6 +2951,7 @@
 ||slackcertified.com
 ||slackdemo.com
 ||slackhq.com
+||comments.app
 ||contest.com
 ||graph.org
 ||quiz.directory
