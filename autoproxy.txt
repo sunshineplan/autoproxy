@@ -10688,6 +10688,10 @@
 ||get.page
 ||iam.soy
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
+||deps.dev
+||deps.info
+||opensourceinsight.dev
+||opensourceinsights.dev
 ||youtube
 ||ggpht.com
 ||googlevideo.com
