@@ -4446,6 +4446,10 @@
 |https://gamer-cds.cdn.hinet.net
 ||bandcamp.com
 ||bcbits.com
+||2k.com
+||2kcoretech.online
+||2kgames.com
+||take2games.com
 ||blizzard.com
 ||blizzardgearstore.com
 ||blz-contentstack.com
