@@ -2732,6 +2732,7 @@
 ||cloudflaretest.com
 ||cloudflarewarp.com
 ||one.one.one
+||pacloudflare.com
 ||pages.dev
 ||trycloudflare.com
 ||videodelivery.net
@@ -2767,12 +2768,14 @@
 ||buypass.se
 ||minid.no
 ||comodo.com
+||comodo.net
 ||comodoca.com
 ||comodoca2.com
 ||comodoca3.com
 ||comodoca4.com
 ||cybertrust.co.jp
 ||cybertrust.ne.jp
+||digicert-cn.com
 ||digicert.com
 ||digitalcertvalidation.com
 ||freessl.com
@@ -7093,6 +7096,7 @@
 ||pornkai.com
 ||pornmd.com
 ||pornogramxxx.com
+||pornrips.cc
 ||pornstarbyface.com
 ||porntea.com
 ||pornzog.com
@@ -7122,6 +7126,7 @@
 ||tbr.tangbr.net
 ||theav.cc
 ||thehentaiworld.com
+||thenewgirlspooping.com
 ||theporndude.com
 ||thisav.com
 ||thisvid.com
