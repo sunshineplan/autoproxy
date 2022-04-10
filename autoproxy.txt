@@ -5200,6 +5200,7 @@
 ||honkaistarrail.com
 ||hoyolab.com
 ||hoyoverse.com
+||mhyurl.cn
 ||mihayou.com
 ||mihoyo.com
 ||benghuai.com
