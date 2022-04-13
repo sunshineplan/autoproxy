@@ -5125,6 +5125,8 @@
 ||thestationbymaker.com
 ||thisispolaris.com
 ||watchdisneyfe.com
+||goodreads.com
+||gr-assets.com
 ||cinemax.com
 ||forthethrone.com
 ||hbo.com
@@ -8023,6 +8025,7 @@
 ||compresspdf.new
 ||pdf.new
 ||sign.new
+||scene7.com
 ||alibabacloud.co.in
 ||alibabacloud.com
 ||alibabacloud.com.au
@@ -11793,8 +11796,19 @@
 ||lgsalesportal.com
 |http://lgelectronics.122.2o7.net
 |https://lgelectronics.122.2o7.net
-||linkedin.com
+||bizographics.com
+||l-0005.dc-msedge.net
+||l-0005.l-msedge.net
 ||licdn.com
+||linkedin.at
+||linkedin.com
+||lnkd.in
+|http://e122475.dscg.akamaiedge.net
+|https://e122475.dscg.akamaiedge.net
+|http://licdn.cn.cdn20.com
+|https://licdn.cn.cdn20.com
+|http://linkedin.sc.omtrdc.net
+|https://linkedin.sc.omtrdc.net
 ||logi.com
 ||logicool.co.jp
 ||logicoolg.com
