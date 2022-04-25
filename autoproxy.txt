@@ -5384,6 +5384,8 @@
 |https://d1k2us671qcoau.cloudfront.net
 |http://d2anahhhmp1ffz.cloudfront.net
 |https://d2anahhhmp1ffz.cloudfront.net
+||mox.moe
+||vol.moe
 ||wwe.com
 ||wwe9.com
 ||z5.app
@@ -7883,6 +7885,7 @@
 ||scala-sbt.org
 ||askubuntu.com
 ||blogoverflow.com
+||codeforaliving.io
 ||mathoverflow.net
 ||serverfault.com
 ||sstatic.net
@@ -7891,9 +7894,11 @@
 ||stackexchange.com
 ||stackmod.blog
 ||stackoverflow.blog
+||stackoverflow.co
 ||stackoverflow.com
 ||stackoverflow.email
 ||stackoverflowbusiness.com
+||stackoverflowcareers.com
 ||stacksnippets.net
 ||superuser.com
 ||tex-talk.net
