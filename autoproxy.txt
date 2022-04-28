@@ -5202,6 +5202,7 @@
 ||genshinimpact.com
 ||honkaiimpact3.com
 ||honkaistarrail.com
+||hoyo.link
 ||hoyolab.com
 ||hoyoverse.com
 ||n0vadesktop.com
@@ -7741,6 +7742,7 @@
 ||githubuniverse.com
 ||githubusercontent.com
 ||myoctocat.com
+||opensource.guide
 ||thegithubshop.com
 |http://github-cloud.s3.amazonaws.com
 |https://github-cloud.s3.amazonaws.com
