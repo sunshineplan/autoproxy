@@ -9331,6 +9331,8 @@
 ||jsdelivr.com
 ||jsdelivr.net
 ||esm.run
+|http://cdn.jsdelivr.net
+|https://cdn.jsdelivr.net
 ||kubernetes.io
 ||k8s.io
 ||adaptivecards.io
