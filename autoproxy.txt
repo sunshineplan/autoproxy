@@ -877,6 +877,7 @@
 ||akasha.world
 ||browserleaks.com
 ||bypasscensorship.org
+||censorship.ai
 ||dat.foundation
 ||democracy.earth
 ||eff.org
@@ -885,7 +886,9 @@
 ||freenetproject.org
 ||fteproxy.org
 ||geti2p.net
+||getoutline.org
 ||gfw.report
+||greatfire.org
 ||guardianproject.info
 ||ipfs.io
 ||jitsi.org
@@ -903,6 +906,7 @@
 ||tunsafe.com
 ||twister.net.co
 ||uproxy.org
+||vpngate.org
 ||vuvuzela.io
 ||whonix.org
 ||wikileaks.org
@@ -7788,6 +7792,7 @@
 ||javhdfree.net
 ||javhdonline.com
 ||javhdporn.com
+||javhdporn.net
 ||javher.com
 ||javjunkies.com
 ||javlibrary.com
@@ -11281,6 +11286,7 @@
 |https://push-apple.com.akadns.net
 ||asus.com
 ||atlassian.com
+||bitbucket.io
 ||bitbucket.org
 ||statuspage.io
 ||accbusiness.com
