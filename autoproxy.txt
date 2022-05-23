@@ -888,7 +888,6 @@
 ||geti2p.net
 ||getoutline.org
 ||gfw.report
-||greatfire.org
 ||guardianproject.info
 ||ipfs.io
 ||jitsi.org
@@ -6868,6 +6867,10 @@
 ||jable.tv
 ||javbus.com
 ||javbus22.com
+||javcdn.cc
+||javdb.com
+||jdbimgs.com
+||jdbstatic.com
 ||javfinder.sh
 ||findercdn.me
 ||o0-2.com
@@ -7778,7 +7781,6 @@
 ||jav777.cc
 ||javcc.cc
 ||javcc.com
-||javdb.com
 ||javdoe.com
 ||javdove8.xyz
 ||javfinder.is
@@ -7967,6 +7969,7 @@
 ||minnano-av.com
 ||minuporno.com
 ||mirar.xxx
+||missav.com
 ||mitnaka.com
 ||mixasiansex.com
 ||mixmaturesex.com
@@ -8490,6 +8493,7 @@
 ||tokyomotion.net
 ||tomovie.net
 ||toomadporn.pro
+||topescortbabes.com
 ||topface.com
 ||topfreepornvideos.com
 ||tophd.xxx
@@ -8551,9 +8555,11 @@
 ||twistys.com
 ||twlegs.com
 ||twoo.com
+||tx5254.com
+||tx5ptbp7.com
+||txvlog.com
 ||txxx.com
 ||u9a9.com
-||uganda.topescortbabes.com
 ||uhtube.me
 ||ujapanesesex.com
 ||ultradonkey.com
@@ -8750,6 +8756,7 @@
 ||yaptube.com
 ||yasarang.net
 ||yatong.info
+||yavtube.com
 ||yepporn.com
 ||yes.xxx
 ||yeswegays.com
@@ -8874,6 +8881,7 @@
 ||cutt.ly
 ||digitalocean.com
 ||digitaloceanspaces.com
+||nginxconfig.io
 ||disqus.com
 ||disquscdn.com
 ||disqusservice.com
@@ -9063,11 +9071,23 @@
 ||tumblr.com
 ||tuta.io
 ||tutanota.com
+||err.sh
+||hyper.is
+||nextjs.org
 ||now.sh
+||static.fun
+||title.sh
+||turborepo.org
 ||vercel-dns.com
 ||vercel-status.com
 ||vercel.app
+||vercel.blog
 ||vercel.com
+||vercel.events
+||vercel.live
+||vercel.pub
+||vercel.sh
+||vercel.store
 ||zeit-world.co.uk
 ||zeit-world.com
 ||zeit-world.net
