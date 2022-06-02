@@ -6909,11 +6909,11 @@
 |http://widgets.stripst.com
 |https://widgets.stripst.com
 ||collector.xhamster.com
-||xnxx.com
 ||xnxx-cdn.com
-||xnxx3.com
+||xnxx.com
 ||xnxx.net
 ||xnxx.tv
+||xnxx3.com
 ||xvideos.com
 ||xvideos-cdn.com
 ||youjizz.com
@@ -9876,6 +9876,7 @@
 ||amazonstudiosguilds.com
 ||amazontrust.com
 ||amazonvideodirect.com
+||amzn.asia
 ||amzn.com
 ||amzn.to
 ||amznl.com
