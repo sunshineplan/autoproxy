@@ -5249,6 +5249,10 @@
 ||netflixdnstest8.com
 ||netflixdnstest9.com
 ||netflixdnstest10.com
+/(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$/
+/(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$/
+|http://netflix.com.edgesuite.net
+|https://netflix.com.edgesuite.net
 ||nico
 ||nicodic.jp
 ||nicomanga.jp
@@ -7328,12 +7332,15 @@
 ||camwhores.tv
 ||camwhoreshd.com
 ||candypleasure.com
-||ccav69.info
 ||caribbeancom.com
 ||caribbeancompr.com
 ||cartoonpornvideos.com
 ||cartoontube.com
 ||cashvideotube.com
+||cc18.biz
+||cc18.tv
+||cc18tv.com
+||ccav69.info
 ||ccav69.me
 ||ccav691api.com
 ||cenkei.com
@@ -8317,6 +8324,7 @@
 ||porndisk.com
 ||porndoe.com
 ||porndoepremium.com
+||porndr.com
 ||pornerbros.com
 ||pornfidelity.com
 ||pornfu.tv
@@ -8593,6 +8601,7 @@
 ||spicystory.net
 ||spizoo.com
 ||spreadporn.org
+||seqing.one
 ||sss.xxx
 ||staxus.com
 ||stepmaturesex.com
@@ -8627,6 +8636,7 @@
 ||t66y.com
 ||tabustudios.co
 ||tacamateurs.com
+||taiwansex.tw
 ||taknai.com
 ||tastyblacks.com
 ||taxidrivermovie.com
@@ -8806,6 +8816,7 @@
 ||wankzvr.com
 ||waplog.com
 ||washa.tv
+||whichav.video
 ||watchindianporn.net
 ||watchjavonline.com
 ||watchmyexgf.net
@@ -8965,6 +8976,7 @@
 ||yasarang.net
 ||yatong.info
 ||yavtube.com
+||yazhouse8.com
 ||yepporn.com
 ||yes.xxx
 ||yeswegays.com
