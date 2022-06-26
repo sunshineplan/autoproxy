@@ -5329,15 +5329,15 @@
 ||tidal.com
 ||tidalhifi.com
 ||wimpmusic.com
-||byteoversea.com
-||muscdn.com
-||musical.ly
-||tik-tokapi.com
-||tiktok.com
-||tiktokcdn.com
-||tiktokv.com
-|http://p16-tiktokcdn-com.akamaized.net
-|https://p16-tiktokcdn-com.akamaized.net
+||byteoversea.com:@!cn
+||muscdn.com:@!cn
+||musical.ly:@!cn
+||tik-tokapi.com:@!cn
+||tiktok.com:@!cn
+||tiktokcdn.com:@!cn
+||tiktokv.com:@!cn
+|http://p16-tiktokcdn-com.akamaized.net:@!cn
+|https://p16-tiktokcdn-com.akamaized.net:@!cn
 ||themoviedb.org
 ||tmdb.org
 ||thetvdb.com
@@ -7008,7 +7008,9 @@
 ||4club.com
 ||4kup.net
 ||4pig.com
+||4porn.com
 ||4tubefree.net
+||50dh.app
 ||51dh.site
 ||51luoli.info
 ||51mh.app
@@ -7586,6 +7588,8 @@
 ||flashtranny.com
 ||flirt4free.com
 ||flirtyhoookup.com
+||fljmh.com
+||fljmh1.com
 ||flydiv.com
 ||flyflv.com
 ||flyingjizz.com
@@ -7892,6 +7896,7 @@
 ||japanxxxfilms.com
 ||jasmin.com
 ||jav-1080.com
+||jav-legend.com
 ||jav.guru
 ||jav.land
 ||jav.place
@@ -7934,6 +7939,7 @@
 ||javtag.net
 ||javtasty.com
 ||javtorrent.re
+||javtorrent.tk
 ||javtube.com
 ||javynow.com
 ||jgg18.xyz
@@ -7999,6 +8005,7 @@
 ||kkfcc03.com
 ||kkff2484.live
 ||koalaporn.com
+||kompoz.com
 ||kompoz2.com
 ||korewaeroi.com
 ||kphimsex.net
@@ -8330,6 +8337,7 @@
 ||pornfu.tv
 ||porngames.games
 ||porngladiator.com
+||pornhat.com
 ||pornhd.com
 ||pornhits.com
 ||pornhost.com
@@ -8595,6 +8603,7 @@
 ||sora6.com
 ||sorairi.info
 ||south-plus.net
+||sp.cool
 ||spankbang.com
 ||spankwire.com
 ||spermyporn.com
@@ -8671,6 +8680,7 @@
 ||themilfmovies.com
 ||thenewgirlspooping.com
 ||thenewporn.com
+||thepornbet.com
 ||theporndude.com
 ||thepornlist.com
 ||thepornscat.com
@@ -8688,6 +8698,7 @@
 ||tiohentai.com
 ||titsintops.com
 ||tkb008.xyz
+||tktube.com
 ||tnaflix.com
 ||tokyomotion.net
 ||tomovie.net
@@ -9007,6 +9018,7 @@
 ||youskbe.com
 ||youtrannytube.com
 ||youx.xxx
+||youyu.services
 ||ypmate.com
 ||yuvutu.com
 ||ywbclx.top
@@ -9048,9 +9060,12 @@
 /(^|\.)803[a-z]{0,2}\.tv$/
 /(^|\.)989[a-z]?\.tv$/
 /(^|\.)douyintt[0-9]\.me$/
+/(^|\.)fiftymvapi\..+$/
 /(^|\.)h5ccav[1-5]\.com$/
 /(^|\.)ksyp0[1-9]\.com$/
+/(^|\.)qqsp0[1-3]\.com$/
 /(^|\.)sg11[3-9]\.me$/
+/(^|\.)youyuapi\..+$/
 /(^|\.)zh9[0-7]\.net$/
 ||bannedbook.net
 ||bannedbook.org
