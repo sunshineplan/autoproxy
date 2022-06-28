@@ -7720,9 +7720,12 @@
 ||hardsextube.com
 ||harvard.xxx
 ||hclips.com
+||hdb1.app
 ||hdgaytube.xxx
 ||hdhole.com
 ||hdjavonline.com
+||hdouban.com
+||hdouban2.com
 ||hdouga.com
 ||hdpornfree.xxx
 ||hdpornt.com
@@ -7839,6 +7842,7 @@
 ||iloveprettylolimm.com
 ||imagefap.com
 ||imagepost.com
+||imaypb.com
 ||imhentai.xxx
 ||imilfs.com
 ||imlive.com
@@ -8243,6 +8247,7 @@
 ||oldje.com
 ||onahodouga.com
 ||onani-daisuki.com
+||one889.app
 ||onejav.com
 ||onindiansex.com
 ||onlinefucktube.com
@@ -8570,6 +8575,7 @@
 ||sexykittenporn.com
 ||sexzy4.com
 ||sg120.me
+||sgp1.fun
 ||shahvani.com
 ||shahvani.site
 ||shahvatsaraa.com
@@ -8616,6 +8622,7 @@
 ||spicystory.net
 ||spizoo.com
 ||spreadporn.org
+||ss7.app
 ||sss.xxx
 ||staxus.com
 ||stepmaturesex.com
@@ -8938,6 +8945,7 @@
 ||xvidzz.com
 ||xwebporn.com
 ||xx159.com.cn
+||xx9.app
 ||xxeronetxx.info
 ||xxgasm.com
 ||xxindianporn.com
@@ -9063,8 +9071,8 @@
 ||zzitube.com
 /(^|\.)803[a-z]{0,2}\.tv$/
 /(^|\.)989[a-z]?\.tv$/
-/(^|\.)avstar0[1-9]\.com$/
-/(^|\.)avstar0[1-9]\.me$/
+/(^|\.)avstar0[1-9]\.(com|me)$/
+/(^|\.)byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\.com$/
 /(^|\.)douyintt[0-9]\.me$/
 /(^|\.)fiftymvapi\..+$/
 /(^|\.)h5ccav[1-5]\.com$/
