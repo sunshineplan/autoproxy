@@ -7460,6 +7460,7 @@
 ||dutrai.com
 ||dvdtrailertube.com
 ||dvh30n.vip
+||dx9527.cc
 ||dyttapi.com
 ||dyttapis.com
 ||e621.net
@@ -8035,6 +8036,8 @@
 ||lightxxxtube.com
 ||lihksnap.com
 ||lilith-soft.com
+||limer.tw
+||limertw.cc
 ||limeteensex.com
 ||linkshit.com
 ||literotica.com
@@ -8798,6 +8801,7 @@
 ||upjav.cc
 ||uporno.xxx
 ||uriminzokkiri.com
+||v7hds.com
 ||vagina.nl
 ||vaginacontest.com
 ||vbejeyv.shop
@@ -8894,6 +8898,7 @@
 ||x99av.com
 ||xacmbq.xyz
 ||xanimeporn.com
+||xb18.me
 ||xbabe.com
 ||xbahis33.com
 ||xbahis44.com
@@ -9069,7 +9074,6 @@
 ||zzcartoon.com
 ||zzgays.com
 ||zzitube.com
-/(^|\.)803[a-z]{0,2}\.tv$/
 /(^|\.)989[a-z]?\.tv$/
 /(^|\.)avstar0[1-9]\.(com|me)$/
 /(^|\.)byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\.com$/
