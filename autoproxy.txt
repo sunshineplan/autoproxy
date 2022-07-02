@@ -6126,7 +6126,6 @@
 ||gwiki.net
 ||gwins.org
 ||himalaya.exchange
-||himalaya-exchange.zendesk.com
 ||himalayawashingtondc.org
 ||nfsc.global
 ||nfscdict.com
@@ -6134,6 +6133,8 @@
 ||rolfoundation.org
 ||rolsociety.org
 ||yiqiedoushiganggangkaishi.org
+|http://himalaya-exchange.zendesk.com
+|https://himalaya-exchange.zendesk.com
 ||apexprint.com.hk
 ||eprc.com.hk
 ||etbc.com.hk
@@ -14887,6 +14888,8 @@
 ||futhead.com
 ||gamepedia.com
 ||muthead.com
+||cortexrpg.com
+||fanatical.com
 ||wikia.nocookie.net
 |http://fandom.zendesk.com
 |https://fandom.zendesk.com
