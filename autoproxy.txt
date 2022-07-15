@@ -7137,6 +7137,7 @@
 ||allmomsex.com
 ||allover30.com
 ||allpasswords.com
+||allpornsitespass.com
 ||alohatube.com
 ||alt.com
 ||amakings.com
@@ -7619,7 +7620,6 @@
 ||fi11.cn
 ||fi11.com
 ||fi11av1.com
-||fi11sm34.com
 ||fi11tv1.com
 ||finehub.com
 ||finevids.xxx
@@ -7957,6 +7957,7 @@
 ||jasmin.com
 ||jav-1080.com
 ||jav-legend.com
+||jav.dog
 ||jav.guru
 ||jav.land
 ||jav.place
@@ -8029,7 +8030,6 @@
 ||jmcomic1.mobi
 ||johren.games
 ||johren.net
-||join.allpornsitespass.com
 ||jokerlu1.cc
 ||jokerlu1.info
 ||joysporn.com
@@ -9194,6 +9194,7 @@
 /(^|\.)avstar0[1-9]\.(com|me)$/
 /(^|\.)byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\.com$/
 /(^|\.)douyintt[0-9]\.me$/
+/(^|\.)fi11sm([0-9]+)?\.com+$/
 /(^|\.)fiftymvapi\..+$/
 /(^|\.)h5ccav[1-5]\.com$/
 /(^|\.)hkfg[1-7]\.xyz$/
