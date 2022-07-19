@@ -7294,6 +7294,7 @@
 ||avgle.com
 ||avgod.club
 ||avhd101.com
+||avhome.one
 ||avinin.com
 ||avizoone.com
 ||avn.com
@@ -8587,6 +8588,7 @@
 ||pornzog.com
 ||pornzone.com
 ||povpornonly.com
+||pp6.info
 ||pplah.com
 ||prastitutki.ru
 ||premiumhd.net
@@ -9288,8 +9290,10 @@
 /(^|\.)mimi\.(cfd|lol|onl|sbs|so|vc)$/
 /(^|\.)mimi[0-9]{3}\.com$/
 /(^|\.)mitao[1-3]\.tv$/
+/(^|\.)mmwz\.(fun|in|la|me|one|pro|pw|run|tv|ws)$/
 /(^|\.)qqsp0[1-3]\.com$/
 /(^|\.)sg11[3-9]\.me$/
+/(^|\.)syjc1[1-6]\.xyz$/
 /(^|\.)twseb([1-9][0-9]?)?\.com$/
 /(^|\.)xnkl[3-8]\.cn$/
 /(^|\.)youyuapi\..+$/
