@@ -1917,7 +1917,10 @@
 ||nokiantyres.com
 ||solarcity.com
 ||tesla.com
+||tesla.services
+||teslaenergy.services
 ||teslamotors.com
+||teslazta.net
 ||ts.la
 |http://tesla-cdn.thron.com
 |https://tesla-cdn.thron.com
@@ -3824,11 +3827,19 @@
 ||rebates.jp
 ||rimg.com.tw
 ||ruten.com.tw
+||shopee.cl
 ||shopee.co.id
 ||shopee.co.th
 ||shopee.com
 ||shopee.com.br
+||shopee.com.co
+||shopee.com.mx
 ||shopee.com.my
+||shopee.es
+||shopee.fr
+||shopee.id
+||shopee.in
+||shopee.io
 ||shopee.ph
 ||shopee.sg
 ||shopee.tw
@@ -3847,6 +3858,7 @@
 ||walmartimages.com
 ||wmt.co
 ||wish.com
+||pornhubapparel.com
 ||readmoo.com
 ||anandtech.com
 ||betterexplained.com
@@ -6984,6 +6996,9 @@
 ||nsimg.net
 ||phncdn.com
 ||phprcdn.com
+||porngub.com
+||pornhub-deutsch.net
+||pornhubapparel.com
 ||pornhub.com
 ||pornhubpremium.com
 |http://cdn77.scoreuniverse.com
@@ -7430,6 +7445,7 @@
 ||candypleasure.com
 ||caribbeancom.com
 ||caribbeancompr.com
+||cartoon18.com
 ||cartoonpornonly.com
 ||cartoonpornvideos.com
 ||cartoontube.com
@@ -7756,6 +7772,7 @@
 ||fuckthathussy.com
 ||fullbookmm.blogspot.com
 ||fullhdxxx.com
+||fullsexmovs.com
 ||fuskator.com
 ||fusker.xxx
 ||fuzokudx.com
