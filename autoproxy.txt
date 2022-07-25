@@ -4790,7 +4790,6 @@
 ||seagroup.com
 ||gog.com
 ||gog-statics.com
-/^cdn-akamai-.+\.gog-services\.com$/
 ||100classicbooks.com
 ||amiibo.com
 ||ayudanintendo.com
