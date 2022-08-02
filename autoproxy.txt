@@ -2906,6 +2906,7 @@
 ||actalis.com
 ||actalis.it
 ||amazontrust.com
+||awstrust.com
 ||ss2.us
 ||buypass-ssl.com
 ||buypass.com
@@ -2951,14 +2952,8 @@
 ||x.co
 ||godaddy
 ||pki.goog
-|http://eca.hinet.net
-|https://eca.hinet.net
-|http://gtlsca.nat.gov.tw
-|https://gtlsca.nat.gov.tw
-|http://ocsp.eca.hinet.net
-|https://ocsp.eca.hinet.net
-|http://ocsp.gtlsca.nat.gov.tw
-|https://ocsp.gtlsca.nat.gov.tw
+||eca.hinet.net
+||gtlsca.nat.gov.tw
 ||hongkongpost.gov.hk
 ||ecert.gov.hk
 ||identrust.com
@@ -2966,6 +2961,15 @@
 ||identrust.net
 ||lencr.org
 ||letsencrypt.org
+||msocsp.com
+|http://crl.microsoft.com
+|https://crl.microsoft.com
+|http://mscrl.microsoft.com
+|https://mscrl.microsoft.com
+|http://ocsp.microsoft.com
+|https://ocsp.microsoft.com
+|http://oneocsp.microsoft.com
+|https://oneocsp.microsoft.com
 ||secom.co.jp
 ||secomtrust.net
 ||enterprisessl.com
@@ -11166,7 +11170,6 @@
 ||awssecworkshops.com
 ||awsstatic.com
 ||awsthinkbox.com
-||awstrust.com
 ||cdkworkshop.com
 ||cloudfront.net
 ||containersonaws.com
@@ -15184,7 +15187,6 @@
 ||msftnet.org
 ||msgamesresearch.com
 ||msocdn.com
-||msocsp.com
 ||msturing.org
 ||msudalosti.com
 ||mymicrosoft.com
