@@ -5339,13 +5339,23 @@
 ||forthethrone.com
 ||hbo.com
 ||hboasia.com
+||hbogo.co.th
 ||hbogo.com
+||hbogo.eu
 ||hbogoasia.com
 ||hbogoasia.hk
+||hbogoasia.id
+||hbogoasia.ph
+||hbogoasia.sg
+||hbogoasia.tw
 ||hbomax.com
 ||hbomaxcdn.com
 ||hbonow.com
 ||maxgo.com
+||hbo.com.c.footprint.net
+||hbo.com.edgesuite.net
+||hbo.map.fastly.net
+||hbomaxdash.s.llnwi.net
 ||112263.com
 ||callhulu.com
 ||findyourlimits.com
@@ -7307,6 +7317,7 @@
 ||7mm.tv
 ||7mmtv.tv
 ||7tb.cc
+||8111y.top
 ||81jia.tv
 ||85st.com
 ||85tube.com
@@ -7506,6 +7517,7 @@
 ||avsee01.tv
 ||avseesee.com
 ||avstar.me
+||awflapp.top
 ||aziani.com
 ||aznude.com
 ||b3boos.com
@@ -7562,6 +7574,7 @@
 ||bellebound.com
 ||bellesa.co
 ||bellotube.com
+||benaughty.fun
 ||bestfreetube.net
 ||bestfreetube.xxx
 ||besthentaitube.com
@@ -7926,6 +7939,7 @@
 ||eropasture.com
 ||eroprofile.com
 ||erosberry.com
+||erothots.co
 ||eroticbeauties.net
 ||eroticbeautyhub.com
 ||erotictube.me
@@ -7988,6 +8002,7 @@
 ||fanfox.net
 ||fanhaodian.com
 ||fank.ru
+||fanqianglu.com
 ||fansteek.com
 ||fantasiasguatemala.com
 ||fantasti.cc
@@ -8404,6 +8419,7 @@
 ||hsex.tv
 ||hshsxkj.com
 ||hsxhr.cc
+||htyj-bj.com
 ||hugesex.tv
 ||huluhuluhuluhulu10.work
 ||humoron.com
@@ -8471,6 +8487,8 @@
 ||instawank.com
 ||inxporn.com
 ||iporntv.net
+||iqq2.cc
+||iqq3.cc
 ||iranx.net
 ||isexlove.tw
 ||isexomega.tw
@@ -8517,6 +8535,7 @@
 ||javdb.com
 ||javdisk.com
 ||javdoe.com
+||javdove.com
 ||javdove8.xyz
 ||javfinder.is
 ||javfinder.to
@@ -8834,6 +8853,8 @@
 ||mobilevrxxx.com
 ||modelmediaus.com
 ||modeloswebcambogota.com
+||modeltv.com
+||moefuns.co
 ||moeimg.net
 ||moemax.net
 ||moez-m.com
@@ -9019,6 +9040,7 @@
 ||pacopacomama.com
 ||pakistanporntube.net
 ||palcomix.com
+||pali.ltd
 ||pancolle-movie.jp
 ||pandamovies.pw
 ||pankwire.com
@@ -9350,6 +9372,7 @@
 ||royalcams.com
 ||rude.com
 ||rukoebxx.com
+||rule34.world
 ||rule34.xxx
 ||rule34.xyz
 ||rule34video.com
@@ -9379,6 +9402,7 @@
 ||scoreland.com
 ||seancody.com
 ||seaporn.org
+||secret-flirt-hub.com
 ||see.xxx
 ||seedmov18.com
 ||seehorsepenis.com
@@ -9472,6 +9496,7 @@
 ||sexzy4.com
 ||sg120.me
 ||sgp1.fun
+||sh-xuxingda.com
 ||shadbase.com
 ||shahvani.com
 ||shahvani.site
@@ -10029,6 +10054,7 @@
 ||xvidzz.com
 ||xvirtual.com
 ||xwebporn.com
+||xx-map.com
 ||xx159.com.cn
 ||xx9.app
 ||xxbb9.com
@@ -10196,6 +10222,8 @@
 ||xn--urs05q.jp
 ||xn--x-qeu1ji09tzlg.biz
 ||xn--x-qeu1ji09tzlg.net
+|http://anime-rule34-world.b-cdn.net
+|https://anime-rule34-world.b-cdn.net
 /(^|\.)[a-z][1-9][0-9][a-z]\.com$/
 /(^|\.)783([a-z][a-z]?)?\.tv$/
 /(^|\.)8dgo[1-57-9]\.com$/
