@@ -7324,6 +7324,7 @@
 ||88gals.com
 ||88square.com
 ||89.com
+||8kcosplay.com
 ||8muses.com
 ||8muses.io
 ||8teenxxx.com
@@ -9831,6 +9832,7 @@
 ||uriminzokkiri.com
 ||urlgalleries.net
 ||uselessjunk.com
+||uxxxporn.com
 ||v7hds.com
 ||vagabundasdoorkut.net
 ||vagina.nl
@@ -10467,6 +10469,8 @@
 ||pros.ee
 ||pse.is
 ||ping.pe
+||playcover.io
+||playcover.workers.dev
 ||pm.me
 ||proton.me
 ||protonmail.ch
@@ -11054,6 +11058,8 @@
 ||zsh.org
 ||acer-group.com
 ||acer.com
+||advertising.adobe.com
+||tubemogul.com
 ||typekit.com
 ||typekit.net
 ||10xfotolia.com
@@ -11185,6 +11191,7 @@
 ||alibabacloud.com.tw
 ||alicloud.com
 ||amazon-adsystem.com
+||serving-sys.com
 ||aws
 ||acmvalidations.com
 ||acmvalidationsaws.com
@@ -13825,9 +13832,11 @@
 ||blogspot.vn
 ||2mdn.net
 ||admob.com
+||ads.youtube.com
 ||adsense.com
 ||adsensecustomsearchads.com
 ||adsenseformobileapps.com
+||adservice.google.com
 ||advertisercommunity.com
 ||advertiserscommunity.com
 ||adwords-community.com
