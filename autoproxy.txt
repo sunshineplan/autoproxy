@@ -10499,6 +10499,7 @@
 ||ygugu4.com
 ||yhy.cool
 ||yieamnd.com
+||yingpianqu.com
 ||youav.com
 ||youflix.is
 ||youjizz.com
@@ -10696,6 +10697,7 @@
 ||cutt.ly
 ||digitalocean.com
 ||digitaloceanspaces.com
+||do.co
 ||nginxconfig.io
 ||disqus.com
 ||disquscdn.com
@@ -10958,6 +10960,7 @@
 ||zoom.com
 ||zoom.com.cn
 ||zoom.us
+||auroraoss.com
 ||anaconda.cloud
 ||anaconda.com
 ||anaconda.org
@@ -13480,6 +13483,10 @@
 ||cloudc.one
 ||cloudcone.com
 ||cloudcone.net
+||collabora.co.uk
+||collabora.com
+||collabora.org
+||collaboraoffice.com
 ||cfblob.com
 ||cloudchoose.com
 ||cloudvolumes.com
