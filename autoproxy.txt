@@ -4329,6 +4329,7 @@
 ||hanzhen.xmulib.org
 ||infolinker.com.tw
 ||informs.org
+||ioinformatics.org
 ||iop.org
 ||isca-speech.org
 ||iwaponline.com
@@ -4436,6 +4437,7 @@
 ||cnet.com
 ||code.org
 ||codecademy.com
+||codeforces.com
 ||coursera-for-business.org
 ||coursera.community
 ||coursera.help
