@@ -7151,6 +7151,13 @@
 ||metcams.com
 ||naiadsystems.com
 ||nsimg.net
+||bikaa.xyz
+||bikac.xyz
+||bikaios.xyz
+||picacn.xyz
+||picacomic.com
+||picacomic.xyz
+||wikawika.xyz
 ||phncdn.com
 ||phprcdn.com
 ||porngub.com
@@ -9457,6 +9464,7 @@
 ||photo-image.monster
 ||photos18.com
 ||phun.org
+||picacg2022.com
 ||pichunter.com
 ||pics.vc
 ||pictoa.com
@@ -10845,6 +10853,7 @@
 /(^|\.)youyuapi\..+$/
 /(^|\.)yrrj[1-9]?\.buzz$/
 /(^|\.)zh9[0-7]\.net$/
+/(^|\.)zzz[1-9][0-9]\.top$/
 ||bannedbook.net
 ||bannedbook.org
 ||dafahao.com
