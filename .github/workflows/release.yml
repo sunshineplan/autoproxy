@@ -45,6 +45,24 @@ jobs:
           git commit -m "${{ steps.run.outputs.date }}"
           git push -f origin release
 
+      - name: Delete Older Release
+        if: steps.run.outputs.new_data == 1
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const resp = await github.rest.repos.listReleases({
+              owner: context.repo.owner,
+              repo: context.repo.repo
+            })
+
+            for (const release of resp.data) {
+              await github.rest.repos.deleteRelease({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                release_id: release.id
+              })
+            }
+
       - name: Create Release
         if: steps.run.outputs.new_data == 1
         uses: softprops/action-gh-release@v1
