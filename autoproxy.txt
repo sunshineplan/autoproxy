@@ -5003,6 +5003,8 @@
 ||op.gg
 |http://opgg-static.akamaized.net
 |https://opgg-static.akamaized.net
+||pinkcore.com
+||pinkcore.net
 ||playstation
 ||playstation.com
 ||playstation.net
@@ -5151,8 +5153,6 @@
 ||nexusmods.com
 ||papermc.io
 ||planetminecraft.com
-||pinkcore.com
-||pinkcore.net
 ||protondb.com
 ||speedrun.com
 ||steamdb.info
@@ -7128,8 +7128,28 @@
 ||hath.network
 ||hentaiathome.net
 ||hentaiverse.org
+||ero-labs.com
+||ero-labs.net
+||erolabs.cloud
+||erolabs.com
+||erolabs.game
+||erolabs.net
 ||heydoga.com
 ||heyzo.com
+||illusion.co.jp
+||illusion.jp
+||illusion111.com
+||illusionas.com
+||illusionchn.com
+||illusiongw.com
+||illusionh.com
+||illusionl.com
+||illusionn2.com
+||illusionn3.com
+||illusionn4.com
+||illusionn5.com
+||illusiony.com
+||illusionze.com
 ||cdnlab.live
 ||jable.tv
 ||javbus.com
@@ -7143,6 +7163,8 @@
 ||o0-2.com
 ||javwide.com
 ||javwide.tv
+||johren.games
+||johren.net
 ||dditsadn.com
 ||dditscdn.com
 ||livejasmin.com
@@ -7847,6 +7869,7 @@
 ||cfwives.com
 ||cgkate.jinvod.com
 ||chaturbate.com
+||chedteb.eu
 ||chengjuanseo.com
 ||cherryasia.com
 ||cherrynudes.com
@@ -8107,7 +8130,6 @@
 ||ero-anime.net
 ||ero-comic-hunter.net
 ||ero-kawa.com
-||ero-labs.com
 ||ero-manga-platinum.net
 ||ero-mangalife.com
 ||erocurves.com
@@ -8953,8 +8975,6 @@
 ||jmcomic.mobi
 ||jmcomic1.mobi
 ||johnpersons.com
-||johren.games
-||johren.net
 ||joiasmr.com
 ||jokerlu1.cc
 ||jokerlu1.info
@@ -9017,6 +9037,7 @@
 ||kismia.com
 ||kisscos.net
 ||kissjav.com
+||kjj05.cn
 ||kkfcc03.com
 ||kkff2484.live
 ||kmc-av.com
@@ -9101,6 +9122,7 @@
 ||love7.xyz
 ||lovegirls.cam
 ||lovemstudios.com
+||lovepartners.life
 ||lovesexbody.com
 ||lp99.pw
 ||lpsg.com
@@ -9325,6 +9347,7 @@
 ||naoconto.com
 ||napiszex.com
 ||narumiya.xii.jp
+||nasty.singles
 ||naughty.com
 ||naughtyamerica.com
 ||naughtyblog.org
@@ -9373,6 +9396,7 @@
 ||nijifeti.com
 ||nijigen-daiaru.com
 ||nijinchu.com
+||nijioma.blog
 ||nineteentube.com
 ||ninpu.cyou
 ||niziero.info
@@ -9397,6 +9421,7 @@
 ||nubiles.net
 ||nubileset.com
 ||nubilesunscripted.com
+||nude-pics.org
 ||nude-share.com
 ||nude.hu
 ||nudecelebforum.com
@@ -9454,6 +9479,7 @@
 ||onlyhentaistuff.com
 ||onlyincestporn.com
 ||onlyleaks.me
+||onlynudes.org
 ||onstream.cc
 ||onxxxtube.com
 ||op7979.com
@@ -9528,6 +9554,7 @@
 ||pics.vc
 ||pictoa.com
 ||pigav.com
+||pikabu.monster
 ||pinduck.com
 ||pinflix.com
 ||pingguotv.xyz
@@ -9608,6 +9635,7 @@
 ||porndroids.com
 ||porndude2.com
 ||porndudecasting.com
+||pornelephant.com
 ||pornerbros.com
 ||pornfidelity.com
 ||pornfind.org
@@ -9856,6 +9884,7 @@
 ||rockettube.com
 ||rocksextube.com
 ||roloxxx.com
+||rou.video
 ||roughman.net
 ||royalcams.com
 ||rplay.live
@@ -10167,6 +10196,7 @@
 ||tabootube.xxx
 ||tabustudios.co
 ||tacamateurs.com
+||taiav.com
 ||taiwansex.tw
 ||taknai.com
 ||taleofthenight.com
@@ -10321,6 +10351,7 @@
 ||trueanal.com
 ||truthordarepics.com
 ||truyen-hentai.com
+||truyen-hentai.ru
 ||tryboobs.com
 ||tryquinn.com
 ||tsmodelstube.com
@@ -10575,6 +10606,7 @@
 ||xbrasilporno.com
 ||xcafe.com
 ||xcams.com
+||xcg123.com
 ||xchina.co
 ||xchina.fun
 ||xcity.jp
@@ -10900,7 +10932,6 @@
 /(^|\.)byyum([3589]|2[235689]|3[34]|4[1-9]|5[1-79]|6[0134679])?\.com$/
 /(^|\.)cosaa[a-z]\.cyou$/
 /(^|\.)douyintt[0-9]\.me$/
-/(^|\.)erolabs\.(cloud|com|games|net)$/
 /(^|\.)fi11sm([0-9]+)?\.com$/
 /(^|\.)fiftymvapi\..+$/
 /(^|\.)gaogediao\.(com|me|net|org)$/
