@@ -1031,6 +1031,7 @@
 ||openvpn.net
 ||privacytools.io
 ||psiphon3.com
+||sagernet.org
 ||shadowsocks.org
 ||sspanel.net
 ||stunnel.org
@@ -4395,6 +4396,7 @@
 ||uchicago.edu
 ||ucla.edu
 ||umass.edu
+||usaco.org
 ||westlaw.com
 ||wiley.com
 ||wolterskluwer.com
@@ -7815,6 +7817,7 @@
 ||c0930.com
 ||cableav.tv
 ||caime.xyz
+||callabitch.org
 ||calvappd.me
 ||cam4.com
 ||cambb.xxx
@@ -9271,6 +9274,7 @@
 ||momsteachsex.com
 ||momtarts3d.com
 ||momtube.club
+||moneyswift.online
 ||monstercockland.com
 ||monstersexporn.net
 ||mostpopularpornsites.com
@@ -11677,6 +11681,7 @@
 ||openjsf.org
 ||lfai.foundation
 ||linuxfoundation.org
+||topcoder.com
 ||unity.com
 ||unity3d.com
 ||unityads.unity3d.com
