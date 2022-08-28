@@ -5085,6 +5085,7 @@
 ||steamdeck.com
 ||steamgames.com
 ||steampowered.com
+||steamserver.net
 ||steamstatic.com
 ||steamusercontent.com
 ||underlords.com
