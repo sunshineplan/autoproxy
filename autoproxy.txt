@@ -11662,6 +11662,8 @@
 ||mystrikingly.com
 ||strikingly.com
 ||strikinglycdn.com
+||qq.design
+||tencent.design
 ||termux.com
 ||termux.dev
 ||termux.org
