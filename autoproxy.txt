@@ -5105,6 +5105,7 @@
 |http://steamvideo-a.akamaihd.net
 |https://steamvideo-a.akamaihd.net
 ||steamunlocked.net
+||supercell.com
 ||ubi.com
 ||ubisoft.com
 ||ubisoftconnect.com
@@ -7107,6 +7108,16 @@
 ||w3.org
 ||who.int
 ||wto.org
+||18comic.cc
+||18comic.company
+||18comic.org
+||18comic.vip
+||jmcomic.me
+||jmcomic.mobi
+||jmcomic.moe
+||jmcomic1.city
+||jmcomic1.me
+||jmcomic1.mobi
 ||54647.global
 ||54647.io
 ||54647.online
@@ -7261,10 +7272,6 @@
 ||188channel.com
 ||18av.mm-cg.com
 ||18av.pro
-||18comic.cc
-||18comic.company
-||18comic.org
-||18comic.vip
 ||18commic.com
 ||18doujin.com
 ||18exgfs.com
@@ -8976,8 +8983,6 @@
 ||jjdong7.com
 ||jjgirls.com
 ||jkforum.net
-||jmcomic.mobi
-||jmcomic1.mobi
 ||johnpersons.com
 ||joiasmr.com
 ||jokerlu1.cc
@@ -11662,8 +11667,11 @@
 ||mystrikingly.com
 ||strikingly.com
 ||strikinglycdn.com
+||openmidas.com
 ||qq.design
+||qqgamedesign.com
 ||tencent.design
+||wegamedeveloper.com
 ||termux.com
 ||termux.dev
 ||termux.org
@@ -12817,6 +12825,7 @@
 ||itun.es
 ||itunbes.com
 ||ituneas.com
+||itunes-apple.com.akadns.net
 ||itunes-radio.net
 ||itunes.ca
 ||itunes.co
@@ -12844,8 +12853,6 @@
 ||itunesu.net
 ||iutunes.com
 ||wwwitunes.com
-|http://itunes-apple.com.akadns.net
-|https://itunes-apple.com.akadns.net
 ||apple
 ||apple.ae
 ||apple.at
