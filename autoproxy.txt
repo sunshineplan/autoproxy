@@ -5341,6 +5341,10 @@
 |https://static-hamivideo.cdn.hinet.net
 |http://weblive-hamivideo.cdn.hinet.net
 |https://weblive-hamivideo.cdn.hinet.net
+|http://pvr-hamivideo.cdn.hinet.net
+|https://pvr-hamivideo.cdn.hinet.net
+|http://tvcastlive-hamivideo.cdn.hinet.net
+|https://tvcastlive-hamivideo.cdn.hinet.net
 ||cinemax.com
 ||forthethrone.com
 ||hbo.com
