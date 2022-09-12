@@ -2877,6 +2877,7 @@
 ||cloudflareresolve.com
 ||cloudflaressl.com
 ||cloudflarestatus.com
+||cloudflarestorage.com
 ||cloudflarestream.com
 ||cloudflaretest.com
 ||cloudflarewarp.com
@@ -2989,6 +2990,7 @@
 ||trust-provider.com
 ||usertrust.com
 ||ssl.com
+||starfieldtech.com
 ||digital-id.ch
 ||digitalid.ch
 ||managed-pki.ch
@@ -12023,6 +12025,7 @@
 ||githubusercontent.com
 ||myoctocat.com
 ||opensource.guide
+||repo.new
 ||thegithubshop.com
 |http://github-cloud.s3.amazonaws.com
 |https://github-cloud.s3.amazonaws.com
