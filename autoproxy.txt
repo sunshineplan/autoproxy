@@ -5769,6 +5769,7 @@
 ||ckck.fun
 ||dcard.cc
 ||dcard.io
+||dcard.link
 ||dcard.tw
 ||hkgolden.com
 ||hkgolden.media
@@ -11726,8 +11727,12 @@
 ||mega.io
 ||mega.nz
 ||mpv.io
-||netlify.com
 ||bitballoon.com
+||netlify.app
+||netlify.com
+||netlifystatus.com
+|http://d33wubrfki0l68.cloudfront.net
+|https://d33wubrfki0l68.cloudfront.net
 ||notion-static.com
 ||notion.com
 ||notion.new
@@ -16261,6 +16266,7 @@
 ||moov.hk
 ||airgonetworks.com
 ||berkanawireless.com
+||cdmatech.com
 ||dragoniscoming.com
 ||gobianywhere.com
 ||hellosmartbook.com
@@ -16273,7 +16279,6 @@
 ||qctconnect.com
 ||qprize.com
 ||qualcomm-email.com
-||qualcomm.cn
 ||qualcomm.co.id
 ||qualcomm.co.in
 ||qualcomm.co.jp
