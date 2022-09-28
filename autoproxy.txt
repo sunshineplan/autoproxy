@@ -5303,6 +5303,7 @@
 ||minecraft.net
 ||minecraftshop.com
 ||mojang.com
+||xbox
 ||forzamotorsport.net
 ||forzaracingchampionship.com
 ||forzarc.com
@@ -16744,6 +16745,7 @@
 ||whatsapp.tv
 ||whatsappbrand.com
 ||meta.com
+||azure
 ||azure-dns.com
 ||azure-dns.info
 ||azure-dns.net
@@ -16783,6 +16785,7 @@
 ||gotcosmos.com
 ||microsofteca.com
 ||microsoftiotcentral.com
+||msn.net
 ||serverlesslibrary.net
 ||tryfunctions.com
 ||windowsazure.com
@@ -16841,12 +16844,10 @@
 ||onedrive.live.com
 ||storage.live.com
 ||microsoft
-||azure
 ||hotmail
 ||office
 ||skype
 ||windows
-||xbox
 ||microsoft.az
 ||microsoft.be
 ||microsoft.by
@@ -16896,6 +16897,7 @@
 ||aspnetcdn.com
 ||binads.com
 ||bluehatil.com
+||boswp.com
 ||brazilpartneruniversity.com
 ||breakdown.me
 ||centralvalidation.com
@@ -16911,7 +16913,6 @@
 ||docs.com
 ||dynamics.com
 ||efproject.net
-||azuredigitaltwin.com
 ||fasttrackreadysupport.com
 ||fluidpreview.com
 ||gameuxmasterguide.com
@@ -16938,6 +16939,7 @@
 ||intunewiki.com
 ||iotinactionevents.com
 ||kidgrid.tv
+||kumo.com
 ||latampartneruniversity.com
 ||live.com
 ||live.com.au
@@ -17024,6 +17026,7 @@
 ||projectsangam.com
 ||pxt.io
 ||s-microsoft.com
+||s-msft.com
 ||s-msn.com
 ||sfbassets.com
 ||sfbassets.net
@@ -17076,6 +17079,8 @@
 |https://mwf-service.akamaized.net
 |http://officecdn-microsoft-com.akamaized.net
 |https://officecdn-microsoft-com.akamaized.net
+|http://statics-marketingsites-eas-ms-com.akamaized.net
+|https://statics-marketingsites-eas-ms-com.akamaized.net
 |http://statics-marketingsites-eus-ms-com.akamaized.net
 |https://statics-marketingsites-eus-ms-com.akamaized.net
 |http://statics-marketingsites-wcus-ms-com.akamaized.net
