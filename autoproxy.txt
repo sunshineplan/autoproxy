@@ -5591,6 +5591,8 @@
 ||registerhulu.com
 ||thehulubraintrust.com
 ||wwwhuluplus.com
+|http://hulu.playback.edge.bamgrid.com
+|https://hulu.playback.edge.bamgrid.com
 ||imdb
 ||boxofficemojo.com
 ||imdb.com
