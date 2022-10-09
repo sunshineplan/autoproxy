@@ -2977,6 +2977,7 @@
 ||cybertrust.co.jp
 ||cybertrust.ne.jp
 ||digicert-cn.com
+||digicert-validation.com
 ||digicert.com
 ||digitalcertvalidation.com
 ||freessl.com
@@ -3013,6 +3014,10 @@
 ||x.co
 ||godaddy
 ||pki.goog
+|http://clients1.google.com
+|https://clients1.google.com
+|http://pki.google.com
+|https://pki.google.com
 ||eca.hinet.net
 ||gtlsca.nat.gov.tw
 ||hongkongpost.gov.hk
@@ -16168,6 +16173,7 @@
 ||gvt6.com
 ||gvt7.com
 ||gvt9.com
+||haplorrhini.com
 ||hdrplusdata.org
 ||hindiweb.com
 ||howtogetmo.co.uk
@@ -16176,6 +16182,7 @@
 ||iamremarkable.org
 ||igoogle.com
 ||impermium.com
+||itasoftware.com
 ||j2objc.org
 ||jibemobile.com
 ||keyhole.com
