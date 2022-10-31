@@ -6678,6 +6678,7 @@
 ||tweetdeck.com
 ||twimg.com
 ||twitpic.com
+||twitter.biz
 ||twitter.com
 ||twitter.jp
 ||twittercommunity.com
@@ -6687,6 +6688,8 @@
 ||twitterstat.us
 ||twtrdns.net
 ||twttr.com
+||twttr.net
+||twvid.com
 ||vine.co
 ||mvk.com
 ||userapi.com
