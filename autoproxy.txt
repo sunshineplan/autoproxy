@@ -13529,6 +13529,8 @@
 ||vfsforgit.org
 ||vsassets.io
 ||vscode.dev
+||vscode-cdn.net
+||vscode-unpkg.net
 ||xamarin.com
 |http://az764295.vo.msecnd.net
 |https://az764295.vo.msecnd.net
