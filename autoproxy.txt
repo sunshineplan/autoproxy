@@ -5459,6 +5459,8 @@
 ||espncdn.com
 ||espnqa.com
 ||watchespn.com
+|http://espn.api.edge.bamgrid.com
+|https://espn.api.edge.bamgrid.com
 |http://espn.hb.omtrdc.net
 |https://espn.hb.omtrdc.net
 |http://espndotcom.tt.omtrdc.net
@@ -8504,6 +8506,7 @@
 ||5278.cc
 ||52fuliji.cc
 ||52hyse.com
+||55dndn.com
 ||58avgo.com
 ||592r.com
 ||59mvmv.com
@@ -8546,6 +8549,7 @@
 ||7tb.cc
 ||8111y.top
 ||81jia.tv
+||82mvmv.com
 ||85st.com
 ||85tube.com
 ||88gals.com
@@ -9540,6 +9544,7 @@
 ||f95zone.to
 ||faapy.com
 ||fabhairypussy.com
+||fabuye.top
 ||fakehub.com
 ||faketaxi.com
 ||fakings.com
@@ -12015,6 +12020,7 @@
 ||taknai.com
 ||taleofthenight.com
 ||tanflix.com
+||taose.tv
 ||taradinhos.com
 ||tastyblacks.com
 ||tati-log.com
@@ -12521,6 +12527,7 @@
 ||xgaytube.tv
 ||xgirls.webcam
 ||xgroovy.com
+||xgsp.tv
 ||xh-porn.com
 ||xhot.pro
 ||xhub.tv
@@ -12908,6 +12915,7 @@
 /(^|\.)spankwire[1-9]\.com$/
 /(^|\.)syjc1[1-6]\.xyz$/
 /(^|\.)tianbiav([1-9]|1[0-6])?\.com$/
+/(^|\.)tqav[1-9][0-9]\.com$/
 /(^|\.)ttghg[1-9][0-9]\.xyz$/
 /(^|\.)twseb([1-9][0-9]?)?\.com$/
 /(^|\.)uu[a-z][1-9][0-9]?\.com$/
