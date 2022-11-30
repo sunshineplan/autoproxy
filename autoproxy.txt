@@ -8195,6 +8195,8 @@
 ||nsimg.net
 ||moxing.mobi
 ||moxing.news
+||netflav.com
+||netflav1.com
 ||nutaku.com
 ||nutaku.net
 ||bikaa.xyz
@@ -10373,7 +10375,6 @@
 ||jav2be.com
 ||jav321.com
 ||jav4you.org
-||jav777.cc
 ||jav9999.com
 ||javbangers.com
 ||javbraze.com
@@ -10424,6 +10425,7 @@
 ||javplatform.com
 ||javporn.tech
 ||javporn.ws
+||javpost.net
 ||javprice.com
 ||javprime.net
 ||javpub.me
@@ -10966,7 +10968,6 @@
 ||neswangy.net
 ||netarabic.com
 ||netfapx.com
-||netflav.com
 ||netpornsex.com
 ||netpornsex.net
 ||netvideogirls.com
@@ -12917,6 +12918,7 @@
 /(^|\.)gaogediao\.(com|me|net|org)$/
 /(^|\.)h5ccav[1-5]\.com$/
 /(^|\.)hkfg[1-7]\.xyz$/
+/(^|\.)jav777\.(cc|tv|work)$/
 /(^|\.)jdyy[1-9]?\.me$/
 /(^|\.)kimoav([1-9][0-9]?)?\.com$/
 /(^|\.)ksyp0[1-9]\.com$/
