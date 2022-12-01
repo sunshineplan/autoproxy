@@ -13688,6 +13688,7 @@
 ||vim.org
 ||xda-developers.com
 ||xda-cdn.com
+||adventofcode.com
 ||alpinelinux.org
 ||apache.org
 ||atom.io
