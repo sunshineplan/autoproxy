@@ -3333,6 +3333,8 @@
 ||huobitoken.com
 ||localbitcoins.com
 ||localbitcoinschain.com
+||okex.com
+||okx.com
 ||zb.app
 ||zb.com
 ||zb.io
@@ -3355,7 +3357,6 @@
 ||infura.io
 ||mytokenapi.com
 ||kraken.com
-||okex.com
 ||opensea.io
 ||paxful.com
 ||truefi.io
