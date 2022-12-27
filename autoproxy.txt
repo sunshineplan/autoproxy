@@ -2902,6 +2902,7 @@
 ||doclercdn.com
 ||cdn77.com
 ||cdn77.org
+||argotunnel.com
 ||cf-ipfs.com
 ||cloudflare-dns.com
 ||cloudflare-ipfs.com
@@ -2909,6 +2910,7 @@
 ||cloudflare.com
 ||cloudflare.net
 ||cloudflare.tv
+||cloudflareaccess.com
 ||cloudflareapps.com
 ||cloudflarebolt.com
 ||cloudflareclient.com
@@ -5922,6 +5924,7 @@
 ||youtube
 ||ggpht.com
 ||googlevideo.com
+||wide-youtube.l.google.com
 ||withyoutube.com
 ||youtu.be
 ||youtube-nocookie.com
