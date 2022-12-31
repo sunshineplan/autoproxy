@@ -4541,6 +4541,7 @@
 ||zlibcdn2.com
 ||aacrjournals.org
 ||academic.eb.com
+||acaric.co.jp
 ||aclweb.org
 ||acm.org
 ||acs.org
@@ -4693,7 +4694,6 @@
 ||worldscientific.com
 ||yale.edu
 ||zenodo.org
-||overleaf.com
 |http://angle.com.tw
 |https://angle.com.tw
 |http://beck-online.beck.de
@@ -13341,6 +13341,8 @@
 ||zoom.com
 ||zoom.com.cn
 ||zoom.us
+||cloudlatex.io
+||overleaf.com
 ||auroraoss.com
 ||anaconda.cloud
 ||anaconda.com
