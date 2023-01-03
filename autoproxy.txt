@@ -6848,6 +6848,8 @@
 ||bbcpersian.com
 ||bbcverticals.com
 ||bidi.net.uk
+|http://aod-pod-uk-live.akamaized.net
+|https://aod-pod-uk-live.akamaized.net
 |http://as-dash-uk-live.akamaized.net
 |https://as-dash-uk-live.akamaized.net
 |http://as-hls-uk-live.akamaized.net
@@ -8248,6 +8250,7 @@
 ||pornhub-deutsch.net
 ||pornhubapparel.com
 ||pornhub.com
+||pornhub.org
 ||pornhubpremium.com
 ||pornpros.com
 ||pornprosnetwork.com
@@ -9480,6 +9483,7 @@
 ||enemahistory.com
 ||enemainformation.com
 ||enemanozzle.info
+||enemaporn.blogspot.com
 ||enemaprocedure.com
 ||enemarotica.com
 ||enemas4fun.com
@@ -11172,6 +11176,7 @@
 ||orzqwq.com
 ||osakamotion.net
 ||osiri-suki-club.com
+||otaku-168.com
 ||otbm.com
 ||otokonokoland.com
 ||oudoll.com
@@ -16201,6 +16206,7 @@
 ||google.ci
 ||google.cl
 ||google.cm
+||google.co
 ||google.co.ao
 ||google.co.bw
 ||google.co.ck
