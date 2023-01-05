@@ -11905,6 +11905,7 @@
 ||sexxxhd.com
 ||sexxxxfilms.com
 ||sexy-babe-pics.com
+||sexy-more.com
 ||sexy-torrents.com
 ||sexy3dtoon.com
 ||sexyandfunny.com
@@ -12106,6 +12107,7 @@
 ||tacamateurs.com
 ||taiav.com
 ||taiwansex.tw
+||takens.tw
 ||taknai.com
 ||taleofthenight.com
 ||tanflix.com
@@ -17716,12 +17718,14 @@
 ||smartonesolutions.hk
 ||valuegb.com
 ||wise-research.com
+||snapads.com
 ||sc-cdn.net
 ||snap-dev.net
 ||snap.com
-||snapads.com
 ||snapchat.com
 ||snapkit.co
+|http://impala-media-production.s3.amazonaws.com
+|https://impala-media-production.s3.amazonaws.com
 ||sony
 ||ginzasonypark.jp
 ||sony-africa.com
