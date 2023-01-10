@@ -16613,12 +16613,17 @@
 ||urchin.com
 /^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$/
 ||charlestonroadregistry.com
+||crr.com
 ||registry.google
 ||get.app
 ||get.dev
 ||get.how
+||get.new
 ||get.page
+||get.rsvp
+||hey.boo
 ||iam.soy
+||new.day
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 |http://alt1-mtalk.google.com
 |https://alt1-mtalk.google.com
@@ -16881,7 +16886,6 @@
 ||bumptunes.com
 ||campuslondon.com
 ||certificate-transparency.org
-||charlestonroadregistry.com
 ||chrome.com
 ||chromebook.com
 ||chromecast.com
@@ -16902,7 +16906,6 @@
 ||coova.net
 ||coova.org
 ||crossmediapanel.com
-||crr.com
 ||cs4hs.com
 ||dartsearch.net
 ||dataliberation.org
