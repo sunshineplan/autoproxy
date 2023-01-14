@@ -18030,6 +18030,7 @@
 ||tegrazone.kr
 |http://nvidia.tt.omtrdc.net
 |https://nvidia.tt.omtrdc.net
+||openai.com
 ||openweather.co.uk
 ||openweathermap.org
 ||oracle
@@ -18104,6 +18105,10 @@
 ||brewmp.com
 |http://qualcomm.sc.omtrdc.net
 |https://qualcomm.sc.omtrdc.net
+||qwant.com
+||qwant.de
+||qwant.fr
+||qwant.it
 ||razer.com
 ||razersupport.com
 ||razerzone.com
