@@ -6866,6 +6866,10 @@
 |https://as-dash-uk-live.akamaized.net
 |http://as-hls-uk-live.akamaized.net
 |https://as-hls-uk-live.akamaized.net
+|http://ve-dash-uk-live.akamaized.net
+|https://ve-dash-uk-live.akamaized.net
+|http://ve-uhd-push-uk-live.akamaized.net
+|https://ve-uhd-push-uk-live.akamaized.net
 |http://vod-dash-ww-live.akamaized.net
 |https://vod-dash-ww-live.akamaized.net
 |http://vod-thumb-ww-live.akamaized.net
@@ -6880,6 +6884,10 @@
 |https://vod-sub-uk-live.akamaized.net
 |http://vs-cmaf-push-uk-live.akamaized.net
 |https://vs-cmaf-push-uk-live.akamaized.net
+|http://vs-cmaf-pushb-ww-live.akamaized.net
+|https://vs-cmaf-pushb-ww-live.akamaized.net
+|http://vs-hls-pushb-uk-live.akamaized.net
+|https://vs-hls-pushb-uk-live.akamaized.net
 ||bloomberg
 ||bbgevent.com
 ||bbhub.io
