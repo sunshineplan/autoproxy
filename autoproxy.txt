@@ -412,6 +412,7 @@
 ||bar
 ||bharti
 ||bingo
+||casa
 ||casino
 ||chat
 ||dating
@@ -8193,6 +8194,10 @@
 ||fansta.me
 |http://misa-prod.s3.ap-northeast-1.amazonaws.com
 |https://misa-prod.s3.ap-northeast-1.amazonaws.com
+||hentaivn.de
+||hentaivn.la
+||hentaivn.net
+||htvncdn.net
 ||heydoga.com
 ||heyzo.com
 ||cuntempire.com
@@ -8927,6 +8932,7 @@
 ||artoferotica.info
 ||arzon.jp
 ||asexdoll.com
+||asextube.net
 ||ashemaletube.com
 ||ashemaletv.com
 ||asiamoviepass.com
@@ -9160,6 +9166,7 @@
 ||blogterest.net
 ||blowjobit.com
 ||blowjobqueens.net
+||bluffyporn.com
 ||bobs-tube.com
 ||bobvoyeur.com
 ||bodgirls.com
@@ -9691,6 +9698,7 @@
 ||eromanga-cafe.com
 ||eromanga-hentai.com
 ||eromanga-mainichi.com
+||eromanga-school.com
 ||eromangajukujo.com
 ||eromazofu.com
 ||erome.com
@@ -10262,10 +10270,14 @@
 ||hegre.com
 ||helixstudios.net
 ||hellven.net
+||hentai-ani.me
 ||hentai-archive.com
+||hentai-books.com
+||hentai-cosplays.com
 ||hentai-for.net
 ||hentai-fun.com
 ||hentai-gamer.com
+||hentai-gif-anime.com
 ||hentai-img.com
 ||hentai-moon.com
 ||hentai-space.supertop-100.com
@@ -10297,6 +10309,7 @@
 ||hentai69.online
 ||hentaia.net
 ||hentaiaction.net
+||hentaiasmr.moe
 ||hentaibar.com
 ||hentaiblue.com
 ||hentaibros.com
@@ -10366,7 +10379,6 @@
 ||hentaitk.com
 ||hentaitube.online
 ||hentaivideos.net
-||hentaivn.la
 ||hentaivvz.com
 ||hentaiworld.eu
 ||hentaiworld.tv
@@ -11432,6 +11444,7 @@
 ||nuuporn.com
 ||nuvid.com
 ||nverxs.xyz
+||nyahentai.re
 ||obutu.com
 ||ohentai.org
 ||ohgratisporrfilm.com
@@ -11737,6 +11750,7 @@
 ||pornhuub.xyz
 ||pornicom.com
 ||pornid.xxx
+||pornimg.xyz
 ||pornjam.com
 ||pornjav.org
 ||pornjizz.co
@@ -11787,6 +11801,7 @@
 ||pornocaserotube.com
 ||pornocd.ru
 ||pornocomic.net
+||pornodanke.com
 ||pornodebolivia.net
 ||pornodoido.com
 ||pornodrome.tv
@@ -11800,6 +11815,7 @@
 ||pornogram.xxx
 ||pornogramxxx.com
 ||pornogratis.vlog.br
+||pornogrund.com
 ||pornoh.info
 ||pornohd.plus
 ||pornohoo.com.mx
@@ -11812,11 +11828,13 @@
 ||pornoisy.com
 ||pornoitaliano.com
 ||pornojefe.com
+||pornojux.com
 ||pornoko.net
 ||pornokrol.com
 ||pornolab.net
 ||pornolaba.mobi
 ||pornolandia.xxx
+||pornomasse.com
 ||pornomineiro.com
 ||pornone.com
 ||pornoorzel.com
@@ -11884,6 +11902,7 @@
 ||pornve.com
 ||pornvibe.org
 ||pornvideobb.com
+||pornvideos.casa
 ||pornvideotop.com
 ||pornvideotube.online
 ||pornvidhd.club
@@ -11893,6 +11912,7 @@
 ||pornwhitelist.com
 ||pornwild.to
 ||pornworld.to
+||pornxp.com
 ||pornxs.com
 ||pornxvideos.tv
 ||pornxvideos.win
@@ -13195,6 +13215,7 @@
 ||xxx-files.org
 ||xxx-hentai.blogspot.com
 ||xxx-porn-fuck.com
+||xxx-porn-tube.com
 ||xxx-porn.info
 ||xxx-video.cfd
 ||xxx-videos.tv
