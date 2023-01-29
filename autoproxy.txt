@@ -5375,7 +5375,6 @@
 ||steam-api.com
 ||steam-chat.com
 ||steamcommunity.com
-||steamcontent.com
 ||steamdeck.com
 ||steamgames.com
 ||steampowered.com
@@ -17605,6 +17604,7 @@
 ||logitech.biz
 ||logitech.com
 ||logitech.fr
+||logitech.io
 ||logitechg.com
 ||logitechg.fr
 ||worldsfastestgamer.net
@@ -18055,6 +18055,7 @@
 ||nvidia.se
 ||nvidia.tw
 ||nvidiaforhp.com
+||nvidiagrid.net
 ||shotwithgeforce.com
 ||tegrazone.co
 ||tegrazone.co.kr
