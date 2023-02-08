@@ -8045,7 +8045,6 @@
 ||factwire.org
 ||fortuneinsight.com
 ||freebeacon.com
-||ganjingworld.com
 ||gbnews.uk
 ||hk01.com
 ||hkcitizenmedia.com
@@ -11431,6 +11430,7 @@
 ||nijioma.blog
 ||nineteentube.com
 ||ninpu.cyou
+||niuc2.com
 ||niziero.info
 ||nlsexfilmpjes.com
 ||nlt-media.com
@@ -13598,6 +13598,8 @@
 ||dongtaiwang.com
 ||falundafa.org
 ||falundafa.org.tw
+||ganjing.com
+||ganjingworld.com
 ||mhradio.org
 ||ninecommentaries.com
 ||shenyun.com
@@ -13795,7 +13797,10 @@
 ||osdn.net
 ||pastebin.com
 ||patreon.com
+||patreoncommunity.com
 ||patreonusercontent.com
+|http://live-patreon-marketing.pantheonsite.io
+|https://live-patreon-marketing.pantheonsite.io
 ||pics.ee
 ||picsee.co
 ||picsee.pro
@@ -17687,10 +17692,13 @@
 ||logicoolg.com
 ||logitech.biz
 ||logitech.com
+||logitech.com.cn
 ||logitech.fr
 ||logitech.io
 ||logitechg.com
+||logitechg.com.cn
 ||logitechg.fr
+||logitechio.com.cn
 ||worldsfastestgamer.net
 ||imgsmail.ru
 ||mail.ru
