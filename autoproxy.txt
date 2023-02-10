@@ -14359,6 +14359,7 @@
 ||cygwin.com
 ||cython.org
 ||deno.land
+||dev.to
 ||elixir-lang.org
 ||elrepo.org
 ||erlang.org
@@ -14697,6 +14698,7 @@
 ||audible.com
 ||createspace.com
 ||amd.com
+||amd.com.cn
 ||amdfanstore.com
 ||radeon.com
 ||iadsdk.apple.com
