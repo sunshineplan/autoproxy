@@ -8076,6 +8076,7 @@
 ||my-formosa.com
 ||newtalk.tw
 ||newyorker.com
+||nextapple.com
 ||nownews.com
 ||npr.org
 ||on.cc
@@ -8311,6 +8312,8 @@
 ||hkporn.net
 ||justav.net
 ||twporn.net
+||konachan.com
+||konachan.net
 ||kubakuba.global
 ||kubakuba1996.com
 ||lethalhardcore.com
@@ -11016,7 +11019,6 @@
 ||kobe-pastel.com
 ||kompoz.com
 ||kompoz2.com
-||konachan.net
 ||konachan.wjcodes.com
 ||koreanpornmovie.com
 ||korewaeroi.com
@@ -18287,7 +18289,10 @@
 ||tegrazone.kr
 |http://nvidia.tt.omtrdc.net
 |https://nvidia.tt.omtrdc.net
+||ai.com
 ||openai.com
+|http://openaiapi-site.azureedge.net
+|https://openaiapi-site.azureedge.net
 ||openweather.co.uk
 ||openweathermap.org
 ||oracle
