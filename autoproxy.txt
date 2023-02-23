@@ -14136,6 +14136,7 @@
 ||ghcr.io
 ||mcr.microsoft.com
 ||quay.io
+||registry.gitlab.com
 ||registry.k8s.io
 /.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$/
 ||dart.dev
