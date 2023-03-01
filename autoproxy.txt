@@ -14010,7 +14010,6 @@
 ||opencollective.com
 ||omaps.app
 ||organicmaps.app
-||osdn.net
 ||pastebin.com
 ||patreon.com
 ||patreoncommunity.com
@@ -14483,6 +14482,7 @@
 ||nginx.org
 ||openwrt.org
 ||lede-project.org
+||osdn.net
 ||perl.org
 ||cpan.org
 ||metacpan.org
