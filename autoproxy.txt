@@ -12260,6 +12260,7 @@
 ||qdiehzz7.me
 ||qdmomentum.com
 ||qinav.com
+||qingenporn.net
 ||qingse.one
 ||qkjuyet.com
 ||qmov.com
@@ -13238,6 +13239,7 @@
 ||vrsmash.com
 ||vrsumo.com
 ||vsezoo.com
+||vulgarx.com
 ||vxnbbrs.xyz
 ||vxxsred.xyz
 ||wankgames.com
@@ -13783,6 +13785,7 @@
 /(^|\.)[a-z]?fulibl\.(cc|com|org|net|xyz)$/
 /(^|\.)783([a-z][a-z]?)?\.tv$/
 /(^|\.)8dgo[1-57-9]\.com$/
+/(^|\.)91p[1-9][0-9]?\.com$/
 /(^|\.)91porn[0-9]{3}\.me$/
 /(^|\.)989[a-z]?\.tv$/
 /(^|\.)99pp[1-9][0-9]\.com$/
