@@ -9015,6 +9015,7 @@
 ||analvids.com
 ||ancensored.com
 ||andygod.com
+||angelweb.jp
 ||anibooru.com
 ||anilos.com
 ||animal-hentai.com
@@ -14561,6 +14562,7 @@
 ||qq.design
 ||qqgamedesign.com
 ||tencent.design
+||tjstats.com
 ||wegamedeveloper.com
 ||termux.com
 ||termux.dev
