@@ -6266,9 +6266,10 @@
 ||ptt.cc
 ||ptt2.cc
 ||ptt3.cc
+||poe.com
+||qr.ae
 ||quora.com
 ||quoracdn.net
-||qr.ae
 ||reddit.com
 ||redditstatic.com
 ||redditmail.com
