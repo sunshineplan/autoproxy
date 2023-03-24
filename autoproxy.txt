@@ -18511,9 +18511,9 @@
 |http://statics-marketingsites-wcus-ms-com.akamaized.net
 |https://statics-marketingsites-wcus-ms-com.akamaized.net
 ||mindgeek.com
+||developer.allizom.org
+||developer.mozilla.org
 ||mdn.mozit.cloud
-|http://developer.mozilla.org
-|https://developer.mozilla.org
 |http://interactive-examples.mdn.mozilla.net
 |https://interactive-examples.mdn.mozilla.net
 |http://mdn.mozillademos.org
@@ -18599,6 +18599,8 @@
 |https://nvidia.tt.omtrdc.net
 ||ai.com
 ||openai.com
+|http://chat.openai.com.cdn.cloudflare.net
+|https://chat.openai.com.cdn.cloudflare.net
 |http://openaiapi-site.azureedge.net
 |https://openaiapi-site.azureedge.net
 ||openweather.co.uk
