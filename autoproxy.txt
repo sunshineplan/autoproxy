@@ -6294,6 +6294,7 @@
 ||safechat.com
 ||sis001.com
 ||v2ex.com
+||hydrogenaud.io
 ||aboutfacebook.com
 ||accessfacebookfromschool.com
 ||acebooik.com
@@ -16391,6 +16392,7 @@
 ||5lml.com
 ||a0pple.net
 ||aapl.tw
+||aaplimg.com
 ||airport.brussels
 ||airport.com
 ||airport.eu
