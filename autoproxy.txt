@@ -5843,6 +5843,7 @@
 ||olevod.tv
 ||olevodtv.com
 ||pbs.org
+||ads-pixiv.net
 ||booth.pm
 ||fanbox.cc
 ||pixiv.net
