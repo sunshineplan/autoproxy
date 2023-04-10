@@ -46,7 +46,6 @@
 ||by
 ||bz
 ||ca
-||cc
 ||cd
 ||cf
 ||cg
@@ -55,7 +54,6 @@
 ||ck
 ||cl
 ||cm
-||co
 ||cr
 ||cu
 ||cv
@@ -146,7 +144,6 @@
 ||ma
 ||mc
 ||md
-||me
 ||mf
 ||mg
 ||mh
@@ -192,7 +189,6 @@
 ||ps
 ||ps
 ||pt
-||pw
 ||py
 ||qa
 ||re
@@ -19773,6 +19769,8 @@
 ||wmflabs.org
 ||atwiki.jp
 ||touhouwiki.net
+||api.nebula-emby.com
+||web.nebula-emby.com
 ||avxhm.se
 ||avh.world
 ||avxde.org
