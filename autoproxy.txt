@@ -8322,6 +8322,7 @@
 ||hath.network
 ||hentaiathome.net
 ||hentaiverse.org
+||ero-labs.cloud
 ||ero-labs.com
 ||ero-labs.net
 ||ero-labs.online
@@ -8330,6 +8331,7 @@
 ||erolabs.com
 ||erolabs.game
 ||erolabs.net
+||erolabs.online
 ||fansta.me
 |http://misa-prod.s3.ap-northeast-1.amazonaws.com
 |https://misa-prod.s3.ap-northeast-1.amazonaws.com
