@@ -5474,6 +5474,8 @@
 |https://steamcdn-a.akamaihd.net
 |http://steamcommunity-a.akamaihd.net
 |https://steamcommunity-a.akamaihd.net
+|http://steammobile.akamaized.net
+|https://steammobile.akamaized.net
 |http://steampipe-kr.akamaized.net
 |https://steampipe-kr.akamaized.net
 |http://steampipe-partner.akamaized.net
