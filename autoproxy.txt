@@ -1095,7 +1095,10 @@
 ||freebrowser.org
 ||freewechat.com
 ||freeweibo.com
+||freezhihu.org
 ||greatfire.org
+||pao-pao.net
+||wikiunblocked.org
 ||haveibeenpwned.com
 ||pwnedpasswords.com
 ||getlantern.org
