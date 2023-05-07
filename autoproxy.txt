@@ -8769,6 +8769,7 @@
 ||10musume.com
 ||110xnxx.com
 ||114av.xyz
+||11jav.com
 ||123sex.top
 ||123videos.tv
 ||128100.xyz
@@ -9127,6 +9128,7 @@
 ||airav.cc
 ||airav.wiki
 ||airsextube.com
+||aisejushi.com
 ||ajsjx.com
 ||akiba-online.com
 ||akiba-web.com
@@ -11249,6 +11251,7 @@
 ||javbabe.net
 ||javbangers.com
 ||javbobo.com
+||javbooks.com
 ||javbraze.com
 ||javbuz.com
 ||javcl.com
@@ -11357,7 +11360,6 @@
 ||javxxx.me
 ||javynow.com
 ||jayspov.net
-||jbk005.com
 ||jdavsp.asia
 ||jdavsp.pw
 ||jdforum.net
@@ -14353,11 +14355,13 @@
 /(^|\.)[a-z]?fulibl\.(cc|com|org|net|xyz)$/
 /(^|\.)69bag[0-1][1-9]?\.com$/
 /(^|\.)783([a-z][a-z]?)?\.tv$/
+/(^|\.)7mm0([0-1][0-9]?)?\.com$/
 /(^|\.)8dgo[1-57-9]\.com$/
 /(^|\.)91p[0-9][0-9]?\.com$/
 /(^|\.)91porn[0-9]{3}\.me$/
 /(^|\.)989[a-z]?\.tv$/
 /(^|\.)99pp[1-9][0-9]\.com$/
+/(^|\.)aisejushi(2|3|5|6)\.com$/
 /(^|\.)avcc1[0-9]\.com$/
 /(^|\.)avstar0[1-9]\.(com|me)$/
 /(^|\.)banyinjia[0-9]?\.com$/
@@ -14371,6 +14375,7 @@
 /(^|\.)h5ccav[1-5]\.com$/
 /(^|\.)hkfg[1-7]\.xyz$/
 /(^|\.)jav777\.(cc|tv|work)$/
+/(^|\.)jbk0([0-1][0-9]?)?\.com$/
 /(^|\.)jdyy[1-9]?\.me$/
 /(^|\.)kimoav([1-9][0-9]?)?\.com$/
 /(^|\.)ksyp0[1-9]\.com$/
