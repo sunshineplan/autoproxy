@@ -5588,6 +5588,7 @@
 |https://espndotcom.tt.omtrdc.net
 ||hotstar.com
 ||hotstar-cdn.net
+||hotstar-labs.com
 ||hotstarext.com
 ||hsprepack.akamaized.net
 /^hses[1-7]?.akamaized.net$/
@@ -9218,7 +9219,6 @@
 ||amourangels.com
 ||amsterdamhotescort.com
 ||amsterdamluxescort.com
-||amz123.com
 ||anacams.com
 ||anal-pantyhose.com
 ||anal.casa
@@ -10511,6 +10511,7 @@
 ||fuqqt.com
 ||furaffinity.net
 ||furrypornvideos.com
+||furuke.com
 ||fuskator.com
 ||fusker.xxx
 ||futanarihq.com
