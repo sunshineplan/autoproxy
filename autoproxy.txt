@@ -5541,6 +5541,7 @@
 ||xboxplayanywhere.com
 ||xboxstudios.com
 ||xbx.lv
+||ynoproject.net
 ||fanatical.com
 ||humblebundle.com
 ||loverslab.com
@@ -6346,6 +6347,7 @@
 ||ptt2.cc
 ||ptt3.cc
 ||poe.com
+||poecdn.net
 ||qr.ae
 ||quora.com
 ||quoracdn.net
@@ -18236,6 +18238,7 @@
 ||googlesverige.com
 ||googleusercontent.com
 ||googleventures.com
+||googlezip.net
 ||googlr.com
 ||goolge.com
 ||gooogle.com
