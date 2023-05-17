@@ -5522,6 +5522,7 @@
 ||forzamotorsport.net
 ||forzaracingchampionship.com
 ||forzarc.com
+||gamepass.com
 ||orithegame.com
 ||renovacionxboxlive.com
 ||tellmewhygame.com
@@ -5541,6 +5542,7 @@
 ||xboxone.com
 ||xboxone.eu
 ||xboxplayanywhere.com
+||xboxservices.com
 ||xboxstudios.com
 ||xbx.lv
 ||ynoproject.net
