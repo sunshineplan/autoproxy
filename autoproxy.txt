@@ -15189,6 +15189,7 @@
 ||adventofcode.com
 ||alpinelinux.org
 ||apache.org
+||artixlinux.org
 ||atom.io
 ||badgen.net
 ||bitvise.com
@@ -19216,9 +19217,13 @@
 |https://statics-marketingsites-eus-ms-com.akamaized.net
 |http://statics-marketingsites-wcus-ms-com.akamaized.net
 |https://statics-marketingsites-wcus-ms-com.akamaized.net
+||mikrotik.com
+||mt.lv
+||routerboard.com
 ||mindgeek.com
 ||developer.allizom.org
 ||developer.mozilla.org
+||mdn.dev
 ||mdn.mozit.cloud
 |http://interactive-examples.mdn.mozilla.net
 |https://interactive-examples.mdn.mozilla.net
