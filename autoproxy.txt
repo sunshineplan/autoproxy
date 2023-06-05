@@ -5010,6 +5010,12 @@
 ||2kcoretech.online
 ||2kgames.com
 ||take2games.com
+||bilibiligame.cn
+||bilibiligame.co
+||bilibiligame.net
+||biligame.co
+||biligame.com
+||biligame.net
 ||blizzard.com
 ||blizzardgearstore.com
 ||blz-contentstack.com
@@ -5262,6 +5268,7 @@
 ||seagroup.com
 ||gog.com
 ||gog-statics.com
+||lowiro.com
 ||100classicbooks.com
 ||amiibo.com
 ||ayudanintendo.com
