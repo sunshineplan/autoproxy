@@ -5355,6 +5355,7 @@
 ||pokemonultrasunmoon.com
 ||pokemonvgc.com
 ||pokemonwifi.net
+||pokemon-unitepgame.com
 ||xn--mts47c3w9b1qr.net
 ||splatoon2tournament.com
 ||starfox.com
@@ -7191,6 +7192,7 @@
 ||epochtime.com
 ||epochtimes-bg.com
 ||epochtimes-romania.com
+||epochtimes.bg
 ||epochtimes.co.il
 ||epochtimes.co.kr
 ||epochtimes.co.uk
