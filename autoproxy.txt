@@ -5337,6 +5337,7 @@
 ||pokemon-moon.com
 ||pokemon-sun.com
 ||pokemon-sunmoon.com
+||pokemon-unitepgame.com
 ||pokemon.com
 ||pokemonbank.com
 ||pokemonblackwhite.com
@@ -5355,7 +5356,6 @@
 ||pokemonultrasunmoon.com
 ||pokemonvgc.com
 ||pokemonwifi.net
-||pokemon-unitepgame.com
 ||xn--mts47c3w9b1qr.net
 ||splatoon2tournament.com
 ||starfox.com
