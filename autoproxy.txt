@@ -5389,6 +5389,7 @@
 ||pandanet-igs.com
 ||pinkcore.com
 ||pinkcore.net
+||sekai.colorfulpalette.org
 ||playstation
 ||playstation.com
 ||playstation.net
