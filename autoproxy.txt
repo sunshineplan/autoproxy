@@ -18057,6 +18057,7 @@
 ||googletagmanager.com
 ||googletagservices.com
 ||googletraveladservices.com
+||marketingplatform.google.com
 ||urchin.com
 |http://analytics.google.com
 |https://analytics.google.com
