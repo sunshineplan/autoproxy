@@ -7002,12 +7002,13 @@
 |http://asahishimbun.sc.omtrdc.net
 |https://asahishimbun.sc.omtrdc.net
 ||bbc
+||bbc-reporting-api.app
 ||bbc.co.uk
 ||bbc.com
 ||bbc.in
 ||bbc.net.uk
-||bbci.co.uk
 ||bbcfmt.s.llnwi.net
+||bbci.co.uk
 ||bbcmedia.co.uk
 ||bbcpersian.com
 ||bbcverticals.com
@@ -7967,6 +7968,7 @@
 ||guardianapis.com
 ||guardianapps.co.uk
 ||guim.co.uk
+||guimcode.co.uk
 ||theguardian.com
 ||theguardiandns.com
 ||theinitium.com
@@ -19987,6 +19989,7 @@
 ||yimg.com
 ||yimg.jp
 ||ymail.com
+||yusercontent.com
 ||yandex
 ||xn--d1acpjx3f.xn--p1ai
 ||dzen.ru
