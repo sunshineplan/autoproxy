@@ -3248,6 +3248,7 @@
 ||trustcor.ca
 ||trustcor.com
 ||trustisfps.com
+||clubhouse.com
 ||clubhouseapi.com
 ||joinclubhouse.com
 ||dis.gd
@@ -5242,6 +5243,7 @@
 ||easy.ac
 ||easyanticheat.net
 ||epicgames.com
+||epicgames.dev
 ||fortnite.com
 ||paragon.com
 ||playparagon.com
@@ -7663,6 +7665,8 @@
 ||manototv.com
 ||matters.news
 ||matters.one
+||matters.town
+||mattersprotocol.io
 ||mediachinese.com
 ||mysinchew.com
 ||sinchew.com.my
@@ -12853,7 +12857,7 @@
 ||qmov.net
 ||qmttqg3k.me
 ||qombol.com
-||qombol.com
+||qooqlevideo.com
 ||qorno.com
 ||qporno.xxx
 ||quickiepage.com
@@ -15911,6 +15915,7 @@
 ||awsthinkbox.com
 ||awstrack.me
 ||cdkworkshop.com
+||cloudfront.com
 ||cloudfront.net
 ||containersonaws.com
 ||elasticbeanstalk.com
@@ -15975,6 +15980,7 @@
 ||amazon.com.mx
 ||amazon.com.tr
 ||amazon.de
+||amazon.dev
 ||amazon.es
 ||amazon.fr
 ||amazon.in
@@ -17716,6 +17722,8 @@
 ||canon.uz
 ||canonfoundation.org
 ||canonproprinters.com
+||chegg.com
+||cheggcdn.com
 ||webex.ca
 ||webex.co.in
 ||webex.co.it
@@ -19052,6 +19060,10 @@
 ||xn--ztsq84g.cn
 ||xscale.com
 ||barefootnetworks.com
+||kakao.com
+||kakaocdn.net
+||kakaocorp.com
+||kakaotalk.jp
 ||lg.com
 ||lgappstv.com
 ||lge.co.kr
@@ -19121,6 +19133,7 @@
 ||azuredns-prd.org
 ||azureedge-test.net
 ||azureedge.net
+||azurefd.net
 ||azureiotcentral.com
 ||azureiotsolutions.com
 ||azureiotsuite.com
@@ -19272,9 +19285,11 @@
 ||crossborderexpansion.com
 ||docs.com
 ||dynamics.com
+||edgesuite.net
 ||efproject.net
 ||fasttrackreadysupport.com
 ||fluidpreview.com
+||footprintdns.com
 ||gameuxmasterguide.com
 ||gears5.com
 ||gearspop.com
@@ -20086,6 +20101,7 @@
 ||rarbgto.org
 ||rarbgunblock.com
 ||rarbgunblock.org
+||rarbgunblocked.org
 ||rarbgway.org
 ||928.plus
 ||zind.cloud
