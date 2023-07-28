@@ -8266,6 +8266,8 @@
 ||pugpig-stage.com
 ||pugpig.com
 ||archive.org
+||archive-it.org
+||openlibrary.org
 ||ccstatic.org
 ||creativecommons.org
 ||creativecommons.engineering
@@ -14665,6 +14667,8 @@
 ||addthiscdn.com
 ||addthisedge.com
 ||addtoany.com
+||adguard-dns.com
+||adguard-dns.io
 ||adguard-vpn.com
 ||adguard.com
 ||aptoide.com
