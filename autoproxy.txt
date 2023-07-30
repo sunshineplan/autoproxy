@@ -3415,6 +3415,11 @@
 ||localbitcoinschain.com
 ||okex.com
 ||okx.com
+||onekey-asset.com
+||onekey.so
+||onekeycn.com
+|http://onekey.zendesk.com
+|https://onekey.zendesk.com
 ||zb.app
 ||zb.com
 ||zb.io
