@@ -15218,6 +15218,8 @@
 ||jetbrains.team
 ||datalore.io
 ||kotlinlang.org
+||grazie.ai
+||grazie.aws.intellij.net
 ||jfrog.com
 ||jfrog.org
 ||bintray.com
