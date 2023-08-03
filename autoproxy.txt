@@ -4277,6 +4277,7 @@
 ||target.com
 ||targetimg1.com
 ||walmart
+||w-mt.co
 ||wal-mart.com
 ||wal.co
 ||walmart-content.com
