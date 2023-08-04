@@ -19576,7 +19576,6 @@
 ||tegrazone.kr
 |http://nvidia.tt.omtrdc.net
 |https://nvidia.tt.omtrdc.net
-||ai.com
 ||openai.com
 |http://chat.openai.com.cdn.cloudflare.net
 |https://chat.openai.com.cdn.cloudflare.net
