@@ -19624,6 +19624,9 @@
 ||pccwglobal.com
 ||pccwsolutions.com
 ||moov.hk
+||myqnapcloud.com
+||qlink.to
+||qnap.com
 ||airgonetworks.com
 ||berkanawireless.com
 ||cdmatech.com
