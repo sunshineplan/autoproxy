@@ -5024,12 +5024,6 @@
 ||2kcoretech.online
 ||2kgames.com
 ||take2games.com
-||bilibiligame.cn
-||bilibiligame.co
-||bilibiligame.net
-||biligame.co
-||biligame.com
-||biligame.net
 ||blizzard.com
 ||blizzardgearstore.com
 ||blz-contentstack.com
