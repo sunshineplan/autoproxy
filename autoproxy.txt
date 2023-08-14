@@ -17969,6 +17969,7 @@
 ||dell-brand.com
 ||dell.com
 ||dellcdn.com
+||duolingo.com
 ||clickedu.co.uk
 ||deepfreeze.co.uk
 ||deepfreeze.com
