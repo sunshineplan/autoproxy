@@ -22,7 +22,7 @@ jobs:
         id: run
         run: |
           cd repo
-          go run main.go
+          go run .
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add autoproxy.txt
