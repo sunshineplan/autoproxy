@@ -15343,6 +15343,8 @@
 ||rustup.rs
 ||crates.io
 ||docs.rs
+||redhat.com
+||redhat.org
 ||scala-lang.org
 ||scala-sbt.org
 ||askubuntu.com
