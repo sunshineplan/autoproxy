@@ -18831,6 +18831,9 @@
 ||ibm.us
 ||s-bluemix.net
 ||s81c.com
+||inshot.cc
+||inshot.com
+||inshotapp.com
 ||intel
 ||intel.ac
 ||intel.ae
