@@ -17991,6 +17991,8 @@
 ||faronicswise.com
 |http://faronics.kayako.com
 |https://faronics.kayako.com
+||giffgaff.com
+||giffgaff.design
 ||aorus.com
 ||gigabyte.com
 |http://gigabyte2.azureedge.net
