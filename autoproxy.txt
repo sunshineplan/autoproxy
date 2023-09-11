@@ -3390,6 +3390,8 @@
 ||binancezh.top
 ||binanceapi.com
 ||bnbstatic.com
+||saasexch.com
+||appsflayer.com
 ||bitflyer.com
 ||bitflyer.jp
 ||bisq.io
@@ -3427,6 +3429,7 @@
 ||bitbank.cc
 ||bitcoin.org
 ||bitfinex.com
+||bitget.com
 ||bitmex.com
 ||bitquick.co
 ||bitstamp.net
@@ -3434,17 +3437,24 @@
 ||btcbox.co.jp
 ||cex.io
 ||coinbase.com
+||coingecko.com
 ||coinglass.com
+||coinmarketcap.com
+||crypto.com
 ||cryptocompare.com
 ||curve.fi
 ||debank.com
 ||dogecoin.com
+||gate.io
 ||infura.io
+||mexc.com
+||mexcsensors.com
 ||mytokenapi.com
 ||kraken.com
 ||opensea.io
 ||paxful.com
 ||truefi.io
+||unisat.io
 ||uniswap.org
 ||zapper.fi
 ||adidas.at
@@ -6089,6 +6099,7 @@
 |https://d2anahhhmp1ffz.cloudfront.net
 ||mox.moe
 ||vol.moe
+||webnovel.com
 ||wwe.com
 ||wwe9.com
 ||youtube
@@ -11573,6 +11584,7 @@
 ||kichikuou.com
 ||kickporn.com
 ||kikdirty.com
+||killcovid2021.com
 ||kimchi.tv
 ||kimogirl.cc
 ||kimosex.com
