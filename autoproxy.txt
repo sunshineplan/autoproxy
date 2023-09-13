@@ -14700,6 +14700,7 @@
 ||bitly.com
 ||bitly.is
 ||bitwarden.com
+||bitwarden.eu
 ||bigbuckbunny.org
 ||blender.org
 ||elephantsdream.org
