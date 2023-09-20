@@ -8838,6 +8838,7 @@
 ||11jav.com
 ||123sex.top
 ||123videos.tv
+||126728.net
 ||128100.xyz
 ||132288.cc
 ||141hongkong.com
@@ -8865,6 +8866,7 @@
 ||18doujinshi.xyz
 ||18exgfs.com
 ||18h.mm-cg.com
+||18h.tv
 ||18hmanga.click
 ||18hmanga.com
 ||18insta.com
@@ -9066,6 +9068,7 @@
 ||91porn.work
 ||91porny.com
 ||91qk41rf.com
+||91quanji.com
 ||91rb.com
 ||91rb.net
 ||91se.fun
@@ -9565,6 +9568,7 @@
 ||beejp.net
 ||befuck.com
 ||befuck.net
+||beiyongzhan1.com
 ||bejav.net
 ||bekijkporno.nl
 ||belamionline.com
@@ -10629,6 +10633,7 @@
 ||gamesofdesire.com
 ||gandhara.ru
 ||gao1.cc
+||gaofuwu.cc
 ||garotaporno.com
 ||garotoesperto.com
 ||gastrointestinalexam.com
@@ -10779,6 +10784,7 @@
 ||gothdporn.com
 ||gotporn.com
 ||gouri.xyz
+||gqzmnav.cc
 ||grabhentai.com
 ||grabpussy.com
 ||gradeuptube.com
@@ -11365,6 +11371,7 @@
 ||jav9999.com
 ||javbabe.net
 ||javbangers.com
+||javbest.tv
 ||javbobo.com
 ||javbooks.com
 ||javbraze.com
@@ -11509,6 +11516,7 @@
 ||jjgirls.com
 ||jjsuo.sbs
 ||jm98.cc
+||jmvbt.com
 ||jodic-forum.org
 ||johnpersons.com
 ||joiasmr.com
@@ -11799,6 +11807,7 @@
 ||madonna-av.com
 ||madou.club
 ||madou.la
+||madou.tv
 ||madouav.one
 ||madouzx.monster
 ||madouzx.top
@@ -13288,6 +13297,7 @@
 ||shesfreaky.com
 ||sheshaft.com
 ||shianyuanfang.com
+||shibashuwu.net
 ||shikorina.net
 ||shit-porn.net
 ||shithd.com
@@ -14588,7 +14598,7 @@
 /(^|\.)lianren[1-7]\.cc$/
 /(^|\.)loibus\.(cc|com|link)$/
 /(^|\.)loibus(100|101|202|505|606)\.top$/
-/(^|\.)maa18[1-2][0-9]\.com$/
+/(^|\.)maa18[0-2][0-9]\.com$/
 /(^|\.)mdyy[0-9][0-9]\.cc$/
 /(^|\.)mdyy[0-1][0-9]\.com$/
 /(^|\.)mimi\.(cfd|lol|onl|sbs|so|vc)$/
@@ -15133,6 +15143,7 @@
 ||fastlane.tools
 ||getfedora.org
 ||fedoraforum.org
+||fedorapeople.org
 ||fedoraproject.org
 ||fedoramagazine.org
 ||flathub.org
@@ -15497,6 +15508,7 @@
 ||xposed.info
 ||yarnpkg.com
 ||zsh.org
+||huggingface.co
 ||acer-group.com
 ||acer.com
 |http://3dns-1.adobe.com
