@@ -5400,6 +5400,7 @@
 ||wiiugamepad.com
 ||wiivc.net
 ||xenoblade.com
+||nikke-kr.com
 ||op.gg
 |http://opgg-static.akamaized.net
 |https://opgg-static.akamaized.net
