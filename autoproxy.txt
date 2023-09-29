@@ -5400,7 +5400,12 @@
 ||wiiugamepad.com
 ||wiivc.net
 ||xenoblade.com
+||nikke-de.com
+||nikke-en.com
+||nikke-fr.com
+||nikke-jp.com
 ||nikke-kr.com
+||nikke-sea.com
 ||op.gg
 |http://opgg-static.akamaized.net
 |https://opgg-static.akamaized.net
@@ -10607,6 +10612,7 @@
 ||fulib711.shop
 ||fuliba2021.com
 ||fuliba2023.net
+||fulipic.gumroad.com
 ||fullbookmm.blogspot.com
 ||fulldesisex.com
 ||fullfuli.com
@@ -13087,6 +13093,7 @@
 ||selfloversworld.com
 ||seneporno.com
 ||seniortgp.com
+||senluocaituan.gumroad.com
 ||senpaiheat.com
 ||sensualgirls.org
 ||sensualmothers.com
