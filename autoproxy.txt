@@ -2978,6 +2978,7 @@
 ||argotunnel.com
 ||cf-ipfs.com
 ||cloudflare-dns.com
+||cloudflare-ech.com
 ||cloudflare-gateway.com
 ||cloudflare-ipfs.com
 ||cloudflare-quic.com
@@ -6020,6 +6021,8 @@
 |https://audio-ak-spotify-com.akamaized.net
 |http://audio4-ak-spotify-com.akamaized.net
 |https://audio4-ak-spotify-com.akamaized.net
+|http://cdn-spotify-experiments.conductrics.com
+|https://cdn-spotify-experiments.conductrics.com
 |http://heads-ak-spotify-com.akamaized.net
 |https://heads-ak-spotify-com.akamaized.net
 |http://heads4-ak-spotify-com.akamaized.net
