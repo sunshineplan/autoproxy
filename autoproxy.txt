@@ -4634,6 +4634,7 @@
 ||sg1lib.org
 ||singlelogin.app
 ||singlelogin.me
+||singlelogin.site
 ||z-lib.org
 ||zlib.life
 ||zlibcdn.com
@@ -8292,8 +8293,10 @@
 ||pugpig-dev.com
 ||pugpig-stage.com
 ||pugpig.com
-||archive.org
 ||archive-it.org
+||archive.org
+||archive.ph
+||archive.today
 ||openlibrary.org
 ||ccstatic.org
 ||creativecommons.org
