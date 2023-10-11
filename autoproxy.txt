@@ -4100,6 +4100,7 @@
 ||nike.com.hk
 ||nike.gy
 ||nike.hk
+||nike.host
 ||nike.shop
 ||nike.us
 ||nike.xn--hxt814e
@@ -8573,6 +8574,8 @@
 ||picacomic.com
 ||picacomic.xyz
 ||wikawika.xyz
+||playboy.com
+||playboy.com.uk
 ||pornpros.com
 ||pornprosnetwork.com
 ||shireyishunjian.com
@@ -12479,7 +12482,6 @@
 ||planetsuzy.org
 ||platinumlinks.org
 ||playbar.biz
-||playboy.com
 ||playboyplus.com
 ||playforceone.com
 ||playmeow.com
