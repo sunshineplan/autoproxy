@@ -3336,6 +3336,7 @@
 ||slackcertified.com
 ||slackdemo.com
 ||slackhq.com
+||cdn-telegram.org
 ||comments.app
 ||contest.com
 ||graph.org
@@ -6067,10 +6068,12 @@
 ||musical.ly:@!cn
 ||tik-tokapi.com:@!cn
 ||tiktok.com:@!cn
+||tiktokcdn-us.com:@!cn
+||tiktokcdn.com:@!cn
 ||tiktokd.net:@!cn
 ||tiktokd.org:@!cn
-||tiktokcdn.com:@!cn
 ||tiktokv.com:@!cn
+||ttwstatic.com:@!cn
 |http://p16-tiktokcdn-com.akamaized.net:@!cn
 |https://p16-tiktokcdn-com.akamaized.net:@!cn
 ||themoviedb.org
@@ -14790,6 +14793,8 @@
 ||qutebrowser.org
 ||vivaldi.com
 ||waterfox.net
+||fflogs.com
+||rpglogs.com
 ||bluestacks.com
 ||maa.plus
 ||prts.plus
