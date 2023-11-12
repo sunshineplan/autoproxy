@@ -8128,8 +8128,6 @@
 ||zeenews.com
 |http://zeenews-fonts.s3.amazonaws.com
 |https://zeenews-fonts.s3.amazonaws.com
-||cnbeta.com
-||cnbetacdn.com
 ||881903.com
 ||am730.com.hk
 ||americasvoice.news
