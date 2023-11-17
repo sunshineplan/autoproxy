@@ -15459,8 +15459,10 @@
 ||mongodb.org
 ||nginx.com
 ||nginx.org
-||openai.com
+||chatgpt.com
 ||oaistatic.com
+||oaiusercontent.com
+||openai.com
 |http://chat.openai.com.cdn.cloudflare.net
 |https://chat.openai.com.cdn.cloudflare.net
 |http://openaiapi-site.azureedge.net
