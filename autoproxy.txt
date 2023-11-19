@@ -2983,6 +2983,7 @@
 ||argotunnel.com
 ||cloudflare-dns.com
 ||cloudflare-ech.com
+||cloudflare-esni.com
 ||cloudflare-gateway.com
 ||cloudflare-quic.com
 ||cloudflare.com
@@ -3004,6 +3005,7 @@
 ||cloudflaretest.com
 ||cloudflarewarp.com
 ||every1dns.net
+||isbgpsafeyet.com
 ||one.one.one
 ||pacloudflare.com
 ||pages.dev
@@ -19652,6 +19654,7 @@
 |https://statics-marketingsites-wcus-ms-com.akamaized.net
 ||mikrotik.com
 ||mt.lv
+||mynetname.net
 ||routerboard.com
 ||mindgeek.com
 ||developer.allizom.org
