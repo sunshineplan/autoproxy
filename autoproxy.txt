@@ -5,6 +5,26 @@
 ! GitHub URL: https://raw.githubusercontent.com/sunshineplan/autoproxy/release/autoproxy.txt
 ! jsdelivr URL: https://cdn.jsdelivr.net/gh/sunshineplan/autoproxy@release/autoproxy.txt
 
+||meme
+||ing
+||foo
+||zip
+||mov
+||nexus
+||dad
+||phd
+||prof
+||esq
+||rsvp
+||boo
+||day
+||new
+||dev
+||page
+||app
+||how
+||soy
+||xn--q9jyb4c
 ||gov
 ||mil
 ||edu
@@ -15715,6 +15735,7 @@
 ||opensource.guide
 ||repo.new
 ||thegithubshop.com
+||blob.core.windows.net
 |http://github-cloud.s3.amazonaws.com
 |https://github-cloud.s3.amazonaws.com
 /github-production-release-asset-[0-9a-za-z]{6}\.s3\.amazonaws\.com/
