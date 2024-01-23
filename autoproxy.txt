@@ -2988,6 +2988,7 @@
 ||akastream.com
 ||akastream.net
 ||akatns.net
+||edgekey.net
 ||iamakamai.com
 ||iamakamai.net
 ||soasta-dswb.com
@@ -3102,12 +3103,10 @@
 ||certificat2.com
 ||trendmicro.com
 ||gandi.net
-||alphassl.com
 ||globalsign-media.com
 ||globalsign.be
 ||globalsign.ch
 ||globalsign.co.uk
-||globalsign.com
 ||globalsign.com.au
 ||globalsign.com.br
 ||globalsign.com.hk
@@ -6029,6 +6028,8 @@
 ||netflixdnstest8.com
 ||netflixdnstest9.com
 ||netflixdnstest10.com
+/(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$/
+/(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$/
 /(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$/
 /(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$/
 |http://netflix.com.edgesuite.net
@@ -6406,6 +6407,7 @@
 ||linetv.tw
 ||litv.tv
 ||megaphone.fm
+||mikanani.me
 ||moov.hk
 ||odysee.com
 ||omobi.cc
@@ -11073,6 +11075,7 @@
 ||hmd.site
 ||hmfby.com
 ||hmfun.top
+||hmovie-moe.us
 ||hnalady.com
 ||hnext.jp
 ||hnntube.com
@@ -14949,6 +14952,23 @@
 ||maa.plus
 ||prts.plus
 ||poi.moe
+/^time(.euro)?.apple.com$/
+/^time([1-5])?.facebook.com$/
+/^time([1-4])?.google.com$/
+/^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?)).nist.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?)).colorado.edu)$/
+/^ntp[0-7].ntp-servers.net$/
+||clock.isc.org
+||ntp.fiord.ru
+||ntp.nat.ms
+||ntp.nic.cz
+||ntp.nict.jp
+||ntp.ripe.net
+||ntp.se
+||ntp.ufe.cz
+||pool.ntp.org
+||time.cloudflare.com
+||time.nrc.ca
+||time.windows.com
 ||decrypt.day
 ||accuweather.com
 ||getadblock.com
@@ -19526,6 +19546,7 @@
 ||bing
 ||bing.com
 ||bing.net
+||bing123.com
 ||bingads.com
 ||bingagencyawards.com
 ||bingapis.com
@@ -19623,6 +19644,7 @@
 ||microsoft.vn
 ||femalefounderscomp.com
 ||m12.vc
+||a-msedge.net
 ||aka.ms
 ||ankarazirvesi2018.com
 ||applicationinsights.io
@@ -19764,7 +19786,9 @@
 ||projectmurphy.net
 ||projectsangam.com
 ||pxt.io
+||s-dc-msedge.net
 ||s-microsoft.com
+||s-msedge.net
 ||s-msft.com
 ||s-msn.com
 ||sfbassets.com
@@ -20174,6 +20198,7 @@
 ||sonytc.co.jp
 ||sovec.net
 ||spacex.com
+||st.com
 ||boringcompany.com
 ||internetdownloadmanager.com
 ||registeridm.com
