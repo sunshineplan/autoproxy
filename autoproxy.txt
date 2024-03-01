@@ -13857,6 +13857,7 @@
 ||apkcombo.com
 ||apkmirror.com
 ||apkpure.com
+||apkpure.net
 ||cdnpure.com
 ||pureapk.com
 ||winudf.com
@@ -14244,6 +14245,9 @@
 ||cloudlatex.io
 ||overleaf.com
 ||auroraoss.com
+||cookiepro.com
+||cookielaw.org
+||onetrust.com
 ||anaconda.cloud
 ||anaconda.com
 ||anaconda.org
@@ -14706,6 +14710,10 @@
 ||topcoder.com
 ||unity.com
 ||unity3d.com
+||ads.unitychina.cn
+||splash-ads.cdn.unity.cn
+||splash-ads.unitychina.cn
+||unityads.unity.cn
 ||unityads.unity3d.com
 ||unityads.unitychina.cn
 ||v8.dev
