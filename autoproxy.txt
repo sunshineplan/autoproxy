@@ -1913,6 +1913,7 @@
 ||cf-ipfs.com
 ||cloudflare-ipfs.com
 ||argotunnel.com
+||cfl.re
 ||cloudflare-dns.com
 ||cloudflare-ech.com
 ||cloudflare-esni.com
@@ -2380,6 +2381,9 @@
 ||localbitcoinschain.com
 ||okex.com
 ||okx.com
+||okx-dns.com
+||okx-dns1.com
+||okx-dns2.com
 ||onekey-asset.com
 ||onekey.so
 ||onekeycn.com
@@ -5433,6 +5437,7 @@
 ||qr.ae
 ||quora.com
 ||quoracdn.net
+||reddit.app.link
 ||reddit.com
 ||redditstatic.com
 ||redditmail.com
@@ -5453,8 +5458,6 @@
 ||v2ex.com
 ||b-graph.facebook.com
 ||b-graph-fallback.facebook.com
-||star.fallback.c10r.facebook.com
-||star.c10r.facebook.com
 ||connect.facebook.com
 ||connect.facebook.net
 ||graph.facebook.com
@@ -6085,6 +6088,7 @@
 ||bbc.co.uk
 ||bbc.com
 ||bbc.in
+||bbc.mp-pxcdn.com
 ||bbc.net.uk
 ||bbcfmt.s.llnwi.net
 ||bbci.co.uk
@@ -14617,6 +14621,7 @@
 |https://openaicomproductionae4b.blob.core.windows.net
 |http://production-openaicom-storage.azureedge.net
 |https://production-openaicom-storage.azureedge.net
+/chatgpt-async-webps-prod-eastus-\d+\.webpubsub\.azure\.com$/
 |http://o33249.ingest.sentry.io
 |https://o33249.ingest.sentry.io
 |http://openaicom.imgix.net
@@ -14624,9 +14629,11 @@
 ||openwrt.org
 ||lede-project.org
 ||osdn.net
+||perl.apache.org
 ||perl.org
 ||cpan.org
 ||metacpan.org
+||modperl.pl
 ||polymer-project.org
 ||polymerproject.org
 ||pycon.org
@@ -17289,7 +17296,6 @@
 ||dell.com
 ||dellcdn.com
 ||ads-api.duolingo.com
-||excess.duolingo.com
 ||metrics.duolingo.com
 ||analytics.vpc.duolingo.com
 ||duolingo.com
@@ -17413,7 +17419,6 @@
 ||adwordsexpress.com
 ||app-measurement-cn.com
 ||app-measurement.com
-||clickserver.googleads.com
 ||doubleclick-cn.net
 ||doubleclick.cn
 ||doubleclick.com
@@ -19156,6 +19161,9 @@
 ||sovec.net
 ||spacex.com
 ||st.com
+||tailscale.com
+||tailscale.io
+||ts.net
 ||boringcompany.com
 ||internetdownloadmanager.com
 ||registeridm.com
