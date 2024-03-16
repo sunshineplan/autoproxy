@@ -5074,6 +5074,8 @@
 ||tiktokd.net:@!cn
 ||tiktokd.org:@!cn
 ||tiktokv.com:@!cn
+||tiktokv.us:@!cn
+||tiktokw.us:@!cn
 ||ttwstatic.com:@!cn
 |http://p16-tiktokcdn-com.akamaized.net:@!cn
 |https://p16-tiktokcdn-com.akamaized.net:@!cn
@@ -5443,6 +5445,7 @@
 ||redditmail.com
 ||redditmedia.com
 ||redd.it
+||yamibo.com
 ||18p2p.com
 ||avsforum.com
 ||disp.cc
@@ -14112,6 +14115,9 @@
 ||pros.ee
 ||pse.is
 ||ping.pe
+||ping.sx
+|http://public-us-pingsx.api.clonoth.com
+|https://public-us-pingsx.api.clonoth.com
 ||playcover.io
 ||playcover.workers.dev
 ||pm.me
