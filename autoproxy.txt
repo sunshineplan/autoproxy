@@ -7380,6 +7380,9 @@
 ||fansta.me
 |http://misa-prod.s3.ap-northeast-1.amazonaws.com
 |https://misa-prod.s3.ap-northeast-1.amazonaws.com
+||2023aga.oen.tw
+||aga-expo.com
+||cosfans-tw.com
 ||hentaivn.de
 ||hentaivn.la
 ||hentaivn.net
@@ -8125,7 +8128,6 @@
 ||aflamsex.net
 ||aflamsexhd.com
 ||afriboyz.com
-||aga-expo.com
 ||agag.tw
 ||agzy1.com
 ||ah-me.com
