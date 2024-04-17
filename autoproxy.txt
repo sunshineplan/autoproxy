@@ -5460,15 +5460,6 @@
 ||safechat.com
 ||sis001.com
 ||v2ex.com
-||b-graph.facebook.com
-||b-graph-fallback.facebook.com
-||connect.facebook.com
-||connect.facebook.net
-||graph.facebook.com
-||graph-fallback.facebook.com
-||z-m-graph.facebook.com
-||graph.fbpigeon.com
-||mqtt-mini.facebook.com
 ||aboutfacebook.com
 ||accessfacebookfromschool.com
 ||acebooik.com
