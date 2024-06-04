@@ -66,6 +66,7 @@
 ||ooni.org
 ||openvpn.net
 ||privacytools.io
+||psiphon.ca
 ||psiphon3.com
 ||sagernet.org
 ||shadowsocks.org
@@ -13851,6 +13852,7 @@
 ||fayuanbooks.com
 ||fgmtv.org
 ||ganjing.com
+||ganjing.world
 ||ganjingworld.com
 ||guangming.org
 ||mhradio.org
@@ -14435,6 +14437,7 @@
 ||flatpak.org
 ||flutter.dev
 ||flutterapp.com
+||pub.dev
 ||fontawesome.com
 ||fortawesome.com
 ||fury.blog
