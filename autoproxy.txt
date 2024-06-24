@@ -2030,6 +2030,10 @@
 ||x.co
 ||godaddy
 ||pki.goog
+|http://publicca.googleapis.com
+|https://publicca.googleapis.com
+|http://preprod-publicca.googleapis.com
+|https://preprod-publicca.googleapis.com
 |http://clients1.google.com
 |https://clients1.google.com
 |http://pki.google.com
