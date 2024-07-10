@@ -4850,6 +4850,7 @@
 ||hbomax.com
 ||hbomaxcdn.com
 ||hbonow.com
+||max.com
 ||maxgo.com
 ||hbo.com.c.footprint.net
 ||hbo.com.edgesuite.net
