@@ -1258,6 +1258,8 @@
 ||hsbc.com.bh
 ||hsbc.com.br
 ||hsbc.com.cn
+||hsbcqh.com.cn
+||hsbcinsurance.com.cn
 ||hsbc.com.eg
 ||hsbc.com.hk
 ||hsbc.com.mo
@@ -3762,6 +3764,7 @@
 ||cmu.edu
 ||cochranelibrary.com
 ||computingreviews.com
+||csrankings.org
 ||degruyter.com
 ||dentalhypotheses.com
 ||ebsco.com
@@ -4921,7 +4924,9 @@
 |https://tvcastlive-hamivideo.cdn.hinet.net
 |http://weblive-hamivideo.cdn.hinet.net
 |https://weblive-hamivideo.cdn.hinet.net
+||brightline.tv
 ||cinemax.com
+||discomax.com
 ||forthethrone.com
 ||hbo.com
 ||hboasia.com
@@ -5512,6 +5517,9 @@
 ||6parkbbs.com
 ||6parknews.com
 ||cool18.com
+||popo8.com
+||parkvv.com
+||xwbo.com
 ||ck101.com
 ||ckcdn.com
 ||ckck.fun
@@ -7940,7 +7948,6 @@
 ||21naturals.com
 ||21vv.cc
 ||2371tom.com
-||249dw7.cn
 ||24hjav.com
 ||24porn.com
 ||24porn.pro
@@ -9498,7 +9505,6 @@
 ||fetlife.com
 ||fffucked.com
 ||fgirl.ch
-||fi11.cn
 ||fi11.com
 ||fi11av1.com
 ||fi11tv1.com
@@ -13416,7 +13422,6 @@
 ||xvxx.stream
 ||xvxxtube.com
 ||xx-map.com
-||xx159.com.cn
 ||xx9.app
 ||xxbook.cc
 ||xxbrits.com
@@ -13652,7 +13657,6 @@
 ||yy7y.com
 ||yy8y.com
 ||yyfb.cyou
-||yyyzgdl.cn
 ||yzld188.top
 ||z00.world
 ||z676869.com
@@ -13860,7 +13864,6 @@
 /(^|\.)xgyy([0-9]{2})?\.vip$/
 /(^|\.)xingdh([0-9]{3})?\.xyz$/
 /(^|\.)xlywz[1-9]?\.cc$/
-/(^|\.)xnkl[3-8]\.cn$/
 /(^|\.)xomfsp[1-9]?\.buzz$/
 /(^|\.)xv[0-9]{4}\.top$/
 /(^|\.)xxxyaom[0-9]{2}\.buzz$/
@@ -17741,6 +17744,7 @@
 ||bwh81.net
 ||bwh88.net
 ||bwh89.net
+||bwhstatus.com
 ||blurams.com
 ||canon
 ||c-ij.com
