@@ -18252,6 +18252,7 @@
 ||googletraveladservices-cn.com
 ||googletraveladservices.com
 ||googlevads-cn.com
+||mail-ads.google.com
 ||marketingplatform.google.com
 ||urchin.com
 |http://analytics.google.com
