@@ -18777,8 +18777,11 @@
 ||zukunftswerkstatt.de
 ||hetzner.cloud
 ||hetzner.com
+||hetzner.company
 ||hetzner.de
 ||your-server.de
+|http://sentry.hetzner.company
+|https://sentry.hetzner.company
 ||cht.com.tw
 ||chtf.org.tw
 ||emome.net
