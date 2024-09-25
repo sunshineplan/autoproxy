@@ -1,9 +1,6 @@
 [AutoProxy 0.2.9]
 ! Last Modified: $time
 ! Expires: 24h
-! HomePage: https://github.com/sunshineplan/autoproxy
-! GitHub URL: https://raw.githubusercontent.com/sunshineplan/autoproxy/release/autoproxy.txt
-! jsdelivr URL: https://cdn.jsdelivr.net/gh/sunshineplan/autoproxy@release/autoproxy.txt
 
 ||anthropic.com
 ||claude.ai
