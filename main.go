@@ -16,11 +16,6 @@ func main() {
 	}
 	defer resp.Body.Close()
 
-	list, err := txt.ReadAll(resp.Body)
-	if err != nil {
-		log.Fatal(err)
-	}
-
 	f, err := os.Create("autoproxy.txt")
 	if err != nil {
 		log.Fatal(err)
@@ -31,11 +26,11 @@ func main() {
 	w.WriteLine("[AutoProxy 0.2.9]")
 	w.WriteLine("! Last Modified: $time")
 	w.WriteLine("! Expires: 24h")
-	w.WriteLine("! HomePage: https://github.com/sunshineplan/autoproxy")
-	w.WriteLine("! GitHub URL: https://raw.githubusercontent.com/sunshineplan/autoproxy/release/autoproxy.txt")
-	w.WriteLine("! jsdelivr URL: https://cdn.jsdelivr.net/gh/sunshineplan/autoproxy@release/autoproxy.txt")
+	//w.WriteLine("! HomePage: https://github.com/sunshineplan/autoproxy")
+	//w.WriteLine("! GitHub URL: https://raw.githubusercontent.com/sunshineplan/autoproxy/release/autoproxy.txt")
+	//w.WriteLine("! jsdelivr URL: https://cdn.jsdelivr.net/gh/sunshineplan/autoproxy@release/autoproxy.txt")
 	w.WriteLine("")
-	for _, i := range list {
+	for _, i := range txt.ReadAll(resp.Body) {
 		if strings.HasSuffix(i, "@cn") {
 			continue
 		}
