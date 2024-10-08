@@ -4,6 +4,7 @@
 
 ||anthropic.com
 ||claude.ai
+||claudeusercontent.com
 |http://servd-anthropic-website.b-cdn.net
 |https://servd-anthropic-website.b-cdn.net
 ||deepmind.com
@@ -2096,11 +2097,13 @@
 ||videodelivery.net
 ||warp.plus
 ||workers.dev
+||fastly-edge.com
+||fastly-terrarium.com
 ||fastly.com
+||fastly.io
 ||fastly.net
 ||fastlylabs.com
 ||fastlylb.net
-||fastly-terrarium.com
 ||zencdn.net
 ||imgix.com
 ||imgix.net
@@ -2526,6 +2529,7 @@
 ||gateimg.com
 ||gateio.live
 ||gateio.services
+||htx.com
 ||hbabit.com
 ||hbfile.net
 ||huobi.com
@@ -10679,6 +10683,7 @@
 ||hoyolab.com
 ||hoyoverse.com
 ||n0vadesktop.com
+||zenlesszonezero.com
 ||biggggg.com
 ||mudvod.tv
 ||nbys.tv
@@ -11800,6 +11805,7 @@
 ||vk.design
 ||vk.link
 ||vk.me
+||vk.ru
 ||vkcache.com
 ||vkgo.app
 ||vklive.app
@@ -20355,6 +20361,7 @@
 ||github.io
 ||githubapp.com
 ||githubassets.com
+||githubcopilot.com
 ||githubhackathon.com
 ||githubnext.com
 ||githubpreview.dev
@@ -24439,6 +24446,8 @@
 ||xn--gogl-1nd42e.com
 ||xplr.co
 ||zukunftswerkstatt.de
+|http://google-ohttp-relay-safebrowsing.fastly-edge.com
+|https://google-ohttp-relay-safebrowsing.fastly-edge.com
 ||hetzner.cloud
 ||hetzner.com
 ||hetzner.company
@@ -25291,6 +25300,7 @@
 ||sfx.ms
 ||sharepoint.com
 ||sharepointonline.com
+||signalr.net
 ||skype.com
 ||skype.net
 ||skypeassets.com
@@ -25745,6 +25755,12 @@
 ||uber-assets.com
 ||uber.com
 ||ubereats.com
+||amplifi.com
+||frontrow.com
+||ubncloud.com
+||ui.com
+||uisp.com
+||wifiman.com
 ||vultr.com
 ||g-technology.com
 ||sandisk.ae
