@@ -20228,6 +20228,12 @@
 ||developer.apple.com
 ||devimages-cdn.apple.com
 ||devstreaming-cdn.apple.com
+||developerservices2.apple.com
+||timestamp.apple.com
+|http://notary-submissions-prod.s3-accelerate.amazonaws.com
+|https://notary-submissions-prod.s3-accelerate.amazonaws.com
+|http://notary-submissions-prod.s3.us-west-2.amazonaws.com
+|https://notary-submissions-prod.s3.us-west-2.amazonaws.com
 ||foundationdb.org
 ||macosforge.org
 ||macruby.com
