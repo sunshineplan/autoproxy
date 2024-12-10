@@ -29,6 +29,7 @@
 ||oaistatic.com
 ||oaiusercontent.com
 ||openai.com
+||sora.com
 ||openai.com.cdn.cloudflare.net
 |http://openaiapi-site.azureedge.net
 |https://openaiapi-site.azureedge.net
