@@ -24,7 +24,6 @@
 ||bard.google.com
 ||gemini.google.com
 ||groq.com
-||ai.com
 ||chatgpt.com
 ||chat.com
 ||oaistatic.com
