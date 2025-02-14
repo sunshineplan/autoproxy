@@ -2560,6 +2560,8 @@
 ||huobiasia.vip
 ||huobigroup.com
 ||huobitoken.com
+||kraken.com
+||kraken.onl
 ||localbitcoins.com
 ||localbitcoinschain.com
 ||okex.com
@@ -2623,7 +2625,6 @@
 ||mexc.com
 ||mexcsensors.com
 ||mytokenapi.com
-||kraken.com
 ||opensea.io
 ||osl.com
 ||paxful.com
@@ -19880,6 +19881,9 @@
 ||waterfox.net
 ||fflogs.com
 ||rpglogs.com
+||thetrackernetwork.com
+||tracker.gg
+||tracker.network
 ||bluestacks.com
 ||maa.plus
 ||prts.plus
