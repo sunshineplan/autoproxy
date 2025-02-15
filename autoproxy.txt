@@ -11863,6 +11863,7 @@
 ||twitter.biz
 ||twitter.com
 ||twitter.jp
+||twitter.map.fastly.net
 ||twittercommunity.com
 ||twitterflightschool.com
 ||twitterinc.com
@@ -19943,6 +19944,7 @@
 ||ntp2.wakwak.com
 ||decrypt.day
 ||accuweather.com
+||adblockcdn.com
 ||getadblock.com
 ||adblockplus.org
 ||addthis.com
@@ -24614,6 +24616,8 @@
 ||second-ns.de
 ||your-objectstorage.com
 ||your-server.de
+||your-storagebox.de
+||your-storageshare.de
 |http://sentry.hetzner.company
 |https://sentry.hetzner.company
 ||cht.com.tw
