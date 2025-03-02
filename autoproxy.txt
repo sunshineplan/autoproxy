@@ -2615,6 +2615,7 @@
 ||coinmarketcap.com
 ||crypto.com
 ||cryptocompare.com
+||cryptomus.com
 ||curve.fi
 ||cyberx.com
 ||debank.com
@@ -10345,6 +10346,7 @@
 |http://steamvideo-a.akamaihd.net
 |https://steamvideo-a.akamaihd.net
 ||steamunlocked.net
+||brawlstarsgame.com
 ||supercell.com
 ||supercell.net
 ||supercell.helpshift.com
