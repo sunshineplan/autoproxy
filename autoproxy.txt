@@ -25601,6 +25601,7 @@
 ||microsoftonline-p.com
 ||microsoftonline.com
 ||microsoftpartnercommunity.com
+||microsoftpersonalcontent.com
 ||microsoftready.com
 ||microsoftsiteselection.com
 ||microsoftstore.com
