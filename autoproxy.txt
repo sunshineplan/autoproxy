@@ -50,6 +50,9 @@
 ||host.livekit.cloud
 ||turn.livekit.cloud
 ||perplexity.ai
+||pplx.ai
+|http://pplx-res.cloudinary.com
+|https://pplx-res.cloudinary.com
 ||poe.com
 ||poecdn.net
 ||grok.com
