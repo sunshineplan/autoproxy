@@ -24,6 +24,8 @@
 ||bard.google.com
 ||gemini.google.com
 ||groq.com
+||hf.co
+||huggingface.co
 ||chatgpt.com
 ||chat.com
 ||oaistatic.com
@@ -69,6 +71,7 @@
 ||gateway.ai.cloudflare.com
 ||meta.ai
 ||openart.ai
+||openrouter.ai
 ||colorfulstage.com
 ||crypton.co.jp
 ||lapriere.jp
@@ -10079,6 +10082,8 @@
 ||seagroup.com
 ||gog.com
 ||gog-statics.com
+||itch.io
+||itch.zone
 ||lowiro.com
 ||nexon.co.jp
 ||nexon.com
@@ -13271,6 +13276,7 @@
 ||un.org
 ||w3.org
 ||who.int
+||wi-fi.org
 ||wto.org
 ||18comic-god.cc
 ||18comic-god.club
@@ -21038,7 +21044,6 @@
 ||xposed.info
 ||yarnpkg.com
 ||zsh.org
-||huggingface.co
 ||acer-group.com
 ||acer.com
 |http://3dns-1.adobe.com
@@ -21441,6 +21446,7 @@
 ||pdf.new
 ||sign.new
 ||scene7.com
+||adobestats.io
 ||alibabacloud.co.in:@!cn
 ||alibabacloud.com
 ||alibabacloud.com.au:@!cn
@@ -23972,6 +23978,8 @@
 |https://cisco.evergage.com
 |http://ciscolivehls-i.akamaihd.net
 |https://ciscolivehls-i.akamaihd.net
+||umbrella.com
+||opendns.com
 ||clco.cc
 ||cloudc.one
 ||cloudcone.com
@@ -25403,6 +25411,7 @@
 ||azuresmartspaces.net
 ||azurestackvalidation.com
 ||azurewebsites.net
+||botframework.com
 ||cosmosdb.info
 ||cosmosdb.net
 ||devopsms.com
@@ -25807,10 +25816,15 @@
 ||naverlabs.com
 ||plug.game
 ||prismlive.com
+||bestsrv.de
 ||customercontrolpanel.de
 ||dnsserver1.de
 ||dnsserver2.de
+||goodsrv.de
+||happysrv.de
+||hotsrv.de
 ||luckysrv.de
+||megasrv.de
 ||netcup.cafe
 ||netcup.com
 ||netcup.de
@@ -25819,8 +25833,12 @@
 ||netcup-news.de
 ||netcup-sonderangebote.de
 ||netcup-wiki.de
+||nicesrv.de
+||powersrv.de
+||quicksrv.de
 ||servercontrolpanel.de
 ||supersrv.de
+||ultrasrv.de
 ||yourvserver.net
 ||neuralink.com
 ||geforce.co.kr
