@@ -11395,8 +11395,7 @@
 ||redditspace.com
 ||redditstatic.com
 ||redditstatus.com
-|http://reddit.map.fastly.net
-|https://reddit.map.fastly.net
+||reddit.map.fastly.net
 ||maintracker.org
 ||rutracker.cc
 ||rutracker.cr
