@@ -67,9 +67,11 @@
 ||jasper.ai
 ||notebooklm.google
 ||notebooklm.google.com
+||chutes.ai
 ||dify.ai
 ||gateway.ai.cloudflare.com
 ||meta.ai
+||mistral.ai
 ||openart.ai
 ||openrouter.ai
 ||colorfulstage.com
@@ -10088,6 +10090,10 @@
 |https://ea.tt.omtrdc.net
 |http://eaassets-a.akamaihd.net
 |https://eaassets-a.akamaihd.net
+||3lateral.com
+||artstation.com
+||capturingreality.com
+||cubicmotion.com
 ||battlebreakers.com
 ||eac-cdn.com
 ||easy.ac
@@ -10095,12 +10101,20 @@
 ||epicgames.com
 ||epicgames.dev
 ||epicgamescdn.com
+||fab.com
 ||fortnite.com
+||hyprsense.com
 ||paragon.com
 ||playparagon.com
+||quixel.com
+||quixel.se
+||radgametools.com
+||realityscan.com
 ||roborecall.com
 ||shadowcomplex.com
+||sketchfab.com
 ||spyjinx.com
+||twinmotion.com
 ||unrealengine.com
 ||unrealtournament.com
 /^epicgames-download\d\.akamaized\.net$/
@@ -20038,6 +20052,8 @@
 |https://time.apple.com
 |http://time.euro.apple.com
 |https://time.euro.apple.com
+|http://time.aws.com
+|https://time.aws.com
 |http://time.facebook.com
 |https://time.facebook.com
 |http://time1.facebook.com
@@ -20174,6 +20190,7 @@
 ||addthiscdn.com
 ||addthisedge.com
 ||addtoany.com
+||adguardaccount.com
 ||adguard.app
 ||adguard.com
 ||adguard.info
@@ -20817,6 +20834,7 @@
 ||datalore.io
 ||kotlinlang.org
 ||jb.gg
+||youtrack.cloud
 ||grazie.ai
 ||grazie.aws.intellij.net
 ||jetbrains.ai
@@ -21532,6 +21550,7 @@
 ||amplifyapp.com
 ||amplifyframework.com
 ||aws-iot-hackathon.com
+||aws.com
 ||awsautopilot.com
 ||awsautoscaling.com
 ||awsbraket.com
@@ -22394,6 +22413,7 @@
 ||yourmonsterbeats.com
 |http://beatselectronicsllc.tt.omtrdc.net
 |https://beatselectronicsllc.tt.omtrdc.net
+||mask-api.icloud.com
 ||mask-h2.icloud.com
 ||mask.icloud.com
 ||applemx-icloud.com
