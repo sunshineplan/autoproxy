@@ -22,6 +22,7 @@
 ||makersuite.google.com
 ||aistudio.google.com
 ||bard.google.com
+||gemini.google
 ||gemini.google.com
 ||groq.com
 ||hf.co
@@ -2084,6 +2085,7 @@
 ||cf-ipfs.com
 ||cloudflare-ipfs.com
 ||argotunnel.com
+||cfargotunnel.com
 ||cfl.re
 ||cloudflare-dns.com
 ||cloudflare-ech.com
@@ -2671,6 +2673,7 @@
 ||opensea.io
 ||osl.com
 ||paxful.com
+||polymarket.com
 ||ripple.com
 ||satoshilabs.com
 ||theblock.co
@@ -11424,8 +11427,11 @@
 ||rutracker.org
 ||rutrecker.net
 ||rutrk.org
+||soyjak.party
+||soyjak.st
 ||yamibo.com
 ||18p2p.com
+||8chan.moe
 ||avsforum.com
 ||disp.cc
 ||doom9.org
@@ -16758,6 +16764,7 @@
 ||leakxxx.com
 ||legsjapan.com
 ||leliao1.com
+||lemmynsfw.com
 ||lemoncams.com
 ||lenkino.xxx
 ||lenporno.net
@@ -20219,6 +20226,7 @@
 ||bitwarden.com
 ||bitwarden.eu
 ||bitwarden.net
+||btwrdn.co
 ||btwrdn.com
 ||bigbuckbunny.org
 ||blender.org
@@ -21519,10 +21527,21 @@
 ||sign.new
 ||scene7.com
 ||adobestats.io
+||1infra.net
 ||1password.ca
+||1password.co
 ||1password.com
+||1password.community
 ||1password.eu
+||1password.io
+||1passwordservices.com
+||1passwordusercontent.ca
+||1passwordusercontent.com
+||1passwordusercontent.eu
 ||agilebits.com
+||passage.id
+|http://1password.drift.click
+|https://1password.drift.click
 ||alibabacloud.co.in:@!cn
 ||alibabacloud.com
 ||alibabacloud.com.au:@!cn
@@ -25746,6 +25765,7 @@
 ||msftnet.org
 ||msgamesresearch.com
 ||mshome.net
+||msidentity.com
 ||msocdn.com
 ||msturing.org
 ||msudalosti.com
@@ -26076,6 +26096,7 @@
 ||razersupport.com
 ||razerzone.jp
 ||respawnbyrazer.com
+||rzr.to
 ||appcloud.com
 ||appexchange.com
 ||attic.io
