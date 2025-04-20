@@ -136,6 +136,7 @@
 ||ooni.org
 ||openvpn.net
 ||privacytools.io
+||proxifier.com
 ||psiphon.ca
 ||psiphon3.com
 ||sagernet.org
@@ -148,10 +149,12 @@
 ||turkeyblocks.org
 ||twister.net.co
 ||uproxy.org
+||vpnrouter.homes
 ||vuvuzela.io
 ||whonix.org
 ||wikileaks.org
 ||wireguard.com
+||xtls.github.io
 ||zeronet.io
 ||artstation.com
 ||artstationmedia.com
@@ -24323,6 +24326,7 @@
 ||blogspot.tw
 ||blogspot.ug
 ||blogspot.vn
+||blogger.googleusercontent.com
 ||2mdn-cn.net
 ||2mdn.net
 ||admob-cn.com
