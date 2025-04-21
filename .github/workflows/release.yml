@@ -38,7 +38,7 @@ jobs:
           git push
           sed "s|\$time|${{ steps.run.outputs.date }}|" autoproxy.txt > ../autoproxy.tmp
           base64 ../autoproxy.tmp > ../autoproxy.txt
-          sha256sum ../autoproxy.tmp > ../autoproxy.txt.sha256sum
+          sha256sum ../autoproxy.tmp | cut -d " " -f 1 > ../autoproxy.txt.sha256sum
           git switch --orphan release
           cp ../autoproxy.txt* .
           git add autoproxy.txt autoproxy.txt.sha256sum
