@@ -10629,7 +10629,6 @@
 ||disney-portal.my.onetrust.com
 ||disney-studio.com
 ||disney-studio.net
-||disney.my.sentry.io
 ||disneyadsales.com
 ||disneyarena.com
 ||disneyaulani.com
@@ -10696,6 +10695,8 @@
 ||thestationbymaker.com
 ||thisispolaris.com
 ||watchdisneyfe.com
+|http://disney.my.sentry.io
+|https://disney.my.sentry.io
 ||gimy.cc
 ||gimy.co
 ||gimy.to
@@ -14074,6 +14075,7 @@
 ||8thstreetlatinas.com
 ||8xxx.net
 ||90seconds.asia
+||91-cg.com
 ||91av.one
 ||91avfuli.com
 ||91beiyong.com
@@ -14085,6 +14087,7 @@
 ||91md.me
 ||91moxiong.com
 ||91oo.xyz
+||91porn.best
 ||91pornplus.com
 ||91porny.com
 ||91porny.store
@@ -14097,6 +14100,7 @@
 ||91sesex.xyz
 ||91sew.xyz
 ||91sew40.buzz
+||91short.com
 ||91vhome.com
 ||920share.com
 ||921bb.com
@@ -15218,6 +15222,7 @@
 ||dutrai.com
 ||dvdtrailertube.com
 ||dx9527.cc
+||dxk4h.com
 ||dxyav.co
 ||dyfl1.pw
 ||dykycl.com
@@ -15893,6 +15898,7 @@
 ||hanime.me
 ||hanime.tv
 ||hanime.xxx
+||hanime.xyz
 ||hanime1.me
 ||hanr-bao.mom
 ||hao21.xyz
@@ -17907,6 +17913,7 @@
 ||pornvideotop.com
 ||pornvideotube.online
 ||pornvidhd.club
+||pornvr.me
 ||pornwatchers.com
 ||pornwebmasters.com
 ||pornwhite.com
@@ -19286,6 +19293,8 @@
 ||xgtdr.buzz
 ||xh-porn.com
 ||xh.video
+||xhamster.com
+||xhamster.desi
 ||xhamster2.com
 ||xhot.pro
 ||xhub.tv
@@ -19329,6 +19338,7 @@
 ||xnertv.shop
 ||xnostars.com
 ||xnxvideos.org
+||xnxx.com
 ||xnxx-sex-tube.com
 ||xnxx-sex-videos.com
 ||xnxx-teens.com
@@ -19394,6 +19404,7 @@
 ||xvideo.run
 ||xvideo.vlog.br
 ||xvideoporno.tv
+||xvideos.com
 ||xvideos-dl.top
 ||xvideos-porn-video.com
 ||xvideos-xxxx.com
@@ -19621,6 +19632,7 @@
 ||youngsex.video
 ||youngteenhomeporn.com
 ||youngtube.me
+||youporn.com
 ||youporn-germany.com
 ||youporner.eu
 ||youpornlist.com
@@ -22940,6 +22952,8 @@
 ||appleone.tech
 ||appleone.website
 ||shazam.com
+|http://ingest.apple-studies.com
+|https://ingest.apple-studies.com
 ||1to1computing.com.au
 ||1to1conference.com.au
 ||5lml.com
