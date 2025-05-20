@@ -11422,6 +11422,8 @@
 ||hkgolden.media
 ||lih.kg
 ||lihkg.com
+||linux.do
+||ldstatic.com
 ||5i01.com
 ||mobile01.com
 ||pimg.tw
@@ -11461,7 +11463,13 @@
 ||rutrk.org
 ||soyjak.party
 ||soyjak.st
+||xda-cdn.com
+||xda-developers.com
+||xdaforums.com
+||xdaimages.com
 ||yamibo.com
+|http://bbs.boingboing.net
+|https://bbs.boingboing.net
 ||18p2p.com
 ||8chan.moe
 ||avsforum.com
@@ -21092,10 +21100,6 @@
 ||v8.dev
 ||v8project.org
 ||vim.org
-||xda-cdn.com
-||xda-developers.com
-||xdaforums.com
-||xdaimages.com
 ||adventofcode.com
 ||alpinelinux.org
 ||apache.org
@@ -26189,6 +26193,7 @@
 ||game-platform.net
 ||knoxemm.com
 ||samsung.com
+||samsungads.com
 ||samsungapps.com
 ||samsungcloud.com
 ||samsungdm.com
