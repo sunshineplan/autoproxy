@@ -26,6 +26,10 @@
 ||bard.google.com
 ||gemini.google
 ||gemini.google.com
+||notebooklm.google
+||notebooklm.google.com
+||jules.google
+||jules.google.com
 ||groq.com
 ||hf.co
 ||huggingface.co
@@ -70,8 +74,6 @@
 ||coderabbit.gallery.vsassets.io
 ||clipdrop.co
 ||jasper.ai
-||notebooklm.google
-||notebooklm.google.com
 ||chutes.ai
 ||dify.ai
 ||gateway.ai.cloudflare.com
@@ -1392,7 +1394,16 @@
 ||hsbc.co.jp
 ||hsbc.fr
 ||hsbctrinkaus.de
+||ibkr.ca
+||ibkr.co.in
+||ibkr.co.uk
 ||ibkr.com
+||ibkr.com.au
+||ibkr.com.hk
+||ibkr.com.sg
+||ibkr.eu
+||ibkr.ie
+||ibkrguides.com
 ||ibllc.com
 ||interactivebrokers.ca
 ||interactivebrokers.co.in
@@ -12030,8 +12041,10 @@
 ||twvid.com
 ||vine.co
 ||x.com
+||mradx.net
 ||mvk.com
 ||userapi.com
+||vk-analytics.ru
 ||vk-apps.com
 ||vk-apps.ru
 ||vk-cdn.me
@@ -13332,6 +13345,7 @@
 ||4pcdn.org
 ||4plebs.org
 ||archive-it.org
+||archive.md
 ||archive.org
 ||archive.ph
 ||archive.today
@@ -26595,7 +26609,10 @@
 ||yandex
 ||xn--d1acpjx3f.xn--p1ai
 ||dzen.ru
+||rostaxi.org
 ||ya.ru
+||yandex-bank.net
+||yandex-images.clstorage.net
 ||yandex.aero
 ||yandex.az
 ||yandex.by
@@ -26627,7 +26644,10 @@
 ||yandex.tm
 ||yandex.ua
 ||yandex.uz
+||yandexadexchange.net
 ||yandexcloud.net
+||yandexcom.net
+||yandexwebcache.org
 ||yastatic.net
 ||teamviewer.com
 ||teamviewer.us
@@ -26786,8 +26806,6 @@
 ||wmflabs.org
 ||atwiki.jp
 ||touhouwiki.net
-||api.nebula-emby.com
-||web.nebula-emby.com
 ||avxhm.se
 ||avh.world
 ||avxde.org
