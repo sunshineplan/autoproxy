@@ -1,5 +1,5 @@
 module autoproxy
 
-go 1.23
+go 1.24
 
-require github.com/sunshineplan/utils v0.1.74
+require github.com/sunshineplan/utils v0.1.76
