@@ -21010,6 +21010,7 @@
 ||npmjs.org
 ||atom.io
 ||dependabot.com
+||gh.io
 ||ghcr.io
 ||git.io
 ||github.blog
