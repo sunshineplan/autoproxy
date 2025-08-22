@@ -21014,6 +21014,7 @@
 ||gh.io
 ||ghcr.io
 ||git.io
+||github.ai
 ||github.blog
 ||github.com
 ||github.community
