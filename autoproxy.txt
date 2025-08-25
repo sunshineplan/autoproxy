@@ -10445,6 +10445,7 @@
 |http://videos-rockstargames-com.akamaized.net
 |https://videos-rockstargames-com.akamaized.net
 ||snk-corp.co.jp
+||snk-corp.info
 ||snkplaymore.info
 ||playartifact.com
 ||s.team
@@ -12479,6 +12480,8 @@
 ||forbesimg.com
 ||fox
 ||tubi.io
+||tubi.tv
+||tubi.video
 ||tubitv.com
 ||fox-corporation.com
 ||fox-news.com
@@ -26790,6 +26793,7 @@
 ||yandex
 ||xn--d1acpjx3f.xn--p1ai
 ||dzen.ru
+||naydex.net
 ||rostaxi.org
 ||ya.ru
 ||yandex-bank.net
@@ -26797,6 +26801,7 @@
 ||yandex.aero
 ||yandex.az
 ||yandex.by
+||yandex.cloud
 ||yandex.co.il
 ||yandex.com
 ||yandex.com.am
