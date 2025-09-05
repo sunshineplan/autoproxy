@@ -47,7 +47,7 @@ jobs:
 
       - name: Delete Older Release
         if: steps.run.outputs.new_data == 1
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const resp = await github.rest.repos.listReleases({
