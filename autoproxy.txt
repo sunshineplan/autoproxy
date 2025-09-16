@@ -16,6 +16,7 @@
 ||geller-pa.googleapis.com
 ||generativelanguage.googleapis.com
 ||proactivebackend-pa.googleapis.com
+||robinfrontend-pa.googleapis.com
 |http://ai.google.dev
 |https://ai.google.dev
 |http://alkalicore-pa.clients6.google.com
