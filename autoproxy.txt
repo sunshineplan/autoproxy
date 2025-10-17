@@ -4,9 +4,12 @@
 
 ||anthropic.com
 ||claude.ai
+||claude.com
 ||claudeusercontent.com
+||claudemcpclient.com
 |http://servd-anthropic-website.b-cdn.net
 |https://servd-anthropic-website.b-cdn.net
+||cerebras.ai
 ||cursor-cdn.com
 ||cursor.com
 ||cursor.sh
@@ -2713,6 +2716,8 @@
 ||binancezh.top
 ||binanceapi.com
 ||bnbstatic.com
+||bntrace.com
+||nftstatic.com
 ||appsflayer.com
 ||saasexch.cc
 ||saasexch.co
@@ -10507,6 +10512,8 @@
 |https://steamuserimages-a.akamaihd.net
 |http://steamvideo-a.akamaihd.net
 |https://steamvideo-a.akamaihd.net
+|http://steamcloudsweden.blob.core.windows.net
+|https://steamcloudsweden.blob.core.windows.net
 ||steamunlocked.net
 ||boombeach.com
 ||brawlstars.com
@@ -13726,9 +13733,11 @@
 ||javcdn.cc
 ||javcc.cc
 ||javcc.com
+||jav.app
 ||javdb.com
 ||jdbimgs.com
 ||jdbstatic.com
+/javdb\d+\.com$/
 ||javwide.com
 ||javwide.tv
 ||jkf.net
@@ -21058,10 +21067,13 @@
 ||githubuniverse.com
 ||githubusercontent.com
 ||myoctocat.com
+||octocaptcha.com
 ||opensource.guide
 ||repo.new
 ||thegithubshop.com
 ||blob.core.windows.net
+|http://github-api.arkoselabs.com
+|https://github-api.arkoselabs.com
 |http://github-cloud.s3.amazonaws.com
 |https://github-cloud.s3.amazonaws.com
 /^github-production-release-asset-[0-9a-za-z]{6}\.s3\.amazonaws\.com$/
