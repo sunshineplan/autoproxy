@@ -83,6 +83,7 @@
 ||jasper.ai
 ||chutes.ai
 ||copilot.microsoft.com
+||diabrowser.com
 ||dify.ai
 ||gateway.ai.cloudflare.com
 ||meta.ai
@@ -2832,6 +2833,7 @@
 ||dydx.exchange
 ||fundingrates.xyz
 ||gemini.com
+||guardarian.com
 ||hashflow.com
 ||infura.io
 ||invity.io
@@ -2846,6 +2848,7 @@
 ||polymarket.com
 ||ripple.com
 ||satoshilabs.com
+||stealthex.io
 ||theblock.co
 ||trezor.io
 ||truefi.io
@@ -11488,6 +11491,8 @@
 ||youtubemobilesupport.com
 ||yt.be
 ||ytimg.com
+|http://yt3.googleusercontent.com
+|https://yt3.googleusercontent.com
 ||z5.app
 ||z5.com
 ||zee5.com
@@ -12204,6 +12209,7 @@
 ||twvid.com
 ||vine.co
 ||x.com
+||cdn-vk.ru
 ||mradx.net
 ||mvk.com
 ||userapi.com
@@ -12212,6 +12218,7 @@
 ||vk-apps.ru
 ||vk-cdn.me
 ||vk-cdn.net
+||vkcloud-static.ru
 ||vk-portal.net
 ||vk.cc
 ||vk.com
@@ -20791,6 +20798,7 @@
 ||vercel.app
 ||vercel.blog
 ||vercel.com
+||vercel.dev
 ||vercel.events
 ||vercel.live
 ||vercel.pub
@@ -23471,10 +23479,11 @@
 ||xn--ruq8a011kt6y.xn--hxt814e
 |http://apple.com.akadns.net
 |https://apple.com.akadns.net
-|http://courier-push-apple.com.akadns.net
-|https://courier-push-apple.com.akadns.net
+|http://configuration-lb.ls-apple.com.akadns.net
+|https://configuration-lb.ls-apple.com.akadns.net
 |http://push-apple.com.akadns.net
 |https://push-apple.com.akadns.net
+||courier-push-apple.com.akadns.net
 ||asus.com
 ||asuscloud.com
 ||asuswebstorage.com
@@ -25937,9 +25946,13 @@
 ||logitechg.fr
 ||logitechio.com.cn
 ||worldsfastestgamer.net
+||boosty.to
+||donationalerts.com
 ||imgsmail.ru
 ||mail.ru
+||memealerts.com
 ||mycdn.me
+||okcdn.ru
 ||binoculus.com
 ||buyoculus.com
 ||ocul.us
@@ -26630,10 +26643,15 @@
 ||samsungads.com
 ||samsungapps.com
 ||samsungcloud.com
+||samsungconsent.com
 ||samsungdm.com
 ||samsunggalaxyfriends.com
+||samsunghealth.com
+||samsungiotcloud.com
 ||samsungknox.com
+||samsungosp.com
 ||samsungqbe.com
+||samsungrs.com
 ||skyperfectjsat.space
 ||sptvbroadcast.com
 ||spcc-sp.com
