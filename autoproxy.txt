@@ -11156,6 +11156,7 @@
 ||spotifyforbrands.com
 ||spotifyjobs.com
 ||spotify.link
+||tospotify.com
 |http://audio-ak-spotify-com.akamaized.net
 |https://audio-ak-spotify-com.akamaized.net
 |http://audio4-ak-spotify-com.akamaized.net
@@ -11563,6 +11564,8 @@
 ||imgurinc.com
 ||mypikpak.com
 ||mypikpak.net
+||pickpackapp.com
+||pikpak.io
 ||pikpak.me
 ||pikpakdrive.com
 |http://o4504926511693824.ingest.sentry.io
