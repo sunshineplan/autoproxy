@@ -10638,10 +10638,13 @@
 ||fitgirl-repacks.site
 ||game-repack.site
 ||humblebundle.com
+||joinsquad.com
 ||loverslab.com
 ||minecraft.wiki
 ||modrinth.com
 ||nexusmods.com
+||offworldindustries.com
+||offworldindustries.net
 ||papermc.io
 ||planetminecraft.com
 ||prismlauncher.org
