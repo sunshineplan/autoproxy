@@ -9618,6 +9618,7 @@
 ||bookshome.net
 ||bookshome.world
 ||de1lib.org
+||dln1.ncdn.ec
 ||hk1lib.org
 ||libsolutions.app
 ||libsolutions.domains
@@ -21367,6 +21368,7 @@
 ||redhat.org
 ||scala-lang.org
 ||scala-sbt.org
+||sentry.io
 ||sourcehut.org
 ||sr.ht
 ||askubuntu.com
