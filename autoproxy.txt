@@ -3334,6 +3334,8 @@
 ||farfetch.com
 ||farfetch.net
 ||fflnk.net
+||ggsel.com
+||ggsel.net
 ||gucci
 ||chimeforchange.org
 ||gucci.com
@@ -10938,6 +10940,7 @@
 ||watchdisneyfe.com
 |http://disney.my.sentry.io
 |https://disney.my.sentry.io
+||ficbook.net
 ||gimy.cc
 ||gimy.co
 ||gimy.to
