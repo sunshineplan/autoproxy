@@ -46,6 +46,7 @@
 ||jules.google.com
 ||labs.google
 ||aisandbox-pa.googleapis.com
+||aida.googleapis.com
 ||groq.com
 ||hf.co
 ||huggingface.co
@@ -27923,6 +27924,7 @@
 ||spacely.com.au
 ||squarefoot.com.hk
 ||thinkofliving.com
+||predb.me
 ||scenesource.me
 ||scnsrc.me
 ||sbux.com.my
