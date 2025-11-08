@@ -10264,6 +10264,7 @@
 ||twinmotion.com
 ||unrealengine.com
 ||unrealtournament.com
+||egdownload.fastly-edge.com
 /^epicgames-download\d\.akamaized\.net$/
 ||tarkov.com
 ||eft-store.com
