@@ -86,6 +86,8 @@
 ||x.ai
 ||coderabbit.ai
 ||coderabbit.gallery.vsassets.io
+||cohere.ai
+||cohere.com
 ||clipdrop.co
 ||jasper.ai
 ||chutes.ai
@@ -11650,6 +11652,8 @@
 ||rumble.com
 ||embed-cdn.com
 ||streamable.com
+||terabox.com
+||teraboxcdn.com
 ||4cdn.org
 ||4chan.org
 ||4channel.org
