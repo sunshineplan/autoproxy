@@ -15457,6 +15457,7 @@
 ||tutamail.com
 ||tutanota.com
 ||tutanota.de
+||ai-sdk.dev
 ||err.sh
 ||hyper.is
 ||nextjs.org
@@ -15525,6 +15526,7 @@
 ||zoom.com.cn
 ||zoom.us
 ||biliplus.com
+||originlab.com
 ||cloudlatex.io
 ||overleaf.com
 ||auroraoss.com
