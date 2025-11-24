@@ -7013,8 +7013,6 @@
 ||bowenpress.com
 ||c-span.org
 ||c-spanvideo.org
-||cbs
-||showtime
 ||cbs.com
 ||cbscorporation.com
 ||cbsi.com
@@ -7787,7 +7785,6 @@
 ||skysports.ie
 ||skysportsonline.com
 ||skysportsracing.com
-||theguardian
 ||dev-guardianapis.com
 ||dev-theguardian.com
 ||gu-web.net
@@ -15537,6 +15534,7 @@
 ||anaconda.com
 ||anaconda.org
 ||conda.io
+||android
 ||android.com
 ||androidify.com
 |http://android.googlesource.com
@@ -19615,7 +19613,6 @@
 ||deps.info
 ||opensourceinsight.dev
 ||opensourceinsights.dev
-||and
 ||chrome
 ||dclk
 ||gbiz
@@ -22020,8 +22017,6 @@
 ||hkreadingcity.net
 ||huanghuagang.org
 ||lavteam.org
-||mcd
-||mcdonalds
 ||happymeal.com.au
 ||mcdelivery.com.au
 ||mcdonalds.com.au
