@@ -6330,7 +6330,6 @@
 ||facebook30.net
 ||facebook30.org
 ||facebook4business.com
-||facebookads.com
 ||facebookadvertisingsecrets.com
 ||facebookatschool.com
 ||facebookawards.com
@@ -15961,6 +15960,7 @@
 ||scala-lang.org
 ||scala-sbt.org
 ||sentry.io
+||sentry-cdn.com
 ||sourcehut.org
 ||sr.ht
 ||askubuntu.com
@@ -19533,6 +19533,8 @@
 ||adwords-community.com
 ||adwords.com
 ||adwordsexpress.com
+||app-analytics-services.com
+||app-analytics-services-att.com
 ||app-measurement-cn.com
 ||app-measurement.com
 ||doubleclick-cn.net
@@ -19542,6 +19544,7 @@
 ||google-analytics-cn.com
 ||google-analytics.com
 ||googleadapis.com
+||googleadapis.l.google.com
 ||googleads-cn.com
 ||googleads.com
 ||googleadservices-cn.com
@@ -19560,10 +19563,15 @@
 ||googletraveladservices.com
 ||googlevads-cn.com
 ||mail-ads.google.com
+||mobileads.google.com
 ||marketingplatform.google.com
+||pagead.l.google.com
+||partnerad.l.google.com
 ||urchin.com
 |http://analytics.google.com
 |https://analytics.google.com
+|http://fundingchoicesmessages.google.com
+|https://fundingchoicesmessages.google.com
 /^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$/
 ||googleplay.com
 ||play-fe.googleapis.com
