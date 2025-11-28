@@ -17,6 +17,10 @@
 ||marscode.com
 ||trae.ai
 ||cerebras.ai
+||oystermercury.top
+||comfy.org
+||comfyci.org
+||comfyregistry.org
 ||cursor-cdn.com
 ||cursor.com
 ||cursor.sh
@@ -5556,6 +5560,11 @@
 |https://lastfm.freetls.fastly.net
 ||litv.tv
 ||litvfreepc.akamaized.net
+||ofiii.com
+|http://ntdofifreepc-tgc.cdn.hinet.net
+|https://ntdofifreepc-tgc.cdn.hinet.net
+|http://ntdofifreevcpc-tgc.cdn.hinet.net
+|https://ntdofifreevcpc-tgc.cdn.hinet.net
 ||manhuagui.com
 ||mubi.com
 ||mubicdn.net
@@ -5763,7 +5772,6 @@
 ||tmdb.org
 |http://tmdb-image-prod.b-cdn.net
 |https://tmdb-image-prod.b-cdn.net
-||thetvdb.com
 ||dogatch.jp
 ||gorin.jp
 ||screens-lab.jp
@@ -6070,7 +6078,6 @@
 ||internationalsaimoe.com
 ||joox.com
 ||linetv.tw
-||litv.tv
 ||megaphone.fm
 ||mikanani.me
 ||moov.hk
