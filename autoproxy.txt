@@ -91,6 +91,7 @@
 ||poe.com
 ||poecdn.net
 ||grok.com
+||grok.x.com
 ||x.ai
 ||coderabbit.ai
 ||coderabbit.gallery.vsassets.io
@@ -20758,6 +20759,7 @@
 ||oculusrift.com
 ||oculusvr.com
 ||powersunitedvr.com
+||llama.com
 ||meta.ai
 ||meta.com
 ||azure
@@ -21813,6 +21815,7 @@
 ||dzen.ru
 ||naydex.net
 ||rostaxi.org
+||turbopages.org
 ||webvisor.com
 ||webvisor.org
 ||ya.ru
