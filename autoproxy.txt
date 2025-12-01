@@ -2731,6 +2731,13 @@
 ||tg.dev
 ||tx.me
 ||usercontent.dev
+||temp-mail.org
+||viber.com
+||viber.co
+||viber.me
+||s-bid.rmp.rakuten.com
+||vbcdn.com
+||vbcdn.net
 ||graph.whatsapp.com
 ||graph.whatsapp.net
 ||wa.me
@@ -4758,6 +4765,7 @@
 ||itch.io
 ||itch.zone
 ||lowiro.com
+||modrinth.com
 ||nexon.co.jp
 ||nexon.com
 ||nexon.io
@@ -5144,7 +5152,6 @@
 ||joinsquad.com
 ||loverslab.com
 ||minecraft.wiki
-||modrinth.com
 ||nexusmods.com
 ||offworldindustries.com
 ||offworldindustries.net
@@ -5158,6 +5165,8 @@
 ||ptzwx.com
 ||quanben-xiaoshuo.com
 ||quanben.io
+||7tv.app
+||7tv.io
 ||abema.io
 ||abema.tv
 ||abema-tv.com
@@ -5567,6 +5576,7 @@
 |http://ntdofifreevcpc-tgc.cdn.hinet.net
 |https://ntdofifreevcpc-tgc.cdn.hinet.net
 ||manhuagui.com
+||metacritic.com
 ||mubi.com
 ||mubicdn.net
 ||biggggg.com
@@ -5689,6 +5699,9 @@
 ||ravm.tv
 ||roku.com
 ||rokutime.com
+||rutube.ru
+||rutubelist.ru
+||rtbcdn.ru
 ||showtimeanytime.com
 ||showtime.com
 ||dishworld.com
@@ -6171,6 +6184,8 @@
 ||broadbandreports.com
 ||dslr.net
 ||dslreports.com
+||habr.com
+||habrastorage.org
 ||hkgolden.com
 ||hkgolden.media
 ||lih.kg
@@ -19098,6 +19113,7 @@
 ||affinity-beta.s3.amazonaws.com
 ||affinity-lessons.s3.amazonaws.com
 ||canva.com
+||canvastatus.com
 ||chegg.com
 ||cheggcdn.com
 ||webex.ca
