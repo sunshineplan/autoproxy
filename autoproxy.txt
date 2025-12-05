@@ -4477,6 +4477,7 @@
 ||udemy.com
 ||udemycdn.com
 ||w3schools.com
+||zotero.org
 ||chemequations.com
 ||2k.com
 ||2kcoretech.online
@@ -5805,6 +5806,7 @@
 ||muscdn.com:@!cn
 ||musical.ly:@!cn
 ||tik-tokapi.com:@!cn
+||tiktok-row.net:@!cn
 ||tiktok.com:@!cn
 ||tiktokcdn-eu.com:@!cn
 ||tiktokcdn-us.com:@!cn
@@ -5812,6 +5814,8 @@
 ||tiktokd.net:@!cn
 ||tiktokd.org:@!cn
 ||tiktokeu-cdn.com:@!cn
+||tiktokglobalshopv.com:@!cn
+||tiktokminis.us:@!cn
 ||tiktokrow-cdn.com:@!cn
 ||tiktokv.com:@!cn
 ||tiktokv.eu:@!cn
