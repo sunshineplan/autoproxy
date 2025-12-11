@@ -5197,6 +5197,7 @@
 ||joinsquad.com
 ||loverslab.com
 ||minecraft.wiki
+||nexus-cdn.com
 ||nexusmods.com
 ||offworldindustries.com
 ||offworldindustries.net
@@ -5808,10 +5809,12 @@
 ||tidal.com
 ||tidalhifi.com
 ||wimpmusic.com
+||bytedapm.com:@!cn
 ||byteoversea.com:@!cn
 ||muscdn.com:@!cn
 ||musical.ly:@!cn
 ||tik-tokapi.com:@!cn
+||tiktok-minis.com:@!cn
 ||tiktok-row.net:@!cn
 ||tiktok.com:@!cn
 ||tiktokcdn-eu.com:@!cn
@@ -5833,6 +5836,14 @@
 ||ttwstatic.com:@!cn
 |http://p16-tiktokcdn-com.akamaized.net:@!cn
 |https://p16-tiktokcdn-com.akamaized.net:@!cn
+|http://roovza-launches.appsflyersdk.com:@!cn
+|https://roovza-launches.appsflyersdk.com:@!cn
+|http://roovza.inapps.appsflyersdk.com:@!cn
+|https://roovza.inapps.appsflyersdk.com:@!cn
+|http://roovza.launches.appsflyersdk.com:@!cn
+|https://roovza.launches.appsflyersdk.com:@!cn
+|http://roovza.skadsdk.appsflyersdk.com:@!cn
+|https://roovza.skadsdk.appsflyersdk.com:@!cn
 ||themoviedb.org
 ||tmdb.org
 |http://tmdb-image-prod.b-cdn.net
@@ -15823,6 +15834,8 @@
 ||gemfury.com
 ||gitbook.com
 ||gitbook.io
+||collector.github.com
+||copilot-telemetry.githubusercontent.com
 ||npm.community
 ||npmjs.com
 ||npmjs.org
