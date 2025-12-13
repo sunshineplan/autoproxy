@@ -106,6 +106,7 @@
 ||dify.ai
 ||duck.ai
 ||gateway.ai.cloudflare.com
+||kiro.dev
 ||meta.ai
 ||mistral.ai
 ||openart.ai
@@ -20979,6 +20980,12 @@
 ||sprinklesapp.com
 |http://location.microsoft.com
 |https://location.microsoft.com
+||browser.events.data.msn.cn
+||browser.events.data.msn.com
+||clarity.ms
+||microsoftads.com
+||msads.net
+||nelreports.net
 ||microsoftnews.cc
 ||microsoftnews.com
 ||microsoftnews.net
@@ -21069,7 +21076,6 @@
 ||centralvalidation.com
 ||ch9.ms
 ||charticulator.com
-||clarity.ms
 ||cloudapp.net
 ||cloudappsecurity.com
 ||cortanaanalytics.com
@@ -21128,7 +21134,6 @@
 ||microsoft-sbs-domains.com
 ||microsoft365.com
 ||microsoftaccountguard.com
-||microsoftads.com
 ||microsoftadvertising.com
 ||microsoftadvertisingregionalawards.com
 ||microsoftaffiliates.com
@@ -21160,7 +21165,6 @@
 ||mpnevolution.com
 ||ms-studiosmedia.com
 ||ms365surfaceoffer.com
-||msads.net
 ||msauth.net
 ||mschallenge2018.com
 ||msecnd.net
@@ -21181,7 +21185,6 @@
 ||msturing.org
 ||msudalosti.com
 ||mymicrosoft.com
-||nelreports.net
 ||nextechafrica.net
 ||nxta.org
 ||o365weve-dev.com
