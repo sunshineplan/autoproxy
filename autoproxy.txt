@@ -5328,6 +5328,8 @@
 ||dazndn.com
 ||indazn.com
 ||indaznlab.com
+||deezer.com
+||dzcdn.net
 ||deviantart.com
 ||deviantart.net
 ||da-files.com
@@ -19637,6 +19639,8 @@
 ||vce.com
 |http://dell.my.site.com
 |https://dell.my.site.com
+||dmit.io
+||dmit.sh
 ||ads-api.duolingo.com
 ||metrics.duolingo.com
 ||analytics.vpc.duolingo.com
