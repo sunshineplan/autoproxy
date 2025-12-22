@@ -2362,6 +2362,9 @@
 ||cloudimg.io
 ||stackpath.com
 ||stackpath.dev
+||vrcdn.cloud
+||vrcdn.live
+||vrcdn.video
 ||embedwistia-a.akamaihd.net
 ||wistia.com
 ||wistia.net
@@ -5137,6 +5140,9 @@
 |https://ubisoft-orbit-savegames.s3.amazonaws.com
 |http://ubistatic3-a.akamaihd.net
 |https://ubistatic3-a.akamaihd.net
+||vrchat.cloud
+||vrchat.com
+||vrchat.net
 |http://datarouter.apps.netherrealm.com
 |https://datarouter.apps.netherrealm.com
 |http://wb-agora-hydra-file-storage-k1.s3.amazonaws.com
