@@ -1501,14 +1501,11 @@
 ||fibank.bg
 ||meawallet.app
 ||myfin.bg
-||futuesop.com
 ||futufin.com
 ||futuhk.com
+||futuhkapp.com
 ||futuhn.com
 ||futuholdings.com
-||futuniuniu.com
-||futunn.com
-||futustatic.com
 ||moomoo.com
 ||moomooequity.com
 ||moomootrustee.com
@@ -5859,6 +5856,11 @@
 ||ttlivecdn.com:@!cn
 ||ttoverseaus.net:@!cn
 ||ttwstatic.com:@!cn
+||tiktokcdn-us.com.edgesuite.net:@!cn
+||tiktokcdn.com.akamaized.net:@!cn
+||tiktokcdn.com.edgesuite.net:@!cn
+||tiktokv.com.edgekey.net:@!cn
+||tiktokv.com.edgesuite.net:@!cn
 |http://p16-tiktokcdn-com.akamaized.net:@!cn
 |https://p16-tiktokcdn-com.akamaized.net:@!cn
 |http://roovza-launches.appsflyersdk.com:@!cn
@@ -15555,8 +15557,6 @@
 ||kodi.wiki
 ||liberapay.com
 ||liberapay.org
-||linguee.com
-||deepl.com
 ||localizecdn.com
 ||localizejs.com
 ||localizestatus.com
@@ -15720,7 +15720,6 @@
 ||zeit.co
 ||zeit.sh
 ||zeitworld.com
-||webflow.com
 ||editorx.com
 ||parastorage.com
 ||wix-code.com
@@ -15766,6 +15765,11 @@
 ||originlab.com
 ||cloudlatex.io
 ||overleaf.com
+||linguee.com
+||deepl.com
+||collinsdictionary.com
+||ldoceonline.com
+||immersivetranslate.com
 ||auroraoss.com
 ||cookiepro.com
 ||cookielaw.org
@@ -16312,6 +16316,7 @@
 ||mpv.io
 ||mysql.com
 ||neovim.io
+||newpipe.net
 ||nixos.org
 ||nodesource.com
 ||notepad-plus-plus.org
@@ -16322,8 +16327,8 @@
 ||pcre.org
 ||phantomjs.org
 ||php.net
-||putty.org
 ||postgresql.org
+||putty.org
 ||r-project.org
 ||raspberrypi.org
 ||raspbian.org
@@ -16341,6 +16346,8 @@
 ||videolan.org
 ||wapm.io
 ||wasmer.io
+||webflow.com
+||weblate.org
 ||wireshark.org
 ||x.org
 ||xposed.info
@@ -22844,4 +22851,3 @@
 ||windy.com
 ||xdty.org
 ||xingrz.me
-||immersivetranslate.com
