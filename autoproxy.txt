@@ -20357,6 +20357,7 @@
 |http://google-ohttp-relay-safebrowsing.fastly-edge.com
 |https://google-ohttp-relay-safebrowsing.fastly-edge.com
 ||first-ns.de
+||hetzner-cloud.de
 ||hetzner.cloud
 ||hetzner.com
 ||hetzner.company
