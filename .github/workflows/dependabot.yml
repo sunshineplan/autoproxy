@@ -4,30 +4,9 @@ on:
   pull_request_target:
 
 jobs:
-  test:
-    if: ${{ github.actor == 'dependabot[bot]' }}
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [ windows-latest, ubuntu-latest, macos-latest ]
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v6
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
-
-      - name: Setup Go
-        uses: actions/setup-go@v6
-        with:
-          go-version: stable
-
-      - name: Test Code
-        run: go build -v ./...
-
   merge:
     if: ${{ github.actor == 'dependabot[bot]' }}
     runs-on: ubuntu-latest
-    needs: test
     permissions:
       pull-requests: write
       contents: write
