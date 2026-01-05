@@ -43,6 +43,7 @@
 |https://webchannel-alkalimakersuite-pa.clients6.google.com
 ||generativeai.google
 ||makersuite.google.com
+||ai.studio
 ||aistudio.google.com
 ||bard.google.com
 ||gemini.google
@@ -6496,9 +6497,9 @@
 ||rutracker.cc
 ||rutracker.cr
 ||rutracker.me
+||rutracker.net
 ||rutracker.nl
 ||rutracker.org
-||rutrecker.net
 ||rutrk.org
 ||soyjak.party
 ||soyjak.st
@@ -22287,6 +22288,7 @@
 ||rarbgunblocked.org
 ||rarbgway.org
 ||dmhy.org
+||rutor.info
 ||greasyfork.org
 ||928.plus
 ||zind.cloud
