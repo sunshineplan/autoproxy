@@ -21129,6 +21129,7 @@
 ||boosty.to
 ||donationalerts.com
 ||memealerts.com
+||tamtam.chat
 ||binoculus.com
 ||buyoculus.com
 ||ocul.us
