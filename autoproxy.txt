@@ -53,6 +53,7 @@
 ||jules.google
 ||jules.google.com
 ||labs.google
+||labs.google.com
 ||aisandbox-pa.googleapis.com
 ||aida.googleapis.com
 ||opal.google
