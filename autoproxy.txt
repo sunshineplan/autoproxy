@@ -8766,10 +8766,6 @@
 ||nudevista.es
 ||nudevista.net
 ||nudevista.vip
-|http://ad-channel.diwodiwo.xyz
-|https://ad-channel.diwodiwo.xyz
-|http://ad-display.diwodiwo.xyz
-|https://ad-display.diwodiwo.xyz
 ||bikaa.xyz
 ||bikac.xyz
 ||bikaios.xyz
@@ -8781,6 +8777,10 @@
 ||picacomic.xyz
 ||wikawika.xyz
 ||diwodiwo.xyz
+|http://ad-channel.diwodiwo.xyz
+|https://ad-channel.diwodiwo.xyz
+|http://ad-display.diwodiwo.xyz
+|https://ad-display.diwodiwo.xyz
 ||playboy.com
 ||playboy.com.uk
 ||gaytube.com
@@ -17136,6 +17136,7 @@
 ||fourthns.systems
 ||secondns.at
 ||thirdns.de
+||advertising.apple.com
 ||api-adservices.apple.com
 ||iadsdk.apple.com
 ||iad.apple.com
