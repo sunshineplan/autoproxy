@@ -48,6 +48,16 @@
 ||bard.google.com
 ||gemini.google
 ||gemini.google.com
+|http://cloudaicompanion.googleapis.com
+|https://cloudaicompanion.googleapis.com
+|http://cloudcode-pa.googleapis.com
+|https://cloudcode-pa.googleapis.com
+|http://daily-cloudcode-pa.googleapis.com
+|https://daily-cloudcode-pa.googleapis.com
+|http://notebooklm-pa.googleapis.com
+|https://notebooklm-pa.googleapis.com
+|http://notebooklm.googleapis.com
+|https://notebooklm.googleapis.com
 ||notebooklm.google
 ||notebooklm.google.com
 ||jules.google
@@ -58,6 +68,12 @@
 ||aida.googleapis.com
 ||opal.google
 ||opal.google.com
+|http://antigravity-pa.googleapis.com
+|https://antigravity-pa.googleapis.com
+|http://antigravity.googleapis.com
+|https://antigravity.googleapis.com
+||antigravity.google
+||antigravity-unleash.goog
 ||groq.com
 ||hf.co
 ||hf.space
@@ -5319,6 +5335,7 @@
 ||xboxstudios.com
 ||xbx.lv
 ||ynoproject.net
+||dinopoloclub.com
 ||dodi-repacks.download
 ||dodi-repacks.site
 ||fabricmc.net
@@ -5329,8 +5346,10 @@
 ||joinsquad.com
 ||loverslab.com
 ||minecraft.wiki
+||mobimon.com.tw
 ||nexus-cdn.com
 ||nexusmods.com
+||noxygames.com
 ||offworldindustries.com
 ||offworldindustries.net
 ||papermc.io
@@ -5338,6 +5357,8 @@
 ||prismlauncher.org
 ||protondb.com
 ||quiltmc.org
+||rayark.download
+||rayark.net
 ||speedrun.com
 ||steamdb.info
 ||ptzwx.com
