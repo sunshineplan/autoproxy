@@ -3077,6 +3077,7 @@
 ||binance.vision
 ||binanceapi.com
 ||binancecnt.com
+||binanceru.net
 ||binancezh.be
 ||binancezh.biz
 ||binancezh.cc
@@ -21541,8 +21542,6 @@
 |https://openaicom.imgix.net
 |http://p16-tiktokcdn-com.akamaized.net:@!cn
 |https://p16-tiktokcdn-com.akamaized.net:@!cn
-|http://pchomeonline.com.tw
-|https://pchomeonline.com.tw
 |http://practivate.adobe
 |https://practivate.adobe
 |http://practivate.adobe.ipp
