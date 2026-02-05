@@ -15974,6 +15974,8 @@
 ||radeon.com
 ||radgametools.com
 ||radian6.com
+||radiko-cf.com
+||radiko.jp
 ||radiofarda.com
 ||radiomango.fm
 ||radiomarsho.com
@@ -17209,6 +17211,7 @@
 ||smartonerobotics.com
 ||smartonesolutions.com.hk
 ||smartonesolutions.hk
+||smartstream.ne.jp
 ||smashed.xxx
 ||smbc.co.jp
 ||smbctb.co.jp
