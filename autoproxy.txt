@@ -4833,6 +4833,8 @@
 ||codei.sh
 ||codeish.co
 ||codeish.io
+||codeium.com
+||codeiumdata.com
 ||coderabbit.ai
 ||codespot.com
 ||codethemicrobit.com
@@ -20084,6 +20086,8 @@
 ||windowssearch.com
 ||windowsuem.com
 ||windowsupdate.com
+||windsurf.build
+||windsurf.com
 ||windy.com
 ||winhec.com
 ||winhec.net
@@ -21631,6 +21635,8 @@
 |https://widgets.stripst.com
 |http://wrds-www.wharton.upenn.edu
 |https://wrds-www.wharton.upenn.edu
+|http://yandex-pogoda.static-storage.net
+|https://yandex-pogoda.static-storage.net
 |http://yangzhi.app
 |https://yangzhi.app
 /(^|\.)13mei[5-7]\.buzz$/
