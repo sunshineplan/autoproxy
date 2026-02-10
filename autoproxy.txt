@@ -1101,13 +1101,13 @@
 ||aliasvisualizationstudio.com
 ||aliaswavefront.com
 ||alibabacloud.co.in:@!cn
-||alibabacloud.com
 ||alibabacloud.com.au:@!cn
 ||alibabacloud.com.hk:@!cn
 ||alibabacloud.com.my:@!cn
 ||alibabacloud.com.sg:@!cn
 ||alibabacloud.com.tw:@!cn
-||alicloud.com
+||alibabacloud.com:@!cn
+||alicloud.com:@!cn
 ||alienware.ae
 ||alienware.at
 ||alienware.be
@@ -1424,6 +1424,8 @@
 ||analtime.org
 ||analvids.com
 ||analytics-alv.google.com
+||analytics.facebook.com
+||analytics.tiktok.com:@!cn,@ads
 ||analytics.vpc.duolingo.com
 ||analytictech.com
 ||anandtech.com
@@ -3950,7 +3952,6 @@
 ||bronto.com
 ||brotli.org
 ||brourou.com
-||browser.events.data.msn.cn
 ||browser.events.data.msn.com
 ||browser.kagi.com
 ||browser.run
@@ -4609,9 +4610,9 @@
 ||ci-en.jp
 ||ci-en.net
 ||ciattackers.com
-||cici.com
-||ciciai.com
-||ciciaicdn.com
+||cici.com:@!cn
+||ciciai.com:@!cn
+||ciciaicdn.com:@!cn
 ||cilk.com
 ||cilk.net
 ||cindymovies.com
@@ -5008,7 +5009,7 @@
 ||covid19-rx.org
 ||covid19rx.org
 ||cowboom.com
-||coze.com
+||coze.com:@!cn
 ||cozydrdrebeats.com
 ||cp44.net
 ||cpan.org
@@ -5909,7 +5910,7 @@
 ||dojinmanga.net
 ||dojinwatch.com
 ||dokusho-ojikan.jp
-||dola.com
+||dola.com:@!cn
 ||dollarfotoclub.com
 ||dollarphotoclub.com
 ||dollarphotosclub.com
@@ -6984,6 +6985,7 @@
 ||facebook30.net
 ||facebook30.org
 ||facebook4business.com
+||facebookads.com
 ||facebookadvertisingsecrets.com
 ||facebookappcenter.info
 ||facebookappcenter.net
@@ -11788,6 +11790,7 @@
 ||localizestatus.com
 ||localpresshk.com
 ||localxlist.org
+||log-upload-os.hoyoverse.com
 ||logi.com
 ||logicool.co.jp
 ||logicoolg.com
@@ -12136,7 +12139,7 @@
 ||markingmenus.com
 ||markzuckerberg.com
 ||marranazas.com
-||marscode.com
+||marscode.com:@!cn
 ||marvel.com
 ||marvel10thanniversary.com
 ||marveldimensionofheroes.com
@@ -15146,6 +15149,7 @@
 ||pixanalytics.com
 ||pixapp.net
 ||pixate.com
+||pixel.facebook.com
 ||pixfs.net
 ||pixhost.to
 ||pixinsight.com.tw
@@ -18534,7 +18538,7 @@
 ||tracking-location.com
 ||tradevip1.com
 ||tradingview.com
-||trae.ai
+||trae.ai:@!cn
 ||trafficmanager.net
 ||tranny.one
 ||trannygem.com
@@ -19936,7 +19940,7 @@
 ||weblate.org
 ||webmoneyinfo.com
 ||webmproject.org
-||webnovel.com
+||webnovel.com:@!cn
 ||webobjects.co.uk
 ||webobjects.com
 ||webobjects.de
@@ -21457,8 +21461,12 @@
 |https://ad-channel.diwodiwo.xyz
 |http://ad-display.diwodiwo.xyz
 |https://ad-display.diwodiwo.xyz
+|http://adeventtracker.spotify.com
+|https://adeventtracker.spotify.com
 |http://adobeereg.com
 |https://adobeereg.com
+|http://adstudio-assets.scdn.co
+|https://adstudio-assets.scdn.co
 |http://alt1-mtalk.google.com:@!cn
 |https://alt1-mtalk.google.com:@!cn
 |http://alt2-mtalk.google.com:@!cn
@@ -21483,6 +21491,8 @@
 |https://beck-online.beck.de
 |http://blizzard.nefficient.co.kr
 |https://blizzard.nefficient.co.kr
+|http://bloodhound.spotify.com
+|https://bloodhound.spotify.com
 |http://browser-intake-datadoghq.com
 |https://browser-intake-datadoghq.com
 |http://bybit.ada.support
@@ -21804,7 +21814,6 @@
 /.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$/
 /.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$/
 /^[0-9]+vod-adaptive\.akamaized\.net$/
-/^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$/
 /^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$/
 /^epicgames-download\d\.akamaized\.net$/
 /^ewcdn[0-9]+\.nowe\.com$/
