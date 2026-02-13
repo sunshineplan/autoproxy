@@ -1529,6 +1529,7 @@
 ||apkmirror.com
 ||apkpure.com
 ||apkpure.net
+||apkpures.xyz
 ||aple.com
 ||aplestore.com
 ||aplleipods.com
@@ -2062,6 +2063,7 @@
 ||attcollaborate.com
 ||attdns.com
 ||attdns.net
+||attestation.app
 ||attexperts.com
 ||attglobal.net
 ||attic.io
@@ -8799,6 +8801,19 @@
 ||graph.org
 ||graph.whatsapp.com
 ||graph.whatsapp.net
+||grapheneos.app
+||grapheneos.ca
+||grapheneos.com
+||grapheneos.dev
+||grapheneos.foundation
+||grapheneos.info
+||grapheneos.net
+||grapheneos.network
+||grapheneos.online
+||grapheneos.org
+||grapheneos.ovh
+||grapheneos.page
+||grapheneos.social
 ||graphengine.io
 ||gravatar.com
 ||gravitytank.com
@@ -16645,6 +16660,7 @@
 ||sdnice.one
 ||sdnitube.buzz
 ||seagroup.com
+||seamlessupdate.app
 ||seamonkey-project.org
 ||seancody.com
 ||seaofsolitude.com
@@ -18984,6 +19000,7 @@
 ||valoryirene.com
 ||valuegb.com
 ||valvesoftware.com
+||vanadium.app
 ||vancouverbmwretailers.ca
 ||vanish.at
 ||vanish.be
@@ -21651,6 +21668,8 @@
 |https://straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 |http://tesla-cdn.thron.com
 |https://tesla-cdn.thron.com
+|http://ubisoft.siteintercept.qualtrics.com
+|https://ubisoft.siteintercept.qualtrics.com
 |http://ut1-time.colorado.edu
 |https://ut1-time.colorado.edu
 |http://utcnist.colorado.edu
