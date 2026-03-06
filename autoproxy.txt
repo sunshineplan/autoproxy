@@ -12001,6 +12001,7 @@
 ||lostbetsgames.com
 ||lotcrap.com
 ||louisvuitton.com
+||lovart.ai
 ||love-sextoys.co.uk
 ||love4porn.com
 ||love6.tv
@@ -13462,6 +13463,7 @@
 ||musixmatch.com
 ||mut.ch
 ||muthead.com
+||muvluv-girls-garden.com
 ||muycerdas.xxx
 ||muyzorras.com
 ||mvideoporno.xxx
@@ -14643,6 +14645,7 @@
 ||onlyams.com
 ||onlycartoonsex.com
 ||onlydudes.com
+||onlyfans.com
 ||onlyfanspw.com
 ||onlyfreelatinaporn.com
 ||onlygayvideo.com
@@ -16872,6 +16875,7 @@
 ||sellercommunity.com
 ||semanticscholar.org
 ||sena.co.kr
+||sendvid.com
 ||seneporno.com
 ||seniortgp.com
 ||senluocaituan.gumroad.com
@@ -19111,6 +19115,7 @@
 ||upornia.com
 ||uporno.xxx
 ||uproxy.org
+||uptodown.com
 ||ura-akiba.jp
 ||urasma.com
 ||urchin.com
@@ -19132,6 +19137,7 @@
 ||usertrust.com
 ||usvimosquito.com
 ||usvimosquitoproject.com
+||utdstc.com
 ||uug22.com
 ||uug23.com
 ||uug25.com
@@ -21250,6 +21256,8 @@
 ||youjism.com
 ||youjizz.com
 ||youjizz.sex
+||youla.io
+||youla.ru
 ||youlucky.com
 ||youmind.ai
 ||youmind.com
@@ -21896,6 +21904,8 @@
 |https://yandex-pogoda.static-storage.net
 |http://yangzhi.app
 |https://yangzhi.app
+|http://youla-web-static.mrgcdn.ru
+|https://youla-web-static.mrgcdn.ru
 /(^|\.)13mei[5-7]\.buzz$/
 /(^|\.)18j[efg]\.life$/
 /(^|\.)18jmttios[0-9]{2}\.com$/
