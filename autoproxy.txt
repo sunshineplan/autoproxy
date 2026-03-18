@@ -18608,6 +18608,11 @@
 ||tiktokv.us:@!cn
 ||tiktokw.eu:@!cn
 ||tiktokw.us:@!cn
+||tilda.cc
+||tilda.ru
+||tilda.ws
+||tildaapi.com
+||tildacdn.com
 ||tiltbrush.com
 ||time.gov
 ||time.nrc.ca
