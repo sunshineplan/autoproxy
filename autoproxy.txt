@@ -2362,6 +2362,8 @@
 ||autodeskworkshop.com
 ||autodeskworkshop.net
 ||autodraw.com
+||autoesporte.com
+||autoesporte.com.br
 ||automaton-media.com
 ||automobile.fr
 ||automotive-cadcam.com
@@ -3117,6 +3119,7 @@
 ||bgov.com
 ||bgr.in
 ||bhent.co.kr
+||bhfm.com.br
 ||bhggn.xyz
 ||bhzyk.buzz
 ||bhzyw2.top
@@ -4428,6 +4431,7 @@
 ||caribbeancom.com
 ||caribbeancompr.com
 ||carstagram.com
+||cartola.com.br
 ||cartoon-sex.tv
 ||cartoon18.com
 ||cartoon3thumbs.com
@@ -4485,6 +4489,7 @@
 ||cbbank.com.mm
 ||cbi.ir
 ||cbm.com.mm
+||cbn.com.br
 ||cbs.com
 ||cbsaavideo.com
 ||cbscorporation.com
@@ -4533,6 +4538,7 @@
 ||cdnpure.com
 ||cdnuc.vip
 ||cdnvideo.ru
+||cdnvideohub.com
 ||cdnxxx-proxy.co
 ||cdnxxx-proxy.xyz
 ||cebay.com
@@ -6804,6 +6810,8 @@
 ||epikporn.com
 ||epinions.com
 ||episodic.com
+||epoca.com.br
+||epocanegocios.com.br
 ||epoch.cloud
 ||epoch.org.il
 ||epochbase.com
@@ -8195,6 +8203,7 @@
 ||g.co
 ||g.dev
 ||g.page
+||g1.com.br
 ||gab.com
 ||gacebook.com
 ||gaijin.net
@@ -8571,6 +8580,13 @@
 ||globalspec.com
 ||globalvoices.org
 ||globalvoicesonline.org
+||globo.com
+||globo.com.br
+||globoplay.com
+||globoplay.com.br
+||globoradio.com.br
+||globoreporter.com.br
+||globorural.com.br
 ||gloporn.com
 ||gloryholeswallow.com
 ||gloryofheracles.com
@@ -9042,6 +9058,8 @@
 ||grupobmw.com
 ||gscanada.info
 ||gsccdn.com
+||gshow.com
+||gshow.com.br
 ||gslink.us
 ||gsrc.io
 ||gstatic.com
@@ -10476,6 +10494,7 @@
 ||influencersgonewild.com
 ||infocert.digital
 ||infocert.it
+||infoglobo.com.br
 ||infolinker.com.tw
 ||infoq.jp
 ||informs.org
@@ -14642,6 +14661,8 @@
 ||ofiii.com
 ||ogakikyoritsu.co.jp
 ||ogameblog.com
+||oghost.com.br
+||oglobo.com.br
 ||ogp.me
 ||ohentai.org
 ||ohgratisporrfilm.com
@@ -14888,6 +14909,7 @@
 ||oudoll.com
 ||oup.com
 ||ouplaw.com
+||our-notes.jp
 ||ouroath.com
 ||oursexgames.com
 ||ourshdtv.com
@@ -15275,6 +15297,8 @@
 ||peekvids.com
 ||peepholecam.com
 ||peerj.com
+||pegn.com
+||pegn.com.br
 ||pelvicexam.info
 ||penisbot.com
 ||pensions-expert.com
@@ -16306,6 +16330,7 @@
 ||radiko-cf.com
 ||radiko.jp
 ||radiofarda.com
+||radioglobo.com.br
 ||radiomango.fm
 ||radiomarsho.com
 ||radiosvoboda.org
@@ -16564,6 +16589,13 @@
 ||reutersagency.cn
 ||reutersmedia.net
 ||revenue-performance-management.com
+||revistaepoca.com
+||revistaepoca.com.br
+||revistagalileu.com.br
+||revistapegn.com
+||revistapegn.com.br
+||revistaquem.com.br
+||revistavalor.com.br
 ||revit.com
 ||revitcc.com
 ||revitsucks.net
@@ -17236,6 +17268,7 @@
 ||sg120.me
 ||sg1lib.org
 ||sgp1.fun
+||sgr.com.br
 ||sgspe.de
 ||sgspt.buzz
 ||sh-xuxingda.com
@@ -18392,6 +18425,8 @@
 ||techradar.com
 ||techstreet.com
 ||techtimes.com
+||techtudo.com
+||techtudo.com.br
 ||ted.com
 ||tedcdn.com
 ||teen-girl.net
@@ -19227,6 +19262,8 @@
 ||umagazine.com.hk
 ||umass.edu
 ||umbrella.com
+||umsoplaneta.com
+||umsoplaneta.com.br
 ||un.org
 ||unbrandedproducts.com
 ||uncams.com
@@ -19344,6 +19381,10 @@
 ||vaginapics.pro
 ||vagrantcloud.com
 ||vagrantup.com
+||valor.com.br
+||valoreconomico.com.br
+||valorinveste.com
+||valorinveste.com.br
 ||valoryirene.com
 ||value-domain.com
 ||value-server.com
@@ -20956,6 +20997,7 @@
 ||xu97.vip
 ||xuite.net
 ||xujan.com
+||xuxaverso.com.br
 ||xv-ru.com
 ||xv1.monster
 ||xvds.tv
