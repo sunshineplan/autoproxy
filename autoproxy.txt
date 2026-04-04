@@ -6948,6 +6948,7 @@
 ||esetsoftware.com
 ||eskimotube.com
 ||esm.run
+||esm.sh
 ||esmarthealth.com
 ||esmatube.com
 ||esopworld.com
@@ -15492,6 +15493,7 @@
 ||pjful-app.lol
 ||pjgirls.com
 ||pjsekai.sega.jp
+||pkgbuild.com
 ||pki-post.ch
 ||pki-posta.ch
 ||pki-poste.ch
@@ -22123,6 +22125,8 @@
 |https://widgets.stripst.com
 |http://wrds-www.wharton.upenn.edu
 |https://wrds-www.wharton.upenn.edu
+|http://ws.audioscrobbler.com
+|https://ws.audioscrobbler.com
 |http://yandex-pogoda.static-storage.net
 |https://yandex-pogoda.static-storage.net
 |http://yangzhi.app
