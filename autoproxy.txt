@@ -681,6 +681,7 @@
 ||adguard.io
 ||adguard.org
 ||adguardaccount.com
+||adguardcdn.com
 ||adguardvpn.com
 ||adhelpnews.com
 ||adidas-archive.org
