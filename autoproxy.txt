@@ -946,6 +946,7 @@
 ||agefans.com
 ||agemys.org
 ||agendaweek.com
+||agentclientprotocol.com
 ||agilebits.com
 ||agrd.eu
 ||agrd.io
@@ -15818,6 +15819,7 @@
 ||placesdocs.com
 ||planetminecraft.com
 ||planetsuzy.org
+||plannotator.ai
 ||plansondemand.com
 ||plantsvszombies2.com
 ||plasticlabs.com
@@ -19650,6 +19652,7 @@
 ||twistys.com
 ||twitch.tv
 ||twitchcdn.net
+||twitchcon.com
 ||twitchsvc.net
 ||twitcomike.jp
 ||twitpic.com
