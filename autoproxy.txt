@@ -1648,6 +1648,7 @@
 ||anypornsexxx.com
 ||anysex.com
 ||anyshemale.com
+||anythingllm.com
 ||anyxxx.me
 ||anyxxx.pro
 ||ao3.org
@@ -4359,6 +4360,7 @@
 ||calgoncarbon-china.com
 ||calgoncarbon.com
 ||calgonit.com
+||calibre-ebook.com
 ||callabitch.org
 ||callbackkiller.com
 ||callersbane.com
@@ -5207,7 +5209,6 @@
 ||coova.com
 ||coova.net
 ||coova.org
-||copilot-telemetry.githubusercontent.com
 ||copro.pw
 ||copy-manga.com
 ||copy20.com
@@ -10337,6 +10338,7 @@
 ||ibooksauthor.com
 ||ibradome.com
 ||icashpassport.com.mx
+||iccf.com
 ||icegay.tv
 ||icegaytube.tv
 ||iceporn.com
@@ -15097,6 +15099,7 @@
 ||onani-daisuki.com
 ||onbeatsbydresale.com
 ||oncars.in
+||ondigitalocean.com
 ||one.one.one
 ||one889.app
 ||oneapi.com
@@ -15198,6 +15201,7 @@
 ||opensource.guide
 ||opensourceinsight.dev
 ||opensourceinsights.dev
+||openspec.dev
 ||openssl.org
 ||openstreetmap.com
 ||openstreetmap.net
@@ -18733,6 +18737,7 @@
 ||supplybestjerseys.com
 ||support-uber.com
 ||supportfacebook.com
+||supr.cl
 ||supremacy.com
 ||supremacy.net
 ||sureporn.com
@@ -19728,6 +19733,8 @@
 ||twidouga.net
 ||twidouga.tv
 ||twifuli.com
+||twilio.com
+||twilio.jp
 ||twimg.com
 ||twinkboyfriends.tv
 ||twinkspornos.com
@@ -19780,6 +19787,7 @@
 ||typography.com
 ||tyre-cadcam.com
 ||tyrecadcam.com
+||tytch.com
 ||tytng189.com
 ||tytporno.online
 ||u.nu
@@ -19938,7 +19946,9 @@
 ||userapi.ru
 ||usercentrics.eu
 ||usercontent.dev
+||userdrive.org
 ||userpxt.io
+||usersdrive.com
 ||usertrust.com
 ||usvimosquito.com
 ||usvimosquitoproject.com
@@ -22859,6 +22869,10 @@
 |https://clck.yango.com
 |http://click.rustore.ru
 |https://click.rustore.ru
+|http://copilot-telemetry-service.githubusercontent.com
+|https://copilot-telemetry-service.githubusercontent.com
+|http://copilot-telemetry.githubusercontent.com
+|https://copilot-telemetry.githubusercontent.com
 |http://crl.versign.net
 |https://crl.versign.net
 |http://databank.worldbank.org
@@ -23290,6 +23304,5 @@
 /^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$/
 /^epicgames-download\d\.akamaized\.net$/
 /^ewcdn[0-9]+\.nowe\.com$/
-/^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$/
 /^hses[1-7]?\.akamaized\.net$/
 /javdb\d+\.com$/
