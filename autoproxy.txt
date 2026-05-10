@@ -8628,6 +8628,7 @@
 ||gettyimages.pt
 ||gettyimages.se
 ||getws1.com
+||getwsj.com
 ||getwsone.com
 ||getzola.org
 ||gfacecbook.com
@@ -11434,6 +11435,7 @@
 ||javdove.com
 ||javdove8.xyz
 ||javextreme.net
+||javfc2.xyz
 ||javfilms.com
 ||javfor.me
 ||javforme.ninja
