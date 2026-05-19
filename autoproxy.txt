@@ -1210,6 +1210,7 @@
 ||alefbank.com
 ||alexa.com
 ||alexanderstreet.com
+||alfa.me
 ||alfabank.oavdo.amc
 ||alfabank.ru
 ||alfabank.st
@@ -14167,6 +14168,7 @@
 ||mysocialworklab.com
 ||mysql.com
 ||mystrikingly.com
+||myteamspeak.com
 ||myteenwebcam.com
 ||mythicentertainment.com
 ||mythicentertainment.net
@@ -19054,6 +19056,8 @@
 ||teachmyass.com
 ||teamneedforspeed.com
 ||teamskeet.com
+||teamspeak-services.com
+||teamspeak.com
 ||teamviewer.com
 ||teamviewer.us
 ||tearapeak.com
@@ -22711,6 +22715,7 @@
 ||zhainanjidi.xyz
 ||zhainanjidid.top
 ||zhangboz1.xyz
+||zhangzhehan.net
 ||zhengjian.org
 ||zhengwunet.org
 ||zhenxiang.biz
