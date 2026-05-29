@@ -2093,6 +2093,7 @@
 ||arcraiders.com
 ||area120.com
 ||area51.to
+||arena.ai
 ||arewereadyyet.com
 ||areyoucreditwise.com
 ||argo-bdp.com
@@ -22884,6 +22885,8 @@
 |https://adobeereg.com
 |http://ads-gate.wildberries.ru
 |https://ads-gate.wildberries.ru
+|http://ads-img.mozilla.org
+|https://ads-img.mozilla.org
 |http://ads-integration.rustore.ru
 |https://ads-integration.rustore.ru
 |http://ads-media.wildberries.ru
@@ -22892,6 +22895,8 @@
 |https://ads.dahlmessenger.com
 |http://ads.icq.com
 |https://ads.icq.com
+|http://ads.mozilla.org
+|https://ads.mozilla.org
 |http://ads.rustore.ru
 |https://ads.rustore.ru
 |http://ads.vk.com
@@ -23086,6 +23091,10 @@
 |https://i.jeded.com
 |http://imperial.insendi.com
 |https://imperial.insendi.com
+|http://incoming-telemetry.thunderbird.net
+|https://incoming-telemetry.thunderbird.net
+|http://incoming.telemetry.mozilla.org
+|https://incoming.telemetry.mozilla.org
 |http://informer.yandex.ru
 |https://informer.yandex.ru
 |http://ingest.apple-studies.com
