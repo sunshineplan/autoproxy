@@ -4971,6 +4971,7 @@
 ||claude.ai
 ||claude.com
 ||claudemcpclient.com
+||claudemcpcontent.com
 ||claudeusercontent.com
 ||clawhub.ai
 ||clck.ru
@@ -23292,6 +23293,8 @@
 |https://link.theplatform.com
 |http://live-patreon-marketing.pantheonsite.io
 |https://live-patreon-marketing.pantheonsite.io
+|http://log.strm.yandex.ru
+|https://log.strm.yandex.ru
 |http://loyalnost-adv.ozon.ru
 |https://loyalnost-adv.ozon.ru
 |http://marketing-info.wildberries.ru
@@ -23456,6 +23459,8 @@
 |https://srch-telemeter10.g.smailru.net
 |http://stacks.vk-portal.net
 |https://stacks.vk-portal.net
+|http://stats.avito.ru
+|https://stats.avito.ru
 |http://stats.dahlmessenger.com
 |https://stats.dahlmessenger.com
 |http://stats.dev.telega.info
