@@ -23464,6 +23464,8 @@
 |https://github-api.arkoselabs.com
 |http://gitlab-assets.oss-cn-hongkong.aliyuncs.com
 |https://gitlab-assets.oss-cn-hongkong.aliyuncs.com
+|http://gog-cdn-lumen.secure2.footprint.net
+|https://gog-cdn-lumen.secure2.footprint.net
 |http://google-analytics-suite.ozon.ru
 |https://google-analytics-suite.ozon.ru
 |http://holoxx.f5.si
