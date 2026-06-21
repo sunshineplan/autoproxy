@@ -1581,7 +1581,7 @@
 ||analytics-alv.google.com
 ||analytics.cloud.unity3d.com
 ||analytics.facebook.com
-||analytics.tiktok.com:@!cn,@ads
+||analytics.tiktok.com
 ||analytics.vk.com
 ||analytics.vpc.duolingo.com
 ||analytictech.com
@@ -4204,6 +4204,7 @@
 ||bronto.com
 ||brotli.org
 ||brourou.com
+||browser.events.data.msn.cn
 ||browser.events.data.msn.com
 ||browser.kagi.com
 ||browser.run
@@ -9011,8 +9012,10 @@
 ||gofucker.com
 ||gofuckmenow.com
 ||gofundme.com
+||gog-services.com
 ||gog-statics.com
 ||gog.com
+||gogalaxy.com
 ||gogettaxi.org
 ||gogle.com
 ||gogo-load.com
@@ -10975,6 +10978,7 @@
 ||insiderintelligence.com
 ||insidevoa.com
 ||insight.tech
+||insights-collector.gog.com
 ||instaadder.com
 ||instabang.com
 ||instachecker.com
