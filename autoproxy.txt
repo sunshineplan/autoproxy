@@ -1315,6 +1315,7 @@
 ||allspyclips.com
 ||allswingersclubs.org
 ||allthefallen.moe
+||almalinux.org
 ||alohatube.com
 ||alotporn.com
 ||alphabet.asia
@@ -4308,6 +4309,7 @@
 ||bustynudebabes.com
 ||bustyoldsluts.com
 ||bustysammieblack.com
+||busybox.net
 ||buy-from-shanghai.com
 ||buyaapl.com
 ||buyaapl.net
@@ -7291,6 +7293,7 @@
 ||exoav.com
 ||exotic-ghana.com
 ||exoticuganda.com
+||exp-tas.com
 ||experience-vmware.com
 ||experiencebillmelater.com
 ||expertmaker.com
@@ -8878,6 +8881,7 @@
 ||gitgud.io
 ||github.ai
 ||github.blog
+||github.career
 ||github.com
 ||github.community
 ||github.dev
@@ -12447,6 +12451,7 @@
 ||licensebuttons.net
 ||licenseparser.com
 ||life-global.org
+||lifeatspotify.com
 ||lifeselector.com
 ||lifestyle-tec.ru
 ||lifewire.com
@@ -12895,6 +12900,7 @@
 ||manhwa24h.com
 ||manhwahentai.me
 ||maniakey.homes
+||manjaro.org
 ||manorama.com
 ||manoramanews.com
 ||manoramaonline.com
@@ -17470,6 +17476,7 @@
 ||rocksextube.com
 ||rockstargames.com
 ||rockstarnorth.com
+||rockylinux.org
 ||roku.com
 ||rokutime.com
 ||rolfoundation.org
@@ -18830,6 +18837,7 @@
 ||spotifycharts.com
 ||spotifycodes.com
 ||spotifyforbrands.com
+||spotifyforvendors.com
 ||spotifyjobs.com
 ||spraynwash.com
 ||spreadprivacy.com
@@ -21343,7 +21351,10 @@
 ||vscale.ru
 ||vscode-cdn.net
 ||vscode-unpkg.net
+||vscode-webview.net
 ||vscode.dev
+||vscodeedu.app
+||vscodeedu.com
 ||vsemrabota.ru
 ||vsex.in
 ||vsezoo.com
@@ -23444,8 +23455,6 @@
 |https://databank.worldbank.org
 |http://datarouter.apps.netherrealm.com
 |https://datarouter.apps.netherrealm.com
-|http://default.exp-tas.com
-|https://default.exp-tas.com
 |http://deribit.cdn.prismic.io
 |https://deribit.cdn.prismic.io
 |http://deutschewelle.h-cdn.com
