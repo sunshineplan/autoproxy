@@ -5290,6 +5290,7 @@
 ||coova.com
 ||coova.net
 ||coova.org
+||copilot.com
 ||copro.pw
 ||copy-manga.com
 ||copy20.com
@@ -23581,6 +23582,8 @@
 |https://o4504926511693824.ingest.sentry.io
 |http://ood.opsource.net
 |https://ood.opsource.net
+|http://openai.qualtrics.com
+|https://openai.qualtrics.com
 |http://p16-tiktokcdn-com.akamaized.net:@!cn
 |https://p16-tiktokcdn-com.akamaized.net:@!cn
 |http://pixel.rustore.ru
