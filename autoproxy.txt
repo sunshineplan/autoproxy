@@ -1215,7 +1215,6 @@
 ||alexa.com
 ||alexanderstreet.com
 ||alfa.me
-||alfabank.oavdo.amc
 ||alfabank.ru
 ||alfabank.st
 ||alfadirect.ru
@@ -4767,6 +4766,7 @@
 ||chatango.com
 ||chatgpt.com
 ||chatgpt.livekit.cloud
+||chatgpt.site
 ||chatgptvideo.xyz
 ||chatgptvideob.buzz
 ||chatsex.xxx
@@ -9073,7 +9073,6 @@
 ||gonike.com
 ||gonzo-movies.com
 ||gonzo.com
-||goo
 ||goo.gl
 ||gooblox.com
 ||good-apps.jp
@@ -11071,7 +11070,6 @@
 ||intagrm.com
 ||intc.com
 ||integral7.com
-||intel
 ||intel-research.net
 ||intel-university-collaboration.net
 ||intel.ac
@@ -12138,6 +12136,7 @@
 ||khangar.net
 ||khotruyentranhx.com
 ||kichikuou.com
+||kick.com
 ||kickporn.com
 ||kickshatchannel.com
 ||kicksnike1.com
@@ -12250,7 +12249,6 @@
 ||konachan.com
 ||konachan.net
 ||konachan.wjcodes.com
-||konami
 ||konami-igaming.online
 ||konami.co.jp
 ||konami.com
@@ -23617,14 +23615,6 @@
 |https://pixel.rustore.ru
 |http://pixel.yandex.com
 |https://pixel.yandex.com
-|http://practivate.adobe
-|https://practivate.adobe
-|http://practivate.adobe.ipp
-|https://practivate.adobe.ipp
-|http://practivate.adobe.newoa
-|https://practivate.adobe.newoa
-|http://practivate.adobe.ntp
-|https://practivate.adobe.ntp
 |http://prodvizhenie-adv.ozon.ru
 |https://prodvizhenie-adv.ozon.ru
 |http://public-us-pingsx.api.clonoth.com
