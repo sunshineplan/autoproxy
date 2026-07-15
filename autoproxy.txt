@@ -2626,6 +2626,7 @@
 ||azuredns-prd.org
 ||azureedge-test.net
 ||azureedge.net
+||azureedge.us
 ||azurefd.net
 ||azureiotcentral.com
 ||azureiotsolutions.com
@@ -5299,6 +5300,7 @@
 ||coova.com
 ||coova.net
 ||coova.org
+||copilot-stg.com
 ||copilot.com
 ||copro.pw
 ||copy-manga.com
@@ -13348,6 +13350,7 @@
 ||mgo.com
 ||mhcb.ru
 ||mhcbr.ru
+||mhgui.com
 ||mhhanman.xyz
 ||mhqwe.xyz
 ||mhradio.org
@@ -19040,6 +19043,7 @@
 ||starfox.com
 ||stargazer-games.com
 ||stark-verlag.ch
+||starlink.com
 ||starott.com
 ||starp2p.com
 ||starplus.com
@@ -23749,8 +23753,6 @@
 |https://t.mail.ru
 |http://target.vk.com
 |https://target.vk.com
-|http://tesla-cdn.thron.com
-|https://tesla-cdn.thron.com
 |http://top-staging.mail.ru
 |https://top-staging.mail.ru
 |http://tracing-http.megamarket.tech
