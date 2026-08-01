@@ -651,6 +651,7 @@
 ||acs.org
 ||actalis.com
 ||actalis.it
+||actifio.com
 ||activelearnprimary.co.uk
 ||activelearnprimary.com.au
 ||activematter.game
@@ -1706,6 +1707,7 @@
 ||apornotube.net
 ||aporntv.com
 ||apornvideo.com
+||app-ads-services.com
 ||app-analytics-services-att.com
 ||app-analytics-services.com
 ||app-dynamics.com
@@ -11811,7 +11813,10 @@
 ||jetbrains.ai
 ||jetbrains.cloud
 ||jetbrains.com
+||jetbrains.dev
 ||jetbrains.net
+||jetbrains.org
+||jetbrains.ru
 ||jetbrains.space
 ||jetbrains.team
 ||jetfuelapp.com
@@ -12297,6 +12302,8 @@
 ||korona.com
 ||koshelek.app
 ||kostenlosepornoclips.com
+||kotl.in
+||kotlinconf.com
 ||kotlinlang.org
 ||koubaibu.jp
 ||koukoku.jp
@@ -12320,6 +12327,7 @@
 ||ksescortclub.com
 ||ksyp10.com
 ||ktech.team
+||ktor.io
 ||ktvu.com
 ||ku77.xyz
 ||kuaimao-app.com
@@ -14410,6 +14418,7 @@
 ||myhulu.com
 ||myicloud.net
 ||myipod.net
+||myjetbrains.com
 ||myjkwd.com
 ||mylcloud.net
 ||mylf.com
@@ -15622,6 +15631,7 @@
 ||openweathermap.org
 ||openweave.io
 ||openwrt.org
+||openxla.org
 ||opera.com
 ||opinionjournal.com
 ||oppai-doga.info
@@ -19457,6 +19467,7 @@
 ||talantix.ru
 ||talentlens.com
 ||taleofthenight.com
+||talkingkotlin.com
 ||talksport.com
 ||tamilsexvideos.cc
 ||tampermonkey.net
