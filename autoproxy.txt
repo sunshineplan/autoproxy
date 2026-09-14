@@ -19339,6 +19339,9 @@
 ||stripchat.com
 ||stripe-terminal-local-reader.net
 ||stripe.com
+||stripe.dev
+||stripe.events
+||stripe.global
 ||stripe.network
 ||stripecdn.com
 ||stripparadise.com
@@ -23811,6 +23814,8 @@
 |https://ood.opsource.net
 |http://openai.qualtrics.com
 |https://openai.qualtrics.com
+|http://p16-tiktok-dm-sticker-sign-sg.ibyteimg.com:@!cn
+|https://p16-tiktok-dm-sticker-sign-sg.ibyteimg.com:@!cn
 |http://p16-tiktokcdn-com.akamaized.net:@!cn
 |https://p16-tiktokcdn-com.akamaized.net:@!cn
 |http://pixel.rustore.ru
