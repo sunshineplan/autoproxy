@@ -4432,6 +4432,7 @@
 ||cadmep.com
 ||cadoverlay.com
 ||cadren.com
+||cafe.github.com:@telemetry
 ||cafr.ca
 ||cai21.xyz
 ||caice.com
@@ -5247,7 +5248,7 @@
 ||collection-3d.com
 ||collectionofbestporn.com
 ||collective99.com
-||collector.github.com
+||collector.github.com:@telemetry
 ||collector.xhamster.com
 ||colleee.net
 ||collegejournal.com
@@ -9489,8 +9490,6 @@
 ||graph-fallback.instagram.com
 ||graph.instagram.com
 ||graph.org
-||graph.whatsapp.com
-||graph.whatsapp.net
 ||grapheneos.app
 ||grapheneos.ca
 ||grapheneos.com
@@ -23707,10 +23706,10 @@
 |https://clck.yango.com
 |http://click.rustore.ru
 |https://click.rustore.ru
-|http://copilot-telemetry-service.githubusercontent.com
-|https://copilot-telemetry-service.githubusercontent.com
-|http://copilot-telemetry.githubusercontent.com
-|https://copilot-telemetry.githubusercontent.com
+|http://copilot-telemetry-service.githubusercontent.com:@telemetry
+|https://copilot-telemetry-service.githubusercontent.com:@telemetry
+|http://copilot-telemetry.githubusercontent.com:@telemetry
+|https://copilot-telemetry.githubusercontent.com:@telemetry
 |http://crl.versign.net
 |https://crl.versign.net
 |http://databank.worldbank.org
@@ -23755,10 +23754,10 @@
 |https://i.jeded.com
 |http://imperial.insendi.com
 |https://imperial.insendi.com
-|http://incoming-telemetry.thunderbird.net
-|https://incoming-telemetry.thunderbird.net
-|http://incoming.telemetry.mozilla.org
-|https://incoming.telemetry.mozilla.org
+|http://incoming-telemetry.thunderbird.net:@telemetry
+|https://incoming-telemetry.thunderbird.net:@telemetry
+|http://incoming.telemetry.mozilla.org:@telemetry
+|https://incoming.telemetry.mozilla.org:@telemetry
 |http://informer.yandex.ru
 |https://informer.yandex.ru
 |http://licdn.cn.cdn20.com
