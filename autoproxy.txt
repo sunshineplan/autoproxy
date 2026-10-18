@@ -2215,7 +2215,6 @@
 ||asmr.gay
 ||asmrbuluo.com
 ||asn-online.org
-||asobostudio.com
 ||asp-cc.com
 ||asp.net
 ||aspbjournals.org
@@ -3141,8 +3140,15 @@
 ||beforeigners.com
 ||befuck.com
 ||befuck.net
+||beget.app
+||beget.cloud
 ||beget.com
+||beget.de
+||beget.hosting
+||beget.pro
 ||beget.ru
+||beget.tech
+||begetcdn.cloud
 ||begin-trade.com
 ||behance.net
 ||behindthescreenz.com
@@ -3168,6 +3174,7 @@
 ||berkeley.edu
 ||berlincompanions.com
 ||beru.ru
+||beserver.ru
 ||best-sex-games.com
 ||best2pay.net
 ||best4bim.com
@@ -3262,6 +3269,7 @@
 ||bfa.ru
 ||bfads.net
 ||bffshd.com
+||bget.ru
 ||bgicdn.com
 ||bgm.tv
 ||bgov.com
@@ -8131,7 +8139,6 @@
 ||flickr
 ||flickr.com
 ||flickr.net
-||flightsimulator.com
 ||flipfap.com
 ||flipnotestudio.com
 ||flipshare.com
@@ -17185,6 +17192,7 @@
 ||pussyspace.net
 ||putinho.net
 ||putty.org
+||pv-cdn.net
 ||pvp.net
 ||pvp.tv
 ||pvt.sexy
@@ -19125,6 +19133,7 @@
 ||springerlink.com
 ||springernature.com
 ||sprinklesapp.com
+||sprut.io
 ||sptvbroadcast.com
 ||sputnikglobe.com
 ||sputnikimages.com
@@ -22478,6 +22487,7 @@
 ||xn--90ab.com
 ||xn--90ab2c.xn--p1ai
 ||xn--90absjljw3g.xn--p1ai
+||xn--90aefb9d.xn--p1ai
 ||xn--90aifd0az.shop
 ||xn--90aifd0azb.xn--p1acf
 ||xn--90wwvt03e.com
