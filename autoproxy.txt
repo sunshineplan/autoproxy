@@ -683,6 +683,7 @@
 ||addthiscdn.com
 ||addthisedge.com
 ||addtoany.com
+||addtodropbox.com
 ||adelaidenow.com.au
 ||adfox.ru
 ||adfox.yandex.ru
@@ -5699,6 +5700,7 @@
 ||darwinsource.org
 ||darwinsourcecode.com
 ||dasaob.online
+||dash.ai
 ||dashlane.com
 ||dashly.app
 ||dashly.help
@@ -6405,6 +6407,7 @@
 ||docs.new
 ||docs.rs
 ||docs.rw
+||docsend.com
 ||doctor-videos.com
 ||documentforce.com
 ||dodgersexcartoons.com
@@ -6576,12 +6579,15 @@
 ||dropboxapi.com
 ||dropboxbusiness.com
 ||dropboxcaptcha.com
+||dropboxexperiment.com
 ||dropboxforum.com
 ||dropboxforums.com
 ||dropboxinsiders.com
+||dropboxlegal.com
 ||dropboxmail.com
 ||dropboxpartners.com
 ||dropboxstatic.com
+||dropboxteam.com
 ||dropboxusercontent.com
 ||drpc.org
 ||drtuber.com
@@ -9915,8 +9921,10 @@
 ||heise360182.buzz
 ||helixstudios.net
 ||helloavgirls.com
+||hellofax.com
 ||hellokittybeats.com
 ||hellomoto.com
+||hellosign.com
 ||hellosmartbook.com
 ||hellporno.com
 ||hellven.net
