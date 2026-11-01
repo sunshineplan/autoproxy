@@ -3647,6 +3647,7 @@
 ||bmia.org
 ||bmj.com
 ||bml.info
+||bmonkeys.net
 ||bmw
 ||bmw-abudhabi.com
 ||bmw-adventskalender.com
@@ -4067,6 +4068,7 @@
 ||bokep.net
 ||bokepseks.org
 ||bokepvidz.com
+||boldgrid.com
 ||bollywoodlife.com
 ||boltdns.net
 ||bondagecomixxx.net
@@ -5202,6 +5204,7 @@
 ||cloudproxy.app
 ||cloudrobotics.com
 ||cloudvolumes.com
+||cloudwp.dev
 ||cloudyzgirl.com
 ||cloupia.com
 ||cloupia.net
@@ -19414,6 +19417,7 @@
 ||steaminventoryhelper.com
 ||steamofporn.com
 ||steamos.cloud
+||steampeek.hu
 ||steampowered.com
 ||steamserver.net
 ||steamstatic.com
@@ -21536,6 +21540,7 @@
 ||vodafone.de
 ||vodafone.it
 ||vodafone.nl
+||vodafoneziggo.nl
 ||vokevr.com
 ||vol.moe
 ||volvo
@@ -21936,7 +21941,9 @@
 ||webex.de
 ||webex.es
 ||webex.fr
+||webflow-ext.com
 ||webflow.com
+||webflow.io
 ||webgata.net
 ||webgirlsonline.net
 ||webhosting.com
@@ -21957,6 +21964,7 @@
 ||webpass.net
 ||webpkgcache.com
 ||webrtc.org
+||website-files.com
 ||webtoons.com
 ||webtoonscorp.com
 ||webtype.com
@@ -23584,6 +23592,7 @@
 ||zhuichaguoji.org
 ||zhuzhushipin-app.com
 ||zibacity.com
+||ziggo.nl
 ||ziglang.org
 ||zigzag.kr
 ||zind.cloud
