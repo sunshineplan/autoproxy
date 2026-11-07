@@ -9627,6 +9627,7 @@
 ||greginhollywood.com
 ||gridaware.app
 ||grok.com
+||grokbot.com
 ||grokipedia.com
 ||grooby.com
 ||groq.com
@@ -23933,6 +23934,8 @@
 |https://holoxx.f5.si
 |http://hpstore.corpmerchandise.com
 |https://hpstore.corpmerchandise.com
+|http://http-intake.logs.us5.datadoghq.com:@telemetry
+|https://http-intake.logs.us5.datadoghq.com:@telemetry
 |http://hub.slarker.me
 |https://hub.slarker.me
 |http://i.jeded.com
@@ -24005,6 +24008,8 @@
 |https://ntppool1.time.nl
 |http://ntppool2.time.nl
 |https://ntppool2.time.nl
+|http://o1158394.ingest.us.sentry.io:@telemetry
+|https://o1158394.ingest.us.sentry.io:@telemetry
 |http://o33249.ingest.sentry.io,@telemetry
 |https://o33249.ingest.sentry.io,@telemetry
 |http://o33249.ingest.us.sentry.io,@telemetry
