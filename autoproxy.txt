@@ -5783,6 +5783,7 @@
 ||deasians.com
 ||debank.com
 ||debian.org
+||debot.ai
 ||debug.com
 ||debugproject.com
 ||decentr.net
@@ -17684,6 +17685,7 @@
 ||relap.mail.ru
 ||relateiq.com
 ||remirepo.net
+||remna.dev
 ||remna.st
 ||rencapbank.ru
 ||renchead.com
