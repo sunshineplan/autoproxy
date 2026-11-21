@@ -354,6 +354,7 @@
 ||51lieqi.com
 ||51luoli.info
 ||51mh.app
+||51papaya.com
 ||51pincha.cc
 ||51tuqiang.com
 ||520aa.tv
@@ -4171,6 +4172,7 @@
 ||bravoteens.com
 ||bravotube.net
 ||bravotube.tv
+||bravotv.com
 ||brawlstars.com
 ||brawlstarsgame.com
 ||brazilpartneruniversity.com
@@ -5194,6 +5196,7 @@
 ||cmu.edu
 ||cna.com.tw
 ||cnbc.com
+||cnbccouncils.com
 ||cnbcfm.com
 ||cnbeta.com
 ||cnbeta.com.tw
@@ -7795,6 +7798,7 @@
 ||fantom.foundation
 ||fantom.network
 ||fantv.hk
+||fanza.jp
 ||fap-xxx.com
 ||fap18.net
 ||fap666.com
@@ -8192,6 +8196,7 @@
 ||fnlondon.com
 ||fnmt.es
 ||foampositeshoes.com
+||focusfeatures.com
 ||foftolia.com
 ||follasian.com
 ||followpype.com
@@ -9764,6 +9769,7 @@
 ||hayabusa.media
 ||hayday.com
 ||haydaygame.com
+||hayu.com
 ||hayya.ae
 ||hbabit.com
 ||hbfile.net
@@ -10152,6 +10158,7 @@
 ||hkopentv.com
 ||hkporn.net
 ||hkreadingcity.net
+||hkt
 ||hkt-enterprise.com
 ||hkt-eye.com
 ||hkt.com
@@ -10985,6 +10992,7 @@
 ||ilife.gr
 ||ilife.wang
 ||illgames.jp
+||illumination.com
 ||illusion111.com
 ||illusionas.com
 ||illusionchn.com
@@ -14354,7 +14362,6 @@
 ||msk.kitazawa.me
 ||msn.com
 ||msn.net
-||msnbc.com
 ||msnewskids.com
 ||msnewskids.net
 ||msnewskids.org
@@ -14712,8 +14719,11 @@
 ||nbcolympics.com
 ||nbcsports.com
 ||nbcudigitaladops.com
+||nbcumv.com
 ||nbcuni.com
+||nbcunicareers.com
 ||nbcuniversal.com
+||nbcuniversalprivacy.com
 ||nbdh15.buzz
 ||nbys.tv
 ||nbys1.tv
@@ -16192,6 +16202,7 @@
 ||pbs.org
 ||pc.com
 ||pca.st
+||pccw
 ||pccw.com
 ||pccwglobal.com
 ||pccwsolutions.com
@@ -17608,6 +17619,7 @@
 ||rentaride.de
 ||renzhe.cloud
 ||repe21.com
+||replit.com
 ||repo.new
 ||report-megafon.ru
 ||repotama.com
@@ -19776,6 +19788,7 @@
 ||telekom.com
 ||telekom.de
 ||telemetry.microsoft.com:@telemetry
+||telemundo.com
 ||telerik.com
 ||telesco.pe
 ||telesec.de
@@ -20230,6 +20243,7 @@
 ||torproject.org
 ||torrentkitty.tv
 ||torrindex.net
+||tortoisegit.org
 ||tospo-keiba.jp
 ||tospotify.com
 ||totalmateria.com
@@ -20616,6 +20630,7 @@
 ||udndata.com
 ||udnfunlife.com
 ||udtrucksmeena.com
+||udxfpp.com
 ||ueberamazon.de
 ||uflash.tv
 ||uguide.ru
@@ -20675,11 +20690,18 @@
 ||unity.com
 ||unity3d.com
 ||unityads.unity3d.com
+||universalbeijingresort.com
+||universalhorrorunleashed.com
+||universalkidsresort.com
 ||universalorlando.com
+||universalpictures.co.uk
 ||universalpictures.com
+||universalpicturesathome.com
 ||universalpicturesinternational.com
+||universalproductsexperiences.com
 ||universalscalablefirmware.org
 ||universalstudioshollywood.com
+||universalukproject.co.uk
 ||universitypressscholarship.com
 ||unkoscene.com
 ||unlocklimitlesslearning.com
@@ -20698,6 +20720,7 @@
 ||updatetube.com
 ||upfrontcfd.com
 ||upfrontfea.com
+||uphe.com
 ||upholdjustice.org
 ||upjav.cc
 ||uplay-istrip.com
@@ -20735,6 +20758,7 @@
 ||userpxt.io
 ||usersdrive.com
 ||usertrust.com
+||usj.co.jp
 ||usocial.pro
 ||usvimosquito.com
 ||usvimosquitoproject.com
