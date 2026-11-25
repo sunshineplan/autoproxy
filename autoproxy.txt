@@ -4445,6 +4445,7 @@
 ||cableav.xyz
 ||cabletv.com.hk
 ||cabletvdirectv.com
+||cachix.org
 ||cad-mep.com
 ||cadcamsystemsinc.com
 ||cadduct.com
@@ -7852,10 +7853,12 @@
 ||fastlane.ci
 ||fastlane.tools
 ||fastly-edge.com
+||fastly-insights.com
 ||fastly-terrarium.com
 ||fastly.com
 ||fastly.io
 ||fastly.net
+||fastlydns.net
 ||fastlylabs.com
 ||fastlylb.net
 ||faststone.org
@@ -21323,6 +21326,7 @@
 ||viu.tv
 ||vivaldi.com
 ||vivaxnxx.com
+||vivox.com
 ||vixen.com
 ||vixengroup.com
 ||vixvids.to
@@ -23791,6 +23795,8 @@
 |https://copilot-telemetry-service.githubusercontent.com:@telemetry
 |http://copilot-telemetry.githubusercontent.com:@telemetry
 |https://copilot-telemetry.githubusercontent.com:@telemetry
+|http://courses.myecnu.org
+|https://courses.myecnu.org
 |http://crashlyticsreports-pa.googleapis.com:@cn,@telemetry
 |https://crashlyticsreports-pa.googleapis.com:@cn,@telemetry
 |http://crl.versign.net
