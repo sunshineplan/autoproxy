@@ -7914,6 +7914,7 @@
 ||fc2ppv.tv
 ||fcacebook.com
 ||fcaebook.com
+||fce.gg
 ||fcebook.com
 ||fcebookk.com
 ||fcfacebook.com
@@ -23764,6 +23765,8 @@
 |https://api.mindbox.cloud
 |http://api.mindbox.ru
 |https://api.mindbox.ru
+|http://aurora-customization-usw2.lithium.com
+|https://aurora-customization-usw2.lithium.com
 |http://b2.mail.ru
 |https://b2.mail.ru
 |http://bbs.boingboing.net
